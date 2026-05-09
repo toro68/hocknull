@@ -1,6 +1,6 @@
 {
   "tittel": "Craig Hocknull læringsbibliotek",
-  "antall_videoer": 73,
+  "antall_videoer": 87,
   "videoer": [
     {
       "video_id": "-06AGEMywLQ",
@@ -1113,6 +1113,123 @@
       "data_fil": "videos/8xXG8HYx_jM.json"
     },
     {
+      "video_id": "8ztjhm5T8f4",
+      "url": "https://www.youtube.com/watch?v=8ztjhm5T8f4",
+      "video_lenke": "https://www.youtube.com/watch?v=8ztjhm5T8f4",
+      "title": "Heavy Video Drill - Natural Side Full Swing",
+      "temaer": [
+        "trening",
+        "kropp",
+        "baksvingen"
+      ],
+      "kort_sammendrag": "Craig viser en treningsøvelse med tung sabre/redskap fra naturlig side (høyre side for høyrehendte) for å bygge styrke, fleksibilitet og god form i svingen.",
+      "antall_punkter": 4,
+      "data_fil": "videos/8ztjhm5T8f4.json"
+    },
+    {
+      "video_id": "90M_XscuT3U",
+      "url": "https://www.youtube.com/watch?v=90M_XscuT3U",
+      "video_lenke": "https://www.youtube.com/watch?v=90M_XscuT3U",
+      "title": "Over Shoulders styrkeøvelse",
+      "temaer": [
+        "trening",
+        "release",
+        "kropp",
+        "kolleflate"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer styrkeøvelsen 'Over Shoulders' med en saber-trener for å bygge en komplett follow-through hvor armene folder seg riktig over skulderen.",
+      "antall_punkter": 4,
+      "data_fil": "videos/90M_XscuT3U.json"
+    },
+    {
+      "video_id": "9TAWsZnuw0c",
+      "url": "https://www.youtube.com/watch?v=9TAWsZnuw0c",
+      "video_lenke": "https://www.youtube.com/watch?v=9TAWsZnuw0c",
+      "title": "Runde på Desert Forest med samtaler om mentalt spill",
+      "temaer": [
+        "mental",
+        "strategi",
+        "kortspill",
+        "wedge",
+        "putting",
+        "ballflight",
+        "release",
+        "kropp",
+        "pressure"
+      ],
+      "kort_sammendrag": "Craig spiller en runde på Desert Forest med vennen Katie og samtalen handler mest om mentalt spill, perspektiv, tillit og strategiske valg. Det er få konkrete tekniske instruksjoner, men noen nyttige punkter rundt klubbvalg, tillit og kortspill.",
+      "antall_punkter": 10,
+      "data_fil": "videos/9TAWsZnuw0c.json"
+    },
+    {
+      "video_id": "9bY7KHZaRKM",
+      "url": "https://www.youtube.com/watch?v=9bY7KHZaRKM",
+      "video_lenke": "https://www.youtube.com/watch?v=9bY7KHZaRKM",
+      "title": "One-Handed Snap Drill med Saber",
+      "temaer": [
+        "release",
+        "trening",
+        "hoyre-hand",
+        "venstre-hand",
+        "kolleflate"
+      ],
+      "kort_sammendrag": "Craig demonstrerer en enhånds 'snap'-øvelse med Saber-treningsredskap for å lære riktig håndledds-release og tommelposisjon gjennom slaget.",
+      "antall_punkter": 5,
+      "data_fil": "videos/9bY7KHZaRKM.json"
+    },
+    {
+      "video_id": "9kMnw_WBwnI",
+      "url": "https://www.youtube.com/watch?v=9kMnw_WBwnI",
+      "video_lenke": "https://www.youtube.com/watch?v=9kMnw_WBwnI",
+      "title": "Slutt å tynne slagene - bruk saber for fastere kontakt",
+      "temaer": [
+        "kropp",
+        "kortspill",
+        "trening",
+        "venstre-hand",
+        "kolleflate"
+      ],
+      "kort_sammendrag": "Craig forklarer hvorfor spillere tynner eller blader slagene, og viser en saber-øvelse med forward press og halve svinger for å bygge stabilitet og bedre kontakt.",
+      "antall_punkter": 5,
+      "data_fil": "videos/9kMnw_WBwnI.json"
+    },
+    {
+      "video_id": "9s7M4_VO4GU",
+      "url": "https://www.youtube.com/watch?v=9s7M4_VO4GU",
+      "video_lenke": "https://www.youtube.com/watch?v=9s7M4_VO4GU",
+      "title": "Grep, oppsett og symmetrisk sving med saber-trener",
+      "temaer": [
+        "grep",
+        "setup",
+        "kropp",
+        "baksvingen",
+        "release",
+        "trening",
+        "tempo",
+        "hoyre-hand",
+        "fart"
+      ],
+      "kort_sammendrag": "Craig Hocknull går gjennom grep, stance og en symmetrisk sving ved hjelp av en saber-treningskølle, med vekt på stabilitet i føtter og hode samt å skape fart med armene.",
+      "antall_punkter": 11,
+      "data_fil": "videos/9s7M4_VO4GU.json"
+    },
+    {
+      "video_id": "9zxH5CHmXwo",
+      "url": "https://www.youtube.com/watch?v=9zxH5CHmXwo",
+      "video_lenke": "https://www.youtube.com/watch?v=9zxH5CHmXwo",
+      "title": "Hvordan vite om kølla har nok loft til å klarere hindringer",
+      "temaer": [
+        "strategi",
+        "wedge",
+        "kortspill",
+        "bunker",
+        "mental"
+      ],
+      "kort_sammendrag": "Craig Hocknell viser to tips for når du må slå over busker eller en bunkerkant: bruk køllas loft som visuell guide, og hold blikket gjennom hindringen istedenfor å se opp.",
+      "antall_punkter": 3,
+      "data_fil": "videos/9zxH5CHmXwo.json"
+    },
+    {
       "video_id": "A3rkts8Mqbs",
       "url": "https://www.youtube.com/watch?v=A3rkts8Mqbs",
       "video_lenke": "https://www.youtube.com/watch?v=A3rkts8Mqbs&t=1047s",
@@ -1131,6 +1248,67 @@
       "data_fil": "videos/A3rkts8Mqbs.json"
     },
     {
+      "video_id": "A3xqd7eRRao",
+      "url": "https://www.youtube.com/watch?v=A3xqd7eRRao",
+      "video_lenke": "https://www.youtube.com/watch?v=A3xqd7eRRao",
+      "title": "Oppvarming del 2: The Spin",
+      "temaer": [
+        "oppvarming",
+        "kropp",
+        "trening",
+        "tempo"
+      ],
+      "kort_sammendrag": "Craig demonstrerer del to av oppvarmingsrutinen sin, kalt 'the spin', en roterende bevegelse i golfoppstillingen som varmer opp og tøyer hele kroppen.",
+      "antall_punkter": 3,
+      "data_fil": "videos/A3xqd7eRRao.json"
+    },
+    {
+      "video_id": "AE6516QZmHg",
+      "url": "https://www.youtube.com/watch?v=AE6516QZmHg",
+      "video_lenke": "https://www.youtube.com/watch?v=AE6516QZmHg",
+      "title": "Strategi på hull 11 - Glen Wild Golf Club",
+      "temaer": [
+        "strategi",
+        "kortspill",
+        "putting",
+        "bunker"
+      ],
+      "kort_sammendrag": "Craig Hocknull gjennomgår strategi på en utfordrende par-3 på Glen Wild, og forklarer hvordan man identifiserer trygge soner på greenen for å unngå straff og score best mulig.",
+      "antall_punkter": 6,
+      "data_fil": "videos/AE6516QZmHg.json"
+    },
+    {
+      "video_id": "AWTYZRa_xv8",
+      "url": "https://www.youtube.com/watch?v=AWTYZRa_xv8",
+      "video_lenke": "https://www.youtube.com/watch?v=AWTYZRa_xv8",
+      "title": "Pre-shot rutine: full rehearsal og intermediate target",
+      "temaer": [
+        "mental",
+        "strategi",
+        "trening",
+        "hoyre-hand"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan en lengre pre-shot rutine med full prøvesving og visualisering mot et nært mellomliggende mål skaper mer konsistens.",
+      "antall_punkter": 6,
+      "data_fil": "videos/AWTYZRa_xv8.json"
+    },
+    {
+      "video_id": "AXkoc7mWoP4",
+      "url": "https://www.youtube.com/watch?v=AXkoc7mWoP4",
+      "video_lenke": "https://www.youtube.com/watch?v=AXkoc7mWoP4",
+      "title": "Slik slutter du å fete bunkerslag - stabilitet og fart",
+      "temaer": [
+        "bunker",
+        "kropp",
+        "fart",
+        "kortspill",
+        "release"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan du unngår å fete bunkerslag ved å fokusere på to grunnleggende elementer: kroppsstabilitet gjennom hofte- og skulderrotasjon, og fart gjennom håndleddene.",
+      "antall_punkter": 5,
+      "data_fil": "videos/AXkoc7mWoP4.json"
+    },
+    {
       "video_id": "AaspD5iPaYM",
       "url": "https://www.youtube.com/watch?v=AaspD5iPaYM",
       "video_lenke": "https://www.youtube.com/watch?v=AaspD5iPaYM",
@@ -1146,6 +1324,46 @@
       "kort_sammendrag": "Denne videoen forklarer square-face-prinsippet svært tydelig: ruller du flaten åpen og lukket ved høy fart, er den bare rett i ett lite øyeblikk. Hocknull vil heller at spilleren hinger og scooper uten roll, slik at flaten holder seg square gjennom langt mer av bevegelsen.",
       "antall_punkter": 5,
       "data_fil": "videos/AaspD5iPaYM.json"
+    },
+    {
+      "video_id": "AdUgy0KJ63g",
+      "url": "https://www.youtube.com/watch?v=AdUgy0KJ63g",
+      "video_lenke": "https://www.youtube.com/watch?v=AdUgy0KJ63g",
+      "title": "Slik håndterer laget bunkerslag i en scramble",
+      "temaer": [
+        "bunker",
+        "strategi"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan et scramble-lag effektivt kan slå bunkerslag etter tur uten å ødelegge tempoet eller sanden.",
+      "antall_punkter": 6,
+      "data_fil": "videos/AdUgy0KJ63g.json"
+    },
+    {
+      "video_id": "Anm5cka-CMg",
+      "url": "https://www.youtube.com/watch?v=Anm5cka-CMg",
+      "video_lenke": "https://www.youtube.com/watch?v=Anm5cka-CMg",
+      "title": "Hvordan lese greener - myten om at puttene bryter mot havet",
+      "temaer": [
+        "putting",
+        "strategi"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan man leser greener ved å se på hvor vannet drenerer, og avliver myten om at alle putter bryter mot havet på Twin Dolphin.",
+      "antall_punkter": 5,
+      "data_fil": "videos/Anm5cka-CMg.json"
+    },
+    {
+      "video_id": "B3EaxvEX5YQ",
+      "url": "https://www.youtube.com/watch?v=B3EaxvEX5YQ",
+      "video_lenke": "https://www.youtube.com/watch?v=B3EaxvEX5YQ",
+      "title": "Bruk prikkene på Saber-treningshjelpen til putting",
+      "temaer": [
+        "putting",
+        "trening",
+        "tempo"
+      ],
+      "kort_sammendrag": "Craig viser hvordan man bruker prikkene på en Saber-treningshjelp til å kontrollere lengden og symmetrien i puttestrøket.",
+      "antall_punkter": 4,
+      "data_fil": "videos/B3EaxvEX5YQ.json"
     },
     {
       "video_id": "jyiIe-J7hlw",
