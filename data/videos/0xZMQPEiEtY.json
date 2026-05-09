@@ -1,0 +1,64 @@
+{
+  "video_id": "0xZMQPEiEtY",
+  "url": "https://www.youtube.com/watch?v=0xZMQPEiEtY",
+  "video_lenke": "https://www.youtube.com/watch?v=0xZMQPEiEtY",
+  "title": "Bunker basics: stabil kropp og raske håndledd",
+  "temaer": [
+    "bunker",
+    "kortspill",
+    "kropp",
+    "release",
+    "fart"
+  ],
+  "kort_sammendrag": "Hocknull går tilbake til grunnprinsippene for spillere som chunker bunkerslag: ikke overtenk å sikte venstre, lene venstre eller choppe ned. Bygg slaget rundt stabil kroppsrotasjon og nok håndleddshastighet til å akselerere gjennom sanden.",
+  "laeringspunkter": [
+    {
+      "tittel": "Chunking kommer ofte av mistillit til teknikken",
+      "forklaring": "Han peker på at mange har hørt at de skal åpne face, åpne kroppen og slå ned, men at de ikke stoler på bevegelsen. Når spilleren prøver å choppe uten trygghet, blir slaget lett tungt og mekanisk.",
+      "praktisk_folelse": "Ta et steg tilbake fra avanserte justeringer og tren først en enkel bevegelse som faktisk kan gjentas.",
+      "sitat": "you're not really trusting that so let's take a step back",
+      "relevans": "bunker",
+      "punkt_id": "0xZMQPEiEtY-01"
+    },
+    {
+      "tittel": "Stabiliser med hofter og skuldre",
+      "forklaring": "Første drill er å legge saberen over skuldrene og oscillere hofter og skuldre smått og raskt. Målet er å skape stabil rotasjon uten store utslag som gjør kroppen ustabil.",
+      "praktisk_folelse": "Roter hofter og skuldre kort fram og tilbake, som en liten rytmisk pivot rundt midten.",
+      "sitat": "very very small exercises back and forth using your hips and shoulders",
+      "relevans": "kropp",
+      "punkt_id": "0xZMQPEiEtY-02"
+    },
+    {
+      "tittel": "Hold timing-ballen midt i saberen",
+      "forklaring": "Når saberen ligger over skuldrene, skal bevegelsen være rask nok til at ballen holder seg nær midten, men ikke så stor at den slår helt ut i endene. Det gir feedback på tempo og stabilitet.",
+      "praktisk_folelse": "Lag små, raske kroppsbevegelser der feedbacken holder seg kontrollert i midten, ikke som en lang side-til-side-sving.",
+      "sitat": "that ball basically stays right in the middle of the saber",
+      "relevans": "kropp",
+      "punkt_id": "0xZMQPEiEtY-03"
+    },
+    {
+      "tittel": "Skap fart med håndleddene",
+      "forklaring": "Andre del er en liten swish med håndleddene oppå den stabile pivoten. I bunker trenger du både stabilitet og speed, fordi køllen må ha nok fart til å gå gjennom sanden og løfte ballen ut.",
+      "praktisk_folelse": "Kjenn at kroppen stabiliserer slaget mens håndleddene lager den raske swishen gjennom sanden.",
+      "sitat": "you stabilize with the body rotation and the hips and then you create speed with your wrists",
+      "relevans": "release",
+      "punkt_id": "0xZMQPEiEtY-04"
+    },
+    {
+      "tittel": "Ikke lås deg til én eller to tommer bak ballen",
+      "forklaring": "Når basisen er stabilitet og fart, vil han ikke at spilleren skal bli for opptatt av eksakt inngangspunkt, sikte venstre eller å choppe ned. For mye teknisk fokus kan ta bort akselerasjonen som trengs i sand.",
+      "praktisk_folelse": "La køllen falle og slå sanden med fart, uten å styre hele slaget mot et mikroskopisk punkt.",
+      "sitat": "you're not trying to focus on one inches two inches",
+      "relevans": "kortspill",
+      "punkt_id": "0xZMQPEiEtY-05"
+    },
+    {
+      "tittel": "Sand krever akselerasjon gjennom underlaget",
+      "forklaring": "Hocknull avslutter med at sand er en annen overflate enn gress. Du trenger nok speed til å akselerere gjennom sanden og poppe ballen ut, ellers stopper køllen og slaget blir tungt.",
+      "praktisk_folelse": "Tenk stabil base pluss nok fart gjennom sanden, ikke forsiktig treff på ballen.",
+      "sitat": "you need speed to accelerate through that sand to pop the ball out of the bunker",
+      "relevans": "bunker",
+      "punkt_id": "0xZMQPEiEtY-06"
+    }
+  ]
+}

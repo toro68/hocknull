@@ -1,0 +1,56 @@
+{
+  "video_id": "6f7FbfTEu-o",
+  "url": "https://www.youtube.com/watch?v=6f7FbfTEu-o",
+  "title": "Driver-tips: oppstilling, ballposisjon og setup",
+  "temaer": [
+    "driver",
+    "setup",
+    "ballflight",
+    "utstyr",
+    "grep"
+  ],
+  "kort_sammendrag": "Craig viser hvordan korrekt oppstilling og ballposisjon med driver påvirker fade og draw, og hvorfor en balansert setup med svevende kølle gir bedre kontakt.",
+  "laeringspunkter": [
+    {
+      "tittel": "Sjekk alignment før driverslag",
+      "forklaring": "Bruk et alignment-hjelpemiddel og sikt mot et fast punkt i bakgrunnen for å sikre at kroppen og køllen peker dit du faktisk vil slå.",
+      "praktisk_folelse": "Legg ned en pinne eller bruk en saber, sikt mot et referansepunkt bak rangen før du tar setup.",
+      "sitat": "make sure that my alignment is correct",
+      "relevans": "setup",
+      "punkt_id": "6f7FbfTEu-o-01"
+    },
+    {
+      "tittel": "Ballposisjon styrer ballflukten",
+      "forklaring": "Ballposisjonen ser ut til å flytte seg når du justerer stancen for fade eller draw. For fade åpnes stancen slik at ballen virker lenger frem; for draw lukkes stancen og ballen virker lenger tilbake.",
+      "praktisk_folelse": "Behold samme ballposisjon i forhold til ballmarkøren, men juster føttene for å forme slaget.",
+      "sitat": "if i'm trying to hit a fade you'll see my stance move around this way",
+      "relevans": "ballflight",
+      "punkt_id": "6f7FbfTEu-o-02"
+    },
+    {
+      "tittel": "Grep godt innenfor ballen",
+      "forklaring": "Etabler grepet med god avstand til ballen før du går inn i setup, slik at du har plass til å finne riktig posisjon.",
+      "praktisk_folelse": "Ta grepet «well inside the ball» før du adresserer.",
+      "sitat": "take my grip well inside the ball",
+      "relevans": "grep",
+      "punkt_id": "6f7FbfTEu-o-03"
+    },
+    {
+      "tittel": "Hover køllen for balansert setup",
+      "forklaring": "Ved å la køllen sveve over bakken finner du en balansert setup hvor køllebladet møter ballen riktig.",
+      "praktisk_folelse": "Kjenn at du står balansert med køllebladet rett bak ballen før du svinger.",
+      "sitat": "i hover it allows me to find the proper setup",
+      "relevans": "setup",
+      "punkt_id": "6f7FbfTEu-o-04"
+    },
+    {
+      "tittel": "Velg skaft som lar hendene kjenne kølleflaten",
+      "forklaring": "Skaftet i driver og fairwaywood trenger ikke være identisk, men bør gi deg følelse av kølleflaten.",
+      "praktisk_folelse": "Test skaft og finn et som gir tydelig tilbakemelding fra kølleflaten gjennom hendene.",
+      "sitat": "find the one that allows your hands to feel that club face",
+      "relevans": "utstyr",
+      "punkt_id": "6f7FbfTEu-o-05"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=6f7FbfTEu-o"
+}

@@ -1,0 +1,65 @@
+{
+  "video_id": "0kQ3nzJDBGw",
+  "url": "https://www.youtube.com/watch?v=0kQ3nzJDBGw",
+  "video_lenke": "https://www.youtube.com/watch?v=0kQ3nzJDBGw",
+  "title": "Wedge-matrise: putter grip, power grip og avstandskontroll",
+  "temaer": [
+    "wedge",
+    "grep",
+    "avstandskontroll",
+    "setup",
+    "kropp",
+    "release"
+  ],
+  "kort_sammendrag": "Hocknull bygger en wedge-matrise ved å skille kontrollgrep/putter grip fra power grip. Under ca. to tredjedels sving gir putter grip bedre presisjon; når svingen blir lengre og krever throw, går spilleren over til vanlig/power grip og må holde hofter som pivot, ikke slide.",
+  "laeringspunkter": [
+    {
+      "tittel": "Skill kontrollgrep fra power grip",
+      "forklaring": "Hocknull vil ha en klar forskjell mellom slag for kontroll/accuracy og slag for power. Putter grip brukes når distanse ikke er målet; power grip brukes når spilleren trenger mer throw.",
+      "praktisk_folelse": "Velg grep etter oppgave: kontroll først, power bare når slaglengden krever det.",
+      "sitat": "making a clear distinction between power and kind of control or accuracy",
+      "relevans": "grep",
+      "punkt_id": "0kQ3nzJDBGw-01"
+    },
+    {
+      "tittel": "Ikke press putter grip til en bestemt yardage",
+      "forklaring": "Han ber spilleren slå og måle hvor langt grep/sving faktisk går, ikke prøve å tvinge 60 eller 54 grader til en bestemt distanse. Hvis slaget må presses, bytt kølle eller grep.",
+      "praktisk_folelse": "Slå naturlig halv/trekvart og skriv ned carry; ikke jag tallet med ekstra innsats.",
+      "sitat": "don't try to get it to a distance just hit it and see where it goes",
+      "relevans": "avstandskontroll",
+      "punkt_id": "0kQ3nzJDBGw-02"
+    },
+    {
+      "tittel": "Under to tredjedeler er putter grip enklere",
+      "forklaring": "Når svingen er kortere enn omtrent to tredjedeler, fungerer putter grip best fordi den begrenser throw og holder slaget mer straight/stiff-wristed.",
+      "praktisk_folelse": "For korte wedgecarry: stå skaftet litt mer opp, bruk putter grip og gjenta lengden.",
+      "sitat": "under two-thirds with the putter and over two-thirds with the power",
+      "relevans": "wedge",
+      "punkt_id": "0kQ3nzJDBGw-03"
+    },
+    {
+      "tittel": "Når du må hinge/throw, bytt system",
+      "forklaring": "Hocknull sier at hvis spilleren føler behov for hinge i kontrollslag, har han trolig feil grep/kølle. Over en viss lengde starter throw, og da hører slaget hjemme i power-grip-systemet.",
+      "praktisk_folelse": "Hvis du må kaste hendene for å nå distansen, slutt å kalle det putter-grip kontrollslag.",
+      "sitat": "if you feel like you have to hinge then you've got the wrong foot",
+      "relevans": "release",
+      "punkt_id": "0kQ3nzJDBGw-04"
+    },
+    {
+      "tittel": "Legs/slide ødelegger bunnpunktet",
+      "forklaring": "Et gjennomgående problem er at spillerens ben begynner å slide og flytte bunnpunktet. For wedge-matrisen vil Hocknull ha arm swing og hoftepivot, ikke mye leg drive.",
+      "praktisk_folelse": "La armene styre slaglengde; hold hofter som swivel/pivot og unngå lateral skyving.",
+      "sitat": "when your legs kind of get moving and sliding that causes the bottom of your swing arc to change too much",
+      "relevans": "kropp",
+      "punkt_id": "0kQ3nzJDBGw-05"
+    },
+    {
+      "tittel": "Thumb og throw organiserer fullere slag",
+      "forklaring": "Når de går tilbake til fullere slag, kobler han wedgearbeidet til samme thumb/throw-system som i full swing: nøytral tommel, throw fra riktig sted, og pivot som rydder plass.",
+      "praktisk_folelse": "Sett tommelen nøytralt, kast på ønsket path og la hofter pivotere ut av veien.",
+      "sitat": "feel it in the thumb and the throw",
+      "relevans": "grep",
+      "punkt_id": "0kQ3nzJDBGw-06"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Craig Hocknull læringsbibliotek</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Craig Hocknull læringsbibliotek</h1>
+        <p id="status" aria-live="polite"></p>
+      </div>
+      <nav class="toplinks" aria-label="Sider">
+        <a class="repo-link" href="noytralt-kollehode.html">Nøytralt køllehode</a>
+      </nav>
+    </header>
+
+    <main>
+      <nav class="view-tabs" role="tablist" aria-label="Visning">
+        <button type="button" id="videosTab" class="view-tab active" data-view="videos" role="tab" aria-selected="true" aria-controls="videosView">Videoer</button>
+        <button type="button" id="pointsTab" class="view-tab" data-view="points" role="tab" aria-selected="false" aria-controls="pointsView" tabindex="-1">Alle læringspunkter</button>
+      </nav>
+
+      <section class="toolbar" aria-label="Søk og filter">
+        <label>
+          <span>Søk</span>
+          <input id="search" type="search" placeholder="Søk i videoer og læringspunkter … (trykk /)" />
+        </label>
+        <label>
+          <span>Tema</span>
+          <select id="topic">
+            <option value="">Alle tema</option>
+          </select>
+        </label>
+        <button type="button" id="clearFilters" class="ghost-button clear-filters" hidden>Tøm filter</button>
+      </section>
+
+      <section class="layout" id="videosView" role="tabpanel" aria-labelledby="videosTab">
+        <aside class="video-list" id="videoList" aria-label="Videoer"></aside>
+        <article class="details" id="details">
+          <p class="empty">Velg en video for å se læringspunkter.</p>
+        </article>
+      </section>
+
+      <section class="points-view" id="pointsView" role="tabpanel" aria-labelledby="pointsTab" hidden></section>
+    </main>
+
+    <script src="app.js?v=20260509-2" type="module"></script>
+  </body>
+</html>

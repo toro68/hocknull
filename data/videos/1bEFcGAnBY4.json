@@ -1,0 +1,81 @@
+{
+  "video_id": "1bEFcGAnBY4",
+  "url": "https://www.youtube.com/watch?v=1bEFcGAnBY4",
+  "video_lenke": "https://www.youtube.com/watch?v=1bEFcGAnBY4",
+  "title": "Golf-IQ under press: dispersion, putting og tillit",
+  "temaer": [
+    "strategi",
+    "putting",
+    "pressure",
+    "avstandskontroll",
+    "trening",
+    "setup"
+  ],
+  "kort_sammendrag": "Hocknull snakker om hvordan gode spillere bygger golf-IQ: test slag under press, kjenn dispersion, juster for forhold, lær gress/putting, og finn nøyaktig hva du har mistet tillit til. Poenget er å ha en prosess og en nødprotokoll, ikke bare håpe på bedre selvtillit.",
+  "laeringspunkter": [
+    {
+      "tittel": "Test ferdighetene under press",
+      "forklaring": "Hocknull anbefaler å bruke TrackMan/Test Center eller lignende simulering for å finne ut om du faktisk kan slå bestemte slag når det gjelder. Du bør ikke bare måle teknikk, men dispersion og valg under realistiske pin- og hinder-situasjoner.",
+      "praktisk_folelse": "Lag tester med konkrete mål: back-right pin, bunker rundt, 200-yard og 110-yard slag. Se hvor missene faktisk havner.",
+      "sitat": "how do you practice under pressure you use the test center",
+      "relevans": "trening",
+      "punkt_id": "1bEFcGAnBY4-01"
+    },
+    {
+      "tittel": "Avstand er ikke ett tall",
+      "forklaring": "Han bruker wedge-eksempelet for å vise at 120 yards ikke alltid er 120 yards. Temperatur, våt ball/face, rough, grain, zoysia og ballens lie kan flytte carry med flere yards. Gode spillere justerer før de slår.",
+      "praktisk_folelse": "Spør før slaget: morgen eller ettermiddag, vått eller tørt, første cut eller fairway, grain med eller mot? Juster tallet, ikke bare køllen.",
+      "sitat": "in the morning ball's not going to go 120 maybe in the afternoon when it's warmer",
+      "relevans": "avstandskontroll",
+      "punkt_id": "1bEFcGAnBY4-02"
+    },
+    {
+      "tittel": "Putting krever golf-IQ, ikke bare stroke",
+      "forklaring": "Etter egne yips bestemte Hocknull seg for å lære alt om putting: gress, grain, green reading og fitting. Han peker på at dårlig putting ofte skjuler manglende forståelse, ikke bare dårlig stroke.",
+      "praktisk_folelse": "Når putting svikter, ikke bare tren flere trefootere. Lær underlag, grain, lesing, putter-fit og startlinje systematisk.",
+      "sitat": "i'm going to figure out everything i can about putting which includes grasses greens green reading and everything else",
+      "relevans": "putting",
+      "punkt_id": "1bEFcGAnBY4-03"
+    },
+    {
+      "tittel": "Finn hva du egentlig har mistet tillit til",
+      "forklaring": "Han definerer confidence som trust. Når selvtilliten er borte, må spilleren identifisere hva tilliten gjelder: utstyr, skill, kropp, golf-IQ, teknikk eller prosess. Da kan problemet angripes konkret.",
+      "praktisk_folelse": "Ikke si bare 'jeg har ikke selvtillit'. Spør: stoler jeg på utstyret, kroppen, slaget, green-lesingen, eller beslutningen?",
+      "sitat": "confidence is just another word for trust",
+      "relevans": "pressure",
+      "punkt_id": "1bEFcGAnBY4-04"
+    },
+    {
+      "tittel": "Løs én blokkering, så flytter fokus seg",
+      "forklaring": "Eksempelet med spilleren som fikk annen putter viser at når ballen starter online og får bedre fart mot hullet, frigjøres oppmerksomheten til green reading. Et stabilt grunnledd gjør neste ferdighet trenbar.",
+      "praktisk_folelse": "Hvis du er stresset av startlinje, ikke prøv å lære alt samtidig. Fiks startlinje/fart først, så kan du fokusere på lesing.",
+      "sitat": "now now i can focus on green reading boom revelation new thing",
+      "relevans": "putting",
+      "punkt_id": "1bEFcGAnBY4-05"
+    },
+    {
+      "tittel": "Putterens sole kan påvirke tillit og lie",
+      "forklaring": "Han argumenterer for at en avrundet puttersole kan gi ulik lie fra dag til dag, fordi putteren kan settes mer på hæl eller tå. Poenget er større enn produktet: utstyret må gi repeterbar setup og tillit.",
+      "praktisk_folelse": "Sjekk om putteren faktisk ligger likt hver gang du setter den ned. Hvis håndtaket flytter seg mye, endrer også øyelinje og lie seg.",
+      "sitat": "with a rounded sole of a putter you can set the putter on the heel or the toe",
+      "relevans": "setup",
+      "punkt_id": "1bEFcGAnBY4-06"
+    },
+    {
+      "tittel": "Ha en nødprotokoll når runden stresser deg",
+      "forklaring": "Hocknull bruker pilot- og boxcar-historien for å forklare at spilleren trenger en systematisk respons når panikk eller dårlig spill dukker opp. Ikke observer og rapporter katastrofe; feilsøk rolig etter en fast liste.",
+      "praktisk_folelse": "Når runden glipper: ikke panikk. Gå gjennom utstyr, kropp, teknikk, golf-IQ, confidence og forberedelse i en fast rekkefølge.",
+      "sitat": "my emergency response protocol is to not freak out number one don't panic number two",
+      "relevans": "pressure",
+      "punkt_id": "1bEFcGAnBY4-07"
+    },
+    {
+      "tittel": "Grip pressure kan avsløre press",
+      "forklaring": "Etter Phoenix Open oppdaget han at armen var stram fordi han hadde klemt hardere under press. Da han senere merket det i setup, gikk han ut av slaget og lettet grepet, noe som hjalp release-mønstrene.",
+      "praktisk_folelse": "Hvis du kjenner at du klemmer køllen, back off. Sett deg opp igjen med lettere grep før du slår.",
+      "sitat": "if i felt myself squeezing i would back off get back in there and lighten up that grip pressure",
+      "relevans": "pressure",
+      "punkt_id": "1bEFcGAnBY4-08"
+    }
+  ]
+}

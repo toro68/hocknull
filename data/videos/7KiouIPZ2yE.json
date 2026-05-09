@@ -1,0 +1,73 @@
+{
+  "video_id": "7KiouIPZ2yE",
+  "url": "https://www.youtube.com/watch?v=7KiouIPZ2yE",
+  "title": "Hvordan kølla jobber gjennom sanden i bunker",
+  "temaer": [
+    "bunker",
+    "kortspill",
+    "kolleflate",
+    "svingbane",
+    "setup",
+    "fart"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer at det er sanden, ikke kølleflaten, som flytter ballen ut av bunkeren, og at svingbanen styrer retning og høyde.",
+  "laeringspunkter": [
+    {
+      "tittel": "Sanden flytter ballen, ikke kølla",
+      "forklaring": "Det legger seg en halv til tre kvart tomme sand mellom kølleflaten og ballen, og det er denne sandputen som propellerer ballen ut av bunkeren.",
+      "praktisk_folelse": "Tenk at du kaster en pute med sand opp og fremover, ikke at du slår ballen.",
+      "sitat": "it's the sand that's moving the ball not necessarily the club",
+      "relevans": "bunker",
+      "punkt_id": "7KiouIPZ2yE-01"
+    },
+    {
+      "tittel": "Kølleflatens vinkel er mindre kritisk",
+      "forklaring": "Siden kølleflaten ikke treffer ballen direkte, trenger du ikke være redd for om den er square, åpen eller lukket – sandputen er fluffy og rund.",
+      "praktisk_folelse": "Slipp kontrollbehovet på flaten – fokuser på å skli kølla under ballen.",
+      "sitat": "it doesn't really matter if it's square open or closed",
+      "relevans": "kolleflate",
+      "punkt_id": "7KiouIPZ2yE-02"
+    },
+    {
+      "tittel": "Svingbanen bestemmer ballretning og høyde",
+      "forklaring": "Sanden, og dermed ballen, går dit du beveger kølla. Bane mot høyre sender ballen høyre, brattere bane gir høyere ball, flatere bane gir lavere ball.",
+      "praktisk_folelse": "Velg pathway bevisst: høyere finish for høy ball, lavere bane for lav utløpsvinkel.",
+      "sitat": "if i move the club on a pathway that adds some angle that pillow of sand is going to go up",
+      "relevans": "svingbane",
+      "punkt_id": "7KiouIPZ2yE-03"
+    },
+    {
+      "tittel": "Grav føttene ned for stabilitet og dybdekontroll",
+      "forklaring": "Når du graver føttene ned senker du deg selv 1,5–2 tommer ned i sanden, samtidig som du lovlig kjenner på sandens konsistens.",
+      "praktisk_folelse": "Vri føttene ned i sanden for å lande lavere og automatisk treffe under ballen.",
+      "sitat": "they're essentially lowering themselves into the sand while also somewhat testing the surface",
+      "relevans": "setup",
+      "punkt_id": "7KiouIPZ2yE-04"
+    },
+    {
+      "tittel": "Hør thump, ikke click",
+      "forklaring": "Et godt bunkerslag lager en dump lyd fra sanden, ikke et klikk fra kølleflaten mot ball. Lyden er en fasit på at du tar nok sand.",
+      "praktisk_folelse": "Lytt etter 'thump' av sand under nedslaget.",
+      "sitat": "you can hear the thud of the sand not the click of the clubface",
+      "relevans": "bunker",
+      "punkt_id": "7KiouIPZ2yE-05"
+    },
+    {
+      "tittel": "Fjern en fotstor mengde sand",
+      "forklaring": "Et solid bunkerslag fjerner et område med sand på størrelse med foten din, og kølla må ha nok lengde og energi i svingen til å gjøre dette.",
+      "praktisk_folelse": "Sving langt nok og aggressivt nok til å skuffe opp en stor pute med sand.",
+      "sitat": "the amount of sand that i removed right here is about the size of my foot",
+      "relevans": "bunker",
+      "punkt_id": "7KiouIPZ2yE-06"
+    },
+    {
+      "tittel": "Aggressiv klubbhastighet gjennom sanden",
+      "forklaring": "Selv om sanden gjør jobben, må du ha tilstrekkelig fart gjennom slagsonen – for kort sving gir at ballen så vidt kommer ut.",
+      "praktisk_folelse": "Forplikt deg til en lengre, energisk gjennomsving.",
+      "sitat": "we have to have a little bit of an aggressive club head speed through the sand",
+      "relevans": "fart",
+      "punkt_id": "7KiouIPZ2yE-07"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=7KiouIPZ2yE"
+}

@@ -1,0 +1,30 @@
+{
+  "video_id": "3biCKXIfqLI",
+  "url": "https://www.youtube.com/watch?v=3biCKXIfqLI",
+  "title": "Fade vs draw forklart",
+  "temaer": [
+    "ballflight",
+    "driver",
+    "forhold"
+  ],
+  "kort_sammendrag": "En humoristisk demonstrasjon der instruktøren forklarer forskjellen mellom fade og draw ved hjelp av spillerens posisjon i forhold til ballen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Forstå forskjellen på fade og draw",
+      "forklaring": "En fade beveger seg bort fra spilleren, mens en draw beveger seg mot spilleren. Retningen avhenger derfor av hvilken side du står på i forhold til ballen.",
+      "praktisk_folelse": "Visualiser ballflukten i forhold til din egen kropp: bort fra deg = fade, mot deg = draw.",
+      "sitat": "things typically fade away from you... and you draw things toward you",
+      "relevans": "ballflight",
+      "punkt_id": "3biCKXIfqLI-01"
+    },
+    {
+      "tittel": "Bruk fade bevisst i vind",
+      "forklaring": "Når det blåser i kast, kan en bevisst fade gi mer kontroll på ballflukten i stedet for å prøve å treffe rett.",
+      "praktisk_folelse": "Sikt og sving slik at ballen beveger seg kontrollert i én retning fremfor å kjempe mot vinden.",
+      "sitat": "I felt a gust... so I decided to play a little fade on purpose",
+      "relevans": "forhold",
+      "punkt_id": "3biCKXIfqLI-02"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=3biCKXIfqLI"
+}

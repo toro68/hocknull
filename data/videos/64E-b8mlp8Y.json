@@ -1,0 +1,39 @@
+{
+  "video_id": "64E-b8mlp8Y",
+  "url": "https://www.youtube.com/watch?v=64E-b8mlp8Y",
+  "title": "Craig Hocknull demonstrerer driver fra høye tees",
+  "temaer": [
+    "driver",
+    "ballflight",
+    "kolleflate",
+    "rough"
+  ],
+  "kort_sammendrag": "Hocknull demonstrerer trickshots fra ulike høyder med driveren og forklarer hvordan kølleflatens orientering ved adresse påvirker ballflukten.",
+  "laeringspunkter": [
+    {
+      "tittel": "Kølleflatens vinkel påvirker retningen",
+      "forklaring": "En 10,5 graders driver gir 10,5 grader loft når den står normalt, men hvis skaftet vippes sidelengs vil loftet peke mot venstre eller høyre og dermed sende ballen i den retningen.",
+      "praktisk_folelse": "Forstå at når kølla tippes på skrå, peker loftet til siden og ballen følger med.",
+      "sitat": "if it's 10 and a half this way that 10 and a half degrees is pointed left",
+      "relevans": "kolleflate",
+      "punkt_id": "64E-b8mlp8Y-01"
+    },
+    {
+      "tittel": "Hvorfor ball i rough hooker",
+      "forklaring": "Når ballen ligger i rough på høyre side med kølla i en vinklet posisjon, vil leiet tvinge en hook fordi kølleflaten effektivt peker mot venstre.",
+      "praktisk_folelse": "Forvent venstre-bevegelse på ballen når lien gjør at kølla må holdes vinklet.",
+      "sitat": "that's why it typically hooks a little bit off that lie",
+      "relevans": "rough",
+      "punkt_id": "64E-b8mlp8Y-02"
+    },
+    {
+      "tittel": "Forme ballen ved å justere kølleorienteringen",
+      "forklaring": "Ved å vinkle driveren ulike veier kan man bevisst produsere draw, rett ball eller fade fra samme posisjon.",
+      "praktisk_folelse": "Tenk at kølleflatens vinkling styrer kurven - flatt for rett, vippet for kurvet ball.",
+      "sitat": "you put it on this way it goes left put it level it goes straight now this is going to be a nice slice",
+      "relevans": "ballflight",
+      "punkt_id": "64E-b8mlp8Y-03"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=64E-b8mlp8Y"
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "8xXG8HYx_jM",
+  "url": "https://www.youtube.com/watch?v=8xXG8HYx_jM",
+  "video_lenke": "https://www.youtube.com/watch?v=8xXG8HYx_jM",
+  "title": "Hocknulls gir-modell: hender, armer og hofter i riktig rekkefølge",
+  "temaer": [
+    "grep",
+    "kolleflate",
+    "release",
+    "hoyre-hand",
+    "kropp",
+    "pressure",
+    "tempo"
+  ],
+  "kort_sammendrag": "Hocknull forklarer svingen som gir: først grep/underarmer, deretter arm- og skuldersekvens, og først etterpå hofter/rotasjon/ground pressure. Hovedpoenget er at face-kontroll og armsekvens bør styre køllen før kroppen brukes til ekstra range og fart.",
+  "laeringspunkter": [
+    {
+      "tittel": "Gear 1: køllen bør styres fra fingre og underarmer",
+      "forklaring": "Hocknull plasserer grep og underarmer som første gir fordi de er nærmest køllen og face. Han foretrekker grep i fingrene fremfor håndflaten når slaget krever hastighet, fordi finger-/underarmsmusklene kan hengsle, flekse og ekstendere mer effektivt.",
+      "praktisk_folelse": "Kjenn køllen i fingrene slik at håndledd og underarm kan arbeide uten at skulderen må overta face-kontrollen.",
+      "sitat": "gear one gripping the club into fingers",
+      "relevans": "grep",
+      "punkt_id": "8xXG8HYx_jM-01"
+    },
+    {
+      "tittel": "Mindre face-roll gir enklere kontroll",
+      "forklaring": "Han argumenterer for minimal åpning/lukking av kølleflaten, heller enn klassisk toe-up-to-toe-up med mye barrel roll. Når spilleren prøver å rulle face hardt, kan rotasjonen spre seg opp i armen og skulderen, som gjør squaring mer timing-avhengig.",
+      "praktisk_folelse": "Square face mer med håndledd/underarm, og mindre med en stor roll der hele armen og skulderen dras med.",
+      "sitat": "zero barrel roll minimal rate of opening and closing",
+      "relevans": "kolleflate",
+      "punkt_id": "8xXG8HYx_jM-02"
+    },
+    {
+      "tittel": "Lead thumb skal støtte en naturlig hinge",
+      "forklaring": "Hocknull forklarer at venstre tommel/håndledd tåler en mer naturlig hinge bedre enn en posisjon der tommelen bærer køllen svakt og blir overbelastet. Dette kobles direkte til en mer stabil square-to-square release gjennom ballen.",
+      "praktisk_folelse": "La lead wrist hinge på en måte der køllen føles støttet under tommelen, ikke som om tommelen må holde en svak, vridd posisjon.",
+      "sitat": "when you support the weight of the club underneath your left thumb and it hinges back this way",
+      "relevans": "grep",
+      "punkt_id": "8xXG8HYx_jM-03"
+    },
+    {
+      "tittel": "Gear 2: fart bygges med lats, triceps og underarm",
+      "forklaring": "Han beskriver en piskesekvens: lats/overarm starter, triceps strekker, og underarm/fingre leverer siste snap. Dette er mer presist enn å bare si 'bruk hendene'; hendene leverer fart når de kommer i riktig sekvens.",
+      "praktisk_folelse": "Føl at albue/overarm faller eller drar først, triceps strekker etterpå, og underarmen leverer siste snap.",
+      "sitat": "lats triceps forearms all in one motion",
+      "relevans": "release",
+      "punkt_id": "8xXG8HYx_jM-04"
+    },
+    {
+      "tittel": "Gear 1 og 2 kan produsere nesten all praktisk lengde",
+      "forklaring": "I demonstrasjonen får Hocknull nesten hele pitching-wedge-lengden fra hånd-/armsekvens uten aktiv ben- og hoftekraft. Poenget hans er at mange spillere jakter de siste prosentene fra hofter og ground pressure før de har kontroll på det som faktisk styrer køllen.",
+      "praktisk_folelse": "Bygg slaget fra køllehodet innover: face, hender, underarmer og armer før du prøver å hente mer fra føtter og hofter.",
+      "sitat": "94 of my total yardage just came out of gear one and two",
+      "relevans": "hoyre-hand",
+      "punkt_id": "8xXG8HYx_jM-05"
+    },
+    {
+      "tittel": "Hofter og core skal gi range før de gir kraft",
+      "forklaring": "Hocknull sier at hofter/core primært legger til rotasjon og backswing-lengde. Hvis spilleren bruker hofterotasjon for hardt som hovedkraft, kan armene miste synkronisering og køllen runde ut eller bli vanskeligere å square.",
+      "praktisk_folelse": "La hoftene gi plass og lengde, men ikke spinne så aggressivt at armene må jage etter kroppen.",
+      "sitat": "my hips are going to just create an additional range of motion",
+      "relevans": "kropp",
+      "punkt_id": "8xXG8HYx_jM-06"
+    },
+    {
+      "tittel": "Tungt redskap lærer momentum og sirkel",
+      "forklaring": "Han bruker tunge treningsredskaper for å lære spilleren å kjenne vekten, sirkelen og timingen i verktøyet. Poenget er ikke å spille tungt utstyr, men å lære kroppen å svinge køllens momentum i stedet for å plassere den mekanisk.",
+      "praktisk_folelse": "Sving et tyngre treningsredskap rolig nok til at du kjenner når vekten faller, når den vil snu, og når snapet kommer.",
+      "sitat": "they don't know how to engage with the momentum of the tool they don't know how to swing the weight",
+      "relevans": "tempo",
+      "punkt_id": "8xXG8HYx_jM-07"
+    },
+    {
+      "tittel": "Teknikk må tåle både kropp og press",
+      "forklaring": "Mot slutten gir Hocknull to filtre for tekniske valg: skadefrihet og holdbarhet under press. Han bruker egen erfaring med mindre rate of closure som eksempel: når grepet blir litt strammere under press, er en mer square-to-square release enklere å overleve enn en release som krever mye timing.",
+      "praktisk_folelse": "Test endringen ved å spørre: blir missene fortsatt spillbare hvis jeg strammer meg litt, og kjennes bevegelsen sunn ut for kroppen?",
+      "sitat": "injury prevention sustainment under pressure that's it",
+      "relevans": "pressure",
+      "punkt_id": "8xXG8HYx_jM-08"
+    }
+  ]
+}

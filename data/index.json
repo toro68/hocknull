@@ -1,0 +1,1171 @@
+{
+  "tittel": "Craig Hocknull læringsbibliotek",
+  "antall_videoer": 73,
+  "videoer": [
+    {
+      "video_id": "-06AGEMywLQ",
+      "url": "https://www.youtube.com/watch?v=-06AGEMywLQ",
+      "video_lenke": "https://www.youtube.com/watch?v=-06AGEMywLQ",
+      "title": "Scramble-strategi: bruk én køllelengde lovlig",
+      "temaer": [
+        "strategi",
+        "putting",
+        "kortspill"
+      ],
+      "kort_sammendrag": "Hocknull forklarer hvordan et scramble-lag kan bruke regelen om én køllelengde smart rundt greenen. Poenget er å forbedre putte- eller chippevinkelen uten å flytte ballen nærmere hullet eller endre spilleforhold.",
+      "antall_punkter": 5,
+      "data_fil": "videos/-06AGEMywLQ.json"
+    },
+    {
+      "video_id": "-5aRC6NclJQ",
+      "url": "https://www.youtube.com/watch?v=-5aRC6NclJQ",
+      "video_lenke": "https://www.youtube.com/watch?v=-5aRC6NclJQ",
+      "title": "Glenwild hull 17: spill mot trygg sone, ikke flagget",
+      "temaer": [
+        "strategi",
+        "kortspill",
+        "avstandskontroll"
+      ],
+      "kort_sammendrag": "Hocknull bruker hull 17 på Glenwild som et strategieksempel: del greenen i soner, finn hvor bommene blir dyre, og velg en trygg høyreside som gir enklere chipper og bedre par-sjanser.",
+      "antall_punkter": 5,
+      "data_fil": "videos/-5aRC6NclJQ.json"
+    },
+    {
+      "video_id": "-EGC0xd5isg",
+      "url": "https://www.youtube.com/watch?v=-EGC0xd5isg",
+      "video_lenke": "https://www.youtube.com/watch?v=-EGC0xd5isg",
+      "title": "Velg tee etter ferdighet, ikke farge",
+      "temaer": [
+        "strategi",
+        "putting",
+        "setup"
+      ],
+      "kort_sammendrag": "Hocknull forklarer hvorfor spillere bør velge utslagssted etter hvor langt de faktisk slår og hvor mange slag de trenger for å spille hullet, ikke etter tradisjonelle røde, hvite eller blå tee-markører. Målet er bedre tempo, mer glede og en realistisk par-utfordring.",
+      "antall_punkter": 6,
+      "data_fil": "videos/-EGC0xd5isg.json"
+    },
+    {
+      "video_id": "-GNtX64vSek",
+      "url": "https://www.youtube.com/watch?v=-GNtX64vSek",
+      "video_lenke": "https://www.youtube.com/watch?v=-GNtX64vSek",
+      "title": "Forsinket snap: mer håndfart uten stor hook",
+      "temaer": [
+        "hoyre-hand",
+        "timing",
+        "ballflight",
+        "release",
+        "kropp"
+      ],
+      "kort_sammendrag": "Hocknull jobber med en spiller som har fått mer håndfart og derfor begynner å hooke når releasen kommer for tidlig. Løsningen er ikke å senke hendene, men å bruke en liten kropp/drop-forsinkelse og deretter fyre hendene aggressivt på riktig tidspunkt.",
+      "antall_punkter": 6,
+      "data_fil": "videos/-GNtX64vSek.json"
+    },
+    {
+      "video_id": "-MQvDdYa_WM",
+      "url": "https://www.youtube.com/watch?v=-MQvDdYa_WM",
+      "video_lenke": "https://www.youtube.com/watch?v=-MQvDdYa_WM",
+      "title": "Bruk Saber-treningskøllen til å sjekke kølleflate og release",
+      "temaer": [
+        "kolleflate",
+        "release",
+        "baksvingen",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan du kan bruke Saber-treningsverktøyet med fargede sider til å sjekke håndleddsposisjon, kølleflateposisjon og release gjennom svingen i sakte film.",
+      "antall_punkter": 5,
+      "data_fil": "videos/-MQvDdYa_WM.json"
+    },
+    {
+      "video_id": "06GTDbjRDbA",
+      "url": "https://www.youtube.com/watch?v=06GTDbjRDbA",
+      "video_lenke": "https://www.youtube.com/watch?v=06GTDbjRDbA",
+      "title": "Saber-treningsøvelse: The Spin",
+      "temaer": [
+        "trening",
+        "kropp",
+        "fart",
+        "timing",
+        "svingbane"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer en saber-øvelse kalt 'spin' som utføres i golfoppstilling for å trene rotasjon, kjernemuskulatur, fleksibilitet og timing.",
+      "antall_punkter": 3,
+      "data_fil": "videos/06GTDbjRDbA.json"
+    },
+    {
+      "video_id": "0GNyArmw6Kk",
+      "url": "https://www.youtube.com/watch?v=0GNyArmw6Kk",
+      "video_lenke": "https://www.youtube.com/watch?v=0GNyArmw6Kk",
+      "title": "Dominant side swishers: håndfart med lav saber",
+      "temaer": [
+        "fart",
+        "hoyre-hand",
+        "grep",
+        "release"
+      ],
+      "kort_sammendrag": "Kort drillvideo for håndfart: hold saberen i den lette enden og swish fram og tilbake med hendene, uten å slå ball eller løfte bevegelsen opp i skuldrene.",
+      "antall_punkter": 3,
+      "data_fil": "videos/0GNyArmw6Kk.json"
+    },
+    {
+      "video_id": "0HOZ73TqlW8",
+      "url": "https://www.youtube.com/watch?v=0HOZ73TqlW8",
+      "video_lenke": "https://www.youtube.com/watch?v=0HOZ73TqlW8",
+      "title": "Bunkeravstand: les sanden og velg V eller U",
+      "temaer": [
+        "bunker",
+        "kortspill",
+        "setup",
+        "kolleflate"
+      ],
+      "kort_sammendrag": "Hocknull viser hvordan sandtype, hvor dypt føttene synker, og svingform styrer carry fra bunker. Kort bunker = mer V-form og dypere føtter; lengre carry = mer U-form, mindre åpen face og mindre nedgraving.",
+      "antall_punkter": 5,
+      "data_fil": "videos/0HOZ73TqlW8.json"
+    },
+    {
+      "video_id": "0VmMrntVMWI",
+      "url": "https://www.youtube.com/watch?v=0VmMrntVMWI",
+      "video_lenke": "https://www.youtube.com/watch?v=0VmMrntVMWI",
+      "title": "Fling hele armen: sentrert akse og full release",
+      "temaer": [
+        "release",
+        "fart",
+        "kropp",
+        "pressure",
+        "hoyre-hand",
+        "timing"
+      ],
+      "kort_sammendrag": "Hocknull oppsummerer en leksjon om å skape fart ved å slynge hele armen og køllen rundt en stabil kroppsakse. Spilleren skal ikke guide eller stoppe etter ballen, men fullføre flingen symmetrisk og sentrert.",
+      "antall_punkter": 6,
+      "data_fil": "videos/0VmMrntVMWI.json"
+    },
+    {
+      "video_id": "0_npQq2E_e0",
+      "url": "https://www.youtube.com/watch?v=0_npQq2E_e0",
+      "video_lenke": "https://www.youtube.com/watch?v=0_npQq2E_e0",
+      "title": "Heavy swish: warmup for balanse, thumb-load og tung sirkel",
+      "temaer": [
+        "oppvarming",
+        "pressure",
+        "grep",
+        "tempo"
+      ],
+      "kort_sammendrag": "Kort warmup-drill med saberen i tung ende. Målet er å kjenne armstrekk, vekt på tommel, balanse midt under foten og en jevn tung sirkel før vanlig sving.",
+      "antall_punkter": 4,
+      "data_fil": "videos/0_npQq2E_e0.json"
+    },
+    {
+      "video_id": "0iPocP0QfFM",
+      "url": "https://www.youtube.com/watch?v=0iPocP0QfFM",
+      "video_lenke": "https://www.youtube.com/watch?v=0iPocP0QfFM",
+      "title": "Balanse ved address: trykk under ankelen, ikke på tærne",
+      "temaer": [
+        "pressure",
+        "setup",
+        "kropp",
+        "trening"
+      ],
+      "kort_sammendrag": "Hocknull og samtalepartneren diskuterer hvorfor for mye vekt på tærne ved address skaper selvbalansering, avstandsendring til ballen og dårlig kontakt. Løsningen er mer atletisk balanse under ankelen/instep og små drills med stabile føtter.",
+      "antall_punkter": 5,
+      "data_fil": "videos/0iPocP0QfFM.json"
+    },
+    {
+      "video_id": "0kQ3nzJDBGw",
+      "url": "https://www.youtube.com/watch?v=0kQ3nzJDBGw",
+      "video_lenke": "https://www.youtube.com/watch?v=0kQ3nzJDBGw",
+      "title": "Wedge-matrise: putter grip, power grip og avstandskontroll",
+      "temaer": [
+        "wedge",
+        "grep",
+        "avstandskontroll",
+        "setup",
+        "kropp",
+        "release"
+      ],
+      "kort_sammendrag": "Hocknull bygger en wedge-matrise ved å skille kontrollgrep/putter grip fra power grip. Under ca. to tredjedels sving gir putter grip bedre presisjon; når svingen blir lengre og krever throw, går spilleren over til vanlig/power grip og må holde hofter som pivot, ikke slide.",
+      "antall_punkter": 6,
+      "data_fil": "videos/0kQ3nzJDBGw.json"
+    },
+    {
+      "video_id": "0lS936MQVJg",
+      "url": "https://www.youtube.com/watch?v=0lS936MQVJg",
+      "video_lenke": "https://www.youtube.com/watch?v=0lS936MQVJg",
+      "title": "Wedge fra ball over føttene: mer hofte-swivel og flatere plan",
+      "temaer": [
+        "wedge",
+        "ujevnt-leie",
+        "kortspill",
+        "kropp"
+      ],
+      "kort_sammendrag": "Kort tips for wedge når ballen ligger over føttene. Hocknull vil ha litt mer hofte-swivel for å flate ut svingplanet og gjøre inngangen grunnere/rundere.",
+      "antall_punkter": 3,
+      "data_fil": "videos/0lS936MQVJg.json"
+    },
+    {
+      "video_id": "0vjIx43O1zc",
+      "url": "https://www.youtube.com/watch?v=0vjIx43O1zc",
+      "video_lenke": "https://www.youtube.com/watch?v=0vjIx43O1zc",
+      "title": "Belly-slag med wedge når ballen ligger inntil fringe",
+      "temaer": [
+        "kortspill",
+        "putting",
+        "wedge",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig viser tre alternativer når ballen ligger klemt mot kanten av fringen: belly-slag med 56-grader wedge, hybrid eller putter. Han anbefaler wedgen som beste valg fordi den gir kontrollert, mykt slag uten å måtte plasse gjennom tykt gress.",
+      "antall_punkter": 5,
+      "data_fil": "videos/0vjIx43O1zc.json"
+    },
+    {
+      "video_id": "0xZMQPEiEtY",
+      "url": "https://www.youtube.com/watch?v=0xZMQPEiEtY",
+      "video_lenke": "https://www.youtube.com/watch?v=0xZMQPEiEtY",
+      "title": "Bunker basics: stabil kropp og raske håndledd",
+      "temaer": [
+        "bunker",
+        "kortspill",
+        "kropp",
+        "release",
+        "fart"
+      ],
+      "kort_sammendrag": "Hocknull går tilbake til grunnprinsippene for spillere som chunker bunkerslag: ikke overtenk å sikte venstre, lene venstre eller choppe ned. Bygg slaget rundt stabil kroppsrotasjon og nok håndleddshastighet til å akselerere gjennom sanden.",
+      "antall_punkter": 6,
+      "data_fil": "videos/0xZMQPEiEtY.json"
+    },
+    {
+      "video_id": "1ASdARz5AMo",
+      "url": "https://www.youtube.com/watch?v=1ASdARz5AMo",
+      "video_lenke": "https://www.youtube.com/watch?v=1ASdARz5AMo",
+      "title": "Sabre-rutine trinn 5: Snap gjennom til symmetrisk posisjon",
+      "temaer": [
+        "release",
+        "venstre-hand",
+        "oppvarming",
+        "ballflight"
+      ],
+      "kort_sammendrag": "Femte trinn i Sabre-oppvarmingsrutinen fokuserer på å snappe gjennom slaget med en symmetrisk venstre tommel-posisjon på begge sider av svingen for å unngå hook og slice.",
+      "antall_punkter": 4,
+      "data_fil": "videos/1ASdARz5AMo.json"
+    },
+    {
+      "video_id": "1NrE6gdOBdw",
+      "url": "https://www.youtube.com/watch?v=1NrE6gdOBdw",
+      "video_lenke": "https://www.youtube.com/watch?v=1NrE6gdOBdw",
+      "title": "Nybegynnerdriver: swish, stabile føtter og neutral release",
+      "temaer": [
+        "release",
+        "setup",
+        "grep",
+        "kolleflate",
+        "hoyre-hand",
+        "fart",
+        "pressure",
+        "trening"
+      ],
+      "kort_sammendrag": "Hocknull bygger en nybegynnerdriver fra enkel kontakt: først swish som en weed-trimmer, deretter stabile føtter, ballen midt i kroppen, grep med kort tommel og til slutt en neutral release der høyre hånd swisher siden gjennom uten å rulle kølleflaten lukket.",
+      "antall_punkter": 10,
+      "data_fil": "videos/1NrE6gdOBdw.json"
+    },
+    {
+      "video_id": "1bEFcGAnBY4",
+      "url": "https://www.youtube.com/watch?v=1bEFcGAnBY4",
+      "video_lenke": "https://www.youtube.com/watch?v=1bEFcGAnBY4",
+      "title": "Golf-IQ under press: dispersion, putting og tillit",
+      "temaer": [
+        "strategi",
+        "putting",
+        "pressure",
+        "avstandskontroll",
+        "trening",
+        "setup"
+      ],
+      "kort_sammendrag": "Hocknull snakker om hvordan gode spillere bygger golf-IQ: test slag under press, kjenn dispersion, juster for forhold, lær gress/putting, og finn nøyaktig hva du har mistet tillit til. Poenget er å ha en prosess og en nødprotokoll, ikke bare håpe på bedre selvtillit.",
+      "antall_punkter": 8,
+      "data_fil": "videos/1bEFcGAnBY4.json"
+    },
+    {
+      "video_id": "1g4zGEgg7io",
+      "url": "https://www.youtube.com/watch?v=1g4zGEgg7io",
+      "video_lenke": "https://www.youtube.com/watch?v=1g4zGEgg7io",
+      "title": "Glenwild hull 16: beste leave er venstre side",
+      "temaer": [
+        "strategi",
+        "kortspill",
+        "avstandskontroll",
+        "putting",
+        "trening"
+      ],
+      "kort_sammendrag": "Hocknull analyserer greenkomplekset på hull 16 fra greenen og bakover. Han viser at høyre side bringer bunker og vanskelige nedover-chipper inn, mens venstre side ofte gir bedre leave fordi chippen går oppover og greenen hjelper ballen å stoppe.",
+      "antall_punkter": 7,
+      "data_fil": "videos/1g4zGEgg7io.json"
+    },
+    {
+      "video_id": "1pfMaawhcE4",
+      "url": "https://www.youtube.com/watch?v=1pfMaawhcE4",
+      "video_lenke": "https://www.youtube.com/watch?v=1pfMaawhcE4",
+      "title": "Golfspesifikke styrke- og balanseøvelser med saber",
+      "temaer": [
+        "trening",
+        "kropp"
+      ],
+      "kort_sammendrag": "Transkripsjonen viser en treningsøkt med balanse- og styrkeøvelser (ettbens sidehopp med rotasjon og overhead squat) uten direkte golfinstruksjon. Inneholder noen generelle tips om holdning og kjernemuskulatur.",
+      "antall_punkter": 3,
+      "data_fil": "videos/1pfMaawhcE4.json"
+    },
+    {
+      "video_id": "1tCMvKe4K9k",
+      "url": "https://www.youtube.com/watch?v=1tCMvKe4K9k",
+      "video_lenke": "https://www.youtube.com/watch?v=1tCMvKe4K9k",
+      "title": "Hullplassering på par 3 – slik tenker en head pro",
+      "temaer": [
+        "strategi"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan han som head pro setter opp hullplasseringer på en par 3, og hvordan greenens soner og helninger kan brukes strategisk. Lite konkret svinginstruksjon, men noen strategiske poeng for spillere.",
+      "antall_punkter": 3,
+      "data_fil": "videos/1tCMvKe4K9k.json"
+    },
+    {
+      "video_id": "1vdVvvtPYfg",
+      "url": "https://www.youtube.com/watch?v=1vdVvvtPYfg",
+      "video_lenke": "https://www.youtube.com/watch?v=1vdVvvtPYfg",
+      "title": "Slik skapes godt treff – hendene foran kølleflaten",
+      "temaer": [
+        "kolleflate",
+        "svingbane",
+        "trening",
+        "release",
+        "utstyr",
+        "timing"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer hvordan godt treff skapes ved å ha hendene foran kølleflaten i nedslaget, slik at ballen treffes først og divoten kommer etter ballen.",
+      "antall_punkter": 5,
+      "data_fil": "videos/1vdVvvtPYfg.json"
+    },
+    {
+      "video_id": "1xQ-1aW0zjw",
+      "url": "https://www.youtube.com/watch?v=1xQ-1aW0zjw",
+      "video_lenke": "https://www.youtube.com/watch?v=1xQ-1aW0zjw",
+      "title": "Bowling Alley Drill",
+      "temaer": [
+        "release",
+        "kropp",
+        "svingbane"
+      ],
+      "kort_sammendrag": "Craig Hocknull bruker en bowling-analogi for å illustrere riktig kroppsrotasjon og armbevegelse gjennom slaget, slik at man unngår å spinne kroppen for tidlig til venstre.",
+      "antall_punkter": 3,
+      "data_fil": "videos/1xQ-1aW0zjw.json"
+    },
+    {
+      "video_id": "2Bi8bNze-kk",
+      "url": "https://www.youtube.com/watch?v=2Bi8bNze-kk",
+      "video_lenke": "https://www.youtube.com/watch?v=2Bi8bNze-kk",
+      "title": "Draw the Stripe - Saber Technique Drill",
+      "temaer": [
+        "release",
+        "kolleflate",
+        "ballflight",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig demonstrerer en treningsøvelse med en saber (vektet treningsredskap) for å lære hender og underarmer riktig posisjon for å treffe en draw ved å lukke kølleflaten gjennom treff.",
+      "antall_punkter": 4,
+      "data_fil": "videos/2Bi8bNze-kk.json"
+    },
+    {
+      "video_id": "2Gs_ur8M7PQ",
+      "url": "https://www.youtube.com/watch?v=2Gs_ur8M7PQ",
+      "video_lenke": "https://www.youtube.com/watch?v=2Gs_ur8M7PQ",
+      "title": "Ballplassering og venstre side i chip",
+      "temaer": [
+        "kortspill",
+        "wedge",
+        "setup",
+        "kropp",
+        "release"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan ballplassering rett innenfor venstre hofte og en solid venstre side er nøkkelen til rene chip-slag med wedge.",
+      "antall_punkter": 4,
+      "data_fil": "videos/2Gs_ur8M7PQ.json"
+    },
+    {
+      "video_id": "2izSe-0uI90",
+      "url": "https://www.youtube.com/watch?v=2izSe-0uI90",
+      "video_lenke": "https://www.youtube.com/watch?v=2izSe-0uI90",
+      "title": "Pitching - bruk putte-teknikken som grunnlag",
+      "temaer": [
+        "kortspill",
+        "wedge",
+        "tempo",
+        "setup",
+        "rough",
+        "kolleflate",
+        "strategi",
+        "avstandskontroll"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer hvordan du forbedrer pitcheslag ved å bygge ut putte- og chippeteknikken til større svinger, i stedet for å forminske fullsvingen. Han dekker køllevalg, ballplassering og vanlige feiltolkninger av slag.",
+      "antall_punkter": 8,
+      "data_fil": "videos/2izSe-0uI90.json"
+    },
+    {
+      "video_id": "2lJL5-lXK8o",
+      "url": "https://www.youtube.com/watch?v=2lJL5-lXK8o",
+      "video_lenke": "https://www.youtube.com/watch?v=2lJL5-lXK8o",
+      "title": "Bli en ekspert på putting - tålmodighet i utviklingen",
+      "temaer": [
+        "putting",
+        "mental",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig Hocknull bruker en metafor om å skulpturere en trestokk for å forklare at putting-utvikling krever tålmodighet og at du ikke skal gå tilbake til grovere verktøy når du allerede har kommet til finpussen.",
+      "antall_punkter": 3,
+      "data_fil": "videos/2lJL5-lXK8o.json"
+    },
+    {
+      "video_id": "330muMRisNk",
+      "url": "https://www.youtube.com/watch?v=330muMRisNk",
+      "video_lenke": "https://www.youtube.com/watch?v=330muMRisNk",
+      "title": "Utfall med rotasjon - styrke og rotasjonstrening",
+      "temaer": [
+        "trening",
+        "kropp",
+        "tempo"
+      ],
+      "kort_sammendrag": "En treningsøvelse med utfall (lunges) kombinert med rotasjon ved bruk av en saber/stang for å styrke underkroppen og forbedre rotasjonsevnen i golfsvingen.",
+      "antall_punkter": 3,
+      "data_fil": "videos/330muMRisNk.json"
+    },
+    {
+      "video_id": "3AQHiqw96cg",
+      "url": "https://www.youtube.com/watch?v=3AQHiqw96cg",
+      "video_lenke": "https://www.youtube.com/watch?v=3AQHiqw96cg",
+      "title": "Posisjon 6 - Initiering av armfart i nedsvingen",
+      "temaer": [
+        "svingbane",
+        "kropp",
+        "trening",
+        "release"
+      ],
+      "kort_sammendrag": "Craig forklarer posisjon 6 i en sekvens av svingposisjoner, der armene begynner å falle ned og koble seg på kroppens rotasjon, med fokus på posisjon, trykk og statisk hold for å bygge styrke i riktig stilling.",
+      "antall_punkter": 6,
+      "data_fil": "videos/3AQHiqw96cg.json"
+    },
+    {
+      "video_id": "3IbNOu_yiZA",
+      "url": "https://www.youtube.com/watch?v=3IbNOu_yiZA",
+      "video_lenke": "https://www.youtube.com/watch?v=3IbNOu_yiZA",
+      "title": "Opposite Side Swisher - fartsøvelse",
+      "temaer": [
+        "fart",
+        "trening",
+        "baksvingen"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer en fartsøvelse kalt 'opposite side swisher' der du svinger motsatt vei for å bygge styrke, fart og fleksibilitet.",
+      "antall_punkter": 3,
+      "data_fil": "videos/3IbNOu_yiZA.json"
+    },
+    {
+      "video_id": "3biCKXIfqLI",
+      "url": "https://www.youtube.com/watch?v=3biCKXIfqLI",
+      "video_lenke": "https://www.youtube.com/watch?v=3biCKXIfqLI",
+      "title": "Fade vs draw forklart",
+      "temaer": [
+        "ballflight",
+        "driver",
+        "forhold"
+      ],
+      "kort_sammendrag": "En humoristisk demonstrasjon der instruktøren forklarer forskjellen mellom fade og draw ved hjelp av spillerens posisjon i forhold til ballen.",
+      "antall_punkter": 2,
+      "data_fil": "videos/3biCKXIfqLI.json"
+    },
+    {
+      "video_id": "3qYTL9sKGWI",
+      "url": "https://www.youtube.com/watch?v=3qYTL9sKGWI",
+      "video_lenke": "https://www.youtube.com/watch?v=3qYTL9sKGWI",
+      "title": "Spille par 3 med skiftende vind på Glen Arbor hull 11",
+      "temaer": [
+        "strategi",
+        "forhold",
+        "ballflight",
+        "mental"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan han håndterer skiftende vind på et par 3 med 150 yards til en todelt green, og forklarer valg av kølle, sikteslinje og ønsket ballflight.",
+      "antall_punkter": 4,
+      "data_fil": "videos/3qYTL9sKGWI.json"
+    },
+    {
+      "video_id": "3r2BxhsLoPA",
+      "url": "https://www.youtube.com/watch?v=3r2BxhsLoPA",
+      "video_lenke": "https://www.youtube.com/watch?v=3r2BxhsLoPA",
+      "title": "On-course rutine: stick swish og høyre-arm release med driver",
+      "temaer": [
+        "hoyre-hand",
+        "release",
+        "driver",
+        "trening",
+        "kropp",
+        "svingbane",
+        "mental"
+      ],
+      "kort_sammendrag": "Craig viser en prosess for å overføre stick swish-følelsen til driveren på banen, med fokus på høyre arms hinge-og-strekk og rolige føtter for å unngå reversering under press.",
+      "antall_punkter": 8,
+      "data_fil": "videos/3r2BxhsLoPA.json"
+    },
+    {
+      "video_id": "42Qzs20C1tk",
+      "url": "https://www.youtube.com/watch?v=42Qzs20C1tk",
+      "video_lenke": "https://www.youtube.com/watch?v=42Qzs20C1tk",
+      "title": "Strategi for hull 2 på Glen Wild – finn safe zone",
+      "temaer": [
+        "strategi",
+        "putting",
+        "kortspill"
+      ],
+      "kort_sammendrag": "Craig analyserer hull 2 på Glen Wild ved hjelp av en green reading-bok, og viser hvordan man identifiserer trygge soner og områder som må unngås for å score bedre.",
+      "antall_punkter": 6,
+      "data_fil": "videos/42Qzs20C1tk.json"
+    },
+    {
+      "video_id": "4BY4AQvoCGY",
+      "url": "https://www.youtube.com/watch?v=4BY4AQvoCGY",
+      "video_lenke": "https://www.youtube.com/watch?v=4BY4AQvoCGY",
+      "title": "Venstrehånds backhand-snap drill med Saber",
+      "temaer": [
+        "venstre-hand",
+        "release",
+        "trening",
+        "kropp",
+        "svingbane"
+      ],
+      "kort_sammendrag": "Craig demonstrerer en daglig venstrehåndsøvelse med en Saber/treningskølle for å styrke venstre arm og forbedre release og svingbane gjennom ballen.",
+      "antall_punkter": 6,
+      "data_fil": "videos/4BY4AQvoCGY.json"
+    },
+    {
+      "video_id": "4C3QGsh8dvk",
+      "url": "https://www.youtube.com/watch?v=4C3QGsh8dvk",
+      "video_lenke": "https://www.youtube.com/watch?v=4C3QGsh8dvk",
+      "title": "Saber vs Square Saber - Treningsverktøy for timing og teknikk",
+      "temaer": [
+        "trening",
+        "utstyr",
+        "timing",
+        "fart",
+        "release",
+        "kolleflate",
+        "baksvingen"
+      ],
+      "kort_sammendrag": "Craig Hocknull presenterer forskjellen mellom den originale runde saberen (styrke og fart) og den nye square saberen (timing og teknikk), og forklarer hvordan verktøyet hjelper med håndleddshengsel, kølleflatekontroll og sekvens i svingen.",
+      "antall_punkter": 5,
+      "data_fil": "videos/4C3QGsh8dvk.json"
+    },
+    {
+      "video_id": "4PJ49aSDFVU",
+      "url": "https://www.youtube.com/watch?v=4PJ49aSDFVU",
+      "video_lenke": "https://www.youtube.com/watch?v=4PJ49aSDFVU",
+      "title": "Utstyr og klær til barn som starter med golf",
+      "temaer": [
+        "utstyr",
+        "annet",
+        "setup",
+        "grep"
+      ],
+      "kort_sammendrag": "Craig gir praktiske råd om hva barn trenger av klær og utstyr for å begynne med golf, med fokus på enkelhet, komfort og sikkerhet fremfor dyrt utstyr.",
+      "antall_punkter": 10,
+      "data_fil": "videos/4PJ49aSDFVU.json"
+    },
+    {
+      "video_id": "4Q7cNCvV97Q",
+      "url": "https://www.youtube.com/watch?v=4Q7cNCvV97Q",
+      "video_lenke": "https://www.youtube.com/watch?v=4Q7cNCvV97Q",
+      "title": "Ballposisjon med Saber – chip, pitch, jern og driver",
+      "temaer": [
+        "setup",
+        "kropp",
+        "kortspill",
+        "driver",
+        "release",
+        "tempo"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer hvordan ballposisjonen alltid skal ligge på innsiden av venstre hæl, og at man kun justerer høyre fot bakover for chip, pitch, jern og kølle. Dette gir presis bunn av svingbuen og kraftig hoftesnapp.",
+      "antall_punkter": 6,
+      "data_fil": "videos/4Q7cNCvV97Q.json"
+    },
+    {
+      "video_id": "4galN36IySg",
+      "url": "https://www.youtube.com/watch?v=4galN36IySg",
+      "video_lenke": "https://www.youtube.com/watch?v=4galN36IySg",
+      "title": "Posisjon 3 i golfsvingen - lastposisjon",
+      "temaer": [
+        "baksvingen",
+        "setup",
+        "kropp",
+        "trening",
+        "kollehode"
+      ],
+      "kort_sammendrag": "Craig Hocknull går gjennom posisjon 3 i baksvingen - en ladeposisjon med håndleddshengsel der ledende arm er parallell med bakken. Han bruker statisk hold i 10 sekunder for å avsløre ineffektive posisjoner.",
+      "antall_punkter": 7,
+      "data_fil": "videos/4galN36IySg.json"
+    },
+    {
+      "video_id": "4q72ckmVUQA",
+      "url": "https://www.youtube.com/watch?v=4q72ckmVUQA",
+      "video_lenke": "https://www.youtube.com/watch?v=4q72ckmVUQA",
+      "title": "Scramble-strategi: Velg riktig ball",
+      "temaer": [
+        "strategi",
+        "putting"
+      ],
+      "kort_sammendrag": "Craig forklarer at man i scramble ikke alltid bør velge ballen nærmest hullet, men heller den som gir hele laget best sjanse til å bidra.",
+      "antall_punkter": 3,
+      "data_fil": "videos/4q72ckmVUQA.json"
+    },
+    {
+      "video_id": "4qjnmkkFyeA",
+      "url": "https://www.youtube.com/watch?v=4qjnmkkFyeA",
+      "video_lenke": "https://www.youtube.com/watch?v=4qjnmkkFyeA",
+      "title": "Flytt motoren opp i overkroppen - skulder-tilt i stedet for flat rotasjon",
+      "temaer": [
+        "kropp",
+        "svingbane",
+        "wedge",
+        "release",
+        "ballflight",
+        "utstyr",
+        "setup",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig forklarer at hofter og skuldre må rotere på ulike plan: skuldrene skal vippe (side-bend/crunch) mens hoftene roterer rundt. Motoren flyttes fra hoftene opp til øvre rygg/brystkasse, og graden av tilt tilpasses kølletype.",
+      "antall_punkter": 11,
+      "data_fil": "videos/4qjnmkkFyeA.json"
+    },
+    {
+      "video_id": "5Azn2I3TkEI",
+      "url": "https://www.youtube.com/watch?v=5Azn2I3TkEI",
+      "video_lenke": "https://www.youtube.com/watch?v=5Azn2I3TkEI",
+      "title": "Tyngre putterhode for stabilere putteslag",
+      "temaer": [
+        "putting",
+        "utstyr",
+        "tempo",
+        "pressure"
+      ],
+      "kort_sammendrag": "Craig forklarer hvordan et tyngre putterhode (rundt 465 gram) gir mer stabilitet, bedre kadens og lar kroppen slappe av slik at putteren kan svinge fritt.",
+      "antall_punkter": 3,
+      "data_fil": "videos/5Azn2I3TkEI.json"
+    },
+    {
+      "video_id": "5Di_r4XBDbQ",
+      "url": "https://www.youtube.com/watch?v=5Di_r4XBDbQ",
+      "video_lenke": "https://www.youtube.com/watch?v=5Di_r4XBDbQ",
+      "title": "Opposite Hand Wrist Snapper Drill",
+      "temaer": [
+        "trening",
+        "release",
+        "hoyre-hand",
+        "venstre-hand",
+        "grep"
+      ],
+      "kort_sammendrag": "Craig demonstrerer en øvelse med Saber-treningsredskap der du bruker motsatt hånd for å trene håndleddssnap og symmetri i svingen.",
+      "antall_punkter": 3,
+      "data_fil": "videos/5Di_r4XBDbQ.json"
+    },
+    {
+      "video_id": "5QxO1S2Ty_s",
+      "url": "https://www.youtube.com/watch?v=5QxO1S2Ty_s",
+      "video_lenke": "https://www.youtube.com/watch?v=5QxO1S2Ty_s",
+      "title": "Slik slår du super flop shot",
+      "temaer": [
+        "wedge",
+        "kortspill",
+        "kolleflate",
+        "fart",
+        "grep",
+        "ujevnt-leie",
+        "mental"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer hvordan man slår en super flop shot ved å åpne kølleflaten kraftig og bruke mye fart slik at kølla glir under ballen med et streifende treff.",
+      "antall_punkter": 7,
+      "data_fil": "videos/5QxO1S2Ty_s.json"
+    },
+    {
+      "video_id": "5bXS92nw38w",
+      "url": "https://www.youtube.com/watch?v=5bXS92nw38w",
+      "video_lenke": "https://www.youtube.com/watch?v=5bXS92nw38w",
+      "title": "Plane awareness-øvelse med Golf Saber",
+      "temaer": [
+        "svingbane",
+        "kropp",
+        "trening",
+        "timing"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser en planøvelse med Golf Saber for å koble kroppsrotasjonen sammen med armsvingen og holde armen på riktig svingplan.",
+      "antall_punkter": 5,
+      "data_fil": "videos/5bXS92nw38w.json"
+    },
+    {
+      "video_id": "5tekLTrgSTU",
+      "url": "https://www.youtube.com/watch?v=5tekLTrgSTU",
+      "video_lenke": "https://www.youtube.com/watch?v=5tekLTrgSTU",
+      "title": "Oppsummering av 10 svingposisjoner med Saber-treningskølle",
+      "temaer": [
+        "trening",
+        "fart",
+        "kropp",
+        "tempo",
+        "timing"
+      ],
+      "kort_sammendrag": "Craig oppsummerer hvordan man bruker den tunge enden av Saber-treningskøllen til styrke, stabilitet og mobilitet i posisjon 1-6 og 8-10, og den lette enden til timing og fart i pass-through-posisjonen. Han forklarer også hvordan kroppssekvensering fra armhuler til ankler skaper hastighet.",
+      "antall_punkter": 5,
+      "data_fil": "videos/5tekLTrgSTU.json"
+    },
+    {
+      "video_id": "5u-T7cEojpw",
+      "url": "https://www.youtube.com/watch?v=5u-T7cEojpw",
+      "video_lenke": "https://www.youtube.com/watch?v=5u-T7cEojpw",
+      "title": "Motoren over hoftene og en stabil plattform under",
+      "temaer": [
+        "kropp",
+        "svingbane",
+        "driver",
+        "tempo",
+        "trening",
+        "fart",
+        "wedge"
+      ],
+      "kort_sammendrag": "Leksjonen handler om å skille 'motoren' (overkroppen/skuldrene) fra 'plattformen' (beina). Beina skal holde seg rolige og forankret i bakken mens skulderrotasjonen og obliques driver svingen, slik at armene forblir koblet til brystet.",
+      "antall_punkter": 9,
+      "data_fil": "videos/5u-T7cEojpw.json"
+    },
+    {
+      "video_id": "5vRVHKJPW8w",
+      "url": "https://www.youtube.com/watch?v=5vRVHKJPW8w",
+      "video_lenke": "https://www.youtube.com/watch?v=5vRVHKJPW8w",
+      "title": "Half snap drill for å fjerne svak fade",
+      "temaer": [
+        "release",
+        "ballflight",
+        "timing",
+        "trening",
+        "kropp",
+        "fart"
+      ],
+      "kort_sammendrag": "Craig forklarer at svak fade skyldes manglende akselerasjon fordi spilleren styrer køllen gjennom slaget. Han presenterer en half-snap-øvelse med Saber for å gjenopprette release og hastighet.",
+      "antall_punkter": 4,
+      "data_fil": "videos/5vRVHKJPW8w.json"
+    },
+    {
+      "video_id": "5zE7jA6Lkec",
+      "url": "https://www.youtube.com/watch?v=5zE7jA6Lkec",
+      "video_lenke": "https://www.youtube.com/watch?v=5zE7jA6Lkec",
+      "title": "Ballposisjon med Saber-treningshjelp",
+      "temaer": [
+        "setup",
+        "trening",
+        "kortspill",
+        "driver",
+        "wedge",
+        "ballflight"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan man bruker Saber-treningshjelpen til å sette opp riktig ballposisjon for chip, pitch, jern og treverk, og forklarer hvorfor konsistent ballposisjon er avgjørende for konsistente slag.",
+      "antall_punkter": 7,
+      "data_fil": "videos/5zE7jA6Lkec.json"
+    },
+    {
+      "video_id": "64E-b8mlp8Y",
+      "url": "https://www.youtube.com/watch?v=64E-b8mlp8Y",
+      "video_lenke": "https://www.youtube.com/watch?v=64E-b8mlp8Y",
+      "title": "Craig Hocknull demonstrerer driver fra høye tees",
+      "temaer": [
+        "driver",
+        "ballflight",
+        "kolleflate",
+        "rough"
+      ],
+      "kort_sammendrag": "Hocknull demonstrerer trickshots fra ulike høyder med driveren og forklarer hvordan kølleflatens orientering ved adresse påvirker ballflukten.",
+      "antall_punkter": 3,
+      "data_fil": "videos/64E-b8mlp8Y.json"
+    },
+    {
+      "video_id": "6FVU-yJScCo",
+      "url": "https://www.youtube.com/watch?v=6FVU-yJScCo",
+      "video_lenke": "https://www.youtube.com/watch?v=6FVU-yJScCo",
+      "title": "Heavy Swish – Saber Golf treningsøvelse",
+      "temaer": [
+        "trening",
+        "fart",
+        "kropp",
+        "tempo"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer 'heavy swish'-øvelsen med Saber-treningsverktøyet for å bygge styrke, fart, fleksibilitet og timing i svingen.",
+      "antall_punkter": 4,
+      "data_fil": "videos/6FVU-yJScCo.json"
+    },
+    {
+      "video_id": "6Z22rhb5wEE",
+      "url": "https://www.youtube.com/watch?v=6Z22rhb5wEE",
+      "video_lenke": "https://www.youtube.com/watch?v=6Z22rhb5wEE",
+      "title": "Grep og håndledd-piskebevegelse for mer fart og bedre kontakt",
+      "temaer": [
+        "grep",
+        "hoyre-hand",
+        "venstre-hand",
+        "release",
+        "fart",
+        "tempo",
+        "setup",
+        "svingbane",
+        "kropp",
+        "ballflight"
+      ],
+      "kort_sammendrag": "Craig viser hvordan grepet og bruken av høyre hånd skaper en piskebevegelse i stedet for stivt styring av køllen. Fokus på finger fremfor tommel, riktig hingebevegelse og en sirkulær kast-følelse i nedsvingen.",
+      "antall_punkter": 10,
+      "data_fil": "videos/6Z22rhb5wEE.json"
+    },
+    {
+      "video_id": "6bcXc3o9-Vg",
+      "url": "https://www.youtube.com/watch?v=6bcXc3o9-Vg",
+      "video_lenke": "https://www.youtube.com/watch?v=6bcXc3o9-Vg",
+      "title": "Strategi og greenlesing - 10. hull på Glen Wild Golf Club",
+      "temaer": [
+        "strategi",
+        "kortspill",
+        "wedge",
+        "putting"
+      ],
+      "kort_sammendrag": "Craig gjennomgår strategien for innspill og greenlesing på 10. hull (kort par 4) ved Glen Wild Golf Club, og viser hvordan man bruker en 20x20 yard sikker sone for å score best mulig.",
+      "antall_punkter": 7,
+      "data_fil": "videos/6bcXc3o9-Vg.json"
+    },
+    {
+      "video_id": "6f7FbfTEu-o",
+      "url": "https://www.youtube.com/watch?v=6f7FbfTEu-o",
+      "video_lenke": "https://www.youtube.com/watch?v=6f7FbfTEu-o",
+      "title": "Driver-tips: oppstilling, ballposisjon og setup",
+      "temaer": [
+        "driver",
+        "setup",
+        "ballflight",
+        "utstyr",
+        "grep"
+      ],
+      "kort_sammendrag": "Craig viser hvordan korrekt oppstilling og ballposisjon med driver påvirker fade og draw, og hvorfor en balansert setup med svevende kølle gir bedre kontakt.",
+      "antall_punkter": 5,
+      "data_fil": "videos/6f7FbfTEu-o.json"
+    },
+    {
+      "video_id": "6frLyOFY65s",
+      "url": "https://www.youtube.com/watch?v=6frLyOFY65s",
+      "video_lenke": "https://www.youtube.com/watch?v=6frLyOFY65s",
+      "title": "Driver-trening: bredere stand, post opp og tren under stress",
+      "temaer": [
+        "driver",
+        "kropp",
+        "setup",
+        "trening",
+        "pressure",
+        "ballflight",
+        "kolleflate",
+        "release",
+        "fart",
+        "mental"
+      ],
+      "kort_sammendrag": "Craig jobber med bredere stand og bedre venstrebensarbeid for å unngå å skli og treffe for bratt med driver, samtidig som han trener under stress for å gjøre konkurransen lettere.",
+      "antall_punkter": 9,
+      "data_fil": "videos/6frLyOFY65s.json"
+    },
+    {
+      "video_id": "6hlG_MJb7jA",
+      "url": "https://www.youtube.com/watch?v=6hlG_MJb7jA",
+      "video_lenke": "https://www.youtube.com/watch?v=6hlG_MJb7jA",
+      "title": "Korte og lange greenside bunkerslag",
+      "temaer": [
+        "bunker",
+        "wedge",
+        "setup",
+        "kortspill"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer forskjellen mellom et kort, spinnende bunkerslag og et langt, flytende bunkerslag fra greenside-bunker, med fokus på setup og svinglengde.",
+      "antall_punkter": 7,
+      "data_fil": "videos/6hlG_MJb7jA.json"
+    },
+    {
+      "video_id": "6qikiwWgq_Q",
+      "url": "https://www.youtube.com/watch?v=6qikiwWgq_Q",
+      "video_lenke": "https://www.youtube.com/watch?v=6qikiwWgq_Q",
+      "title": "Grep, swish og timing med Craig Hocknull",
+      "temaer": [
+        "grep",
+        "hoyre-hand",
+        "venstre-hand",
+        "oppvarming",
+        "release",
+        "timing",
+        "setup",
+        "trening",
+        "kolleflate",
+        "wedge",
+        "kropp"
+      ],
+      "kort_sammendrag": "Craig viser hvordan man varmer opp med en sabel/treningsstang, bygger et funksjonelt grep i fingrene og time releasen tidlig nok i nedsvingen for å treffe ballen rent.",
+      "antall_punkter": 17,
+      "data_fil": "videos/6qikiwWgq_Q.json"
+    },
+    {
+      "video_id": "6y2ActRlDbI",
+      "url": "https://www.youtube.com/watch?v=6y2ActRlDbI",
+      "video_lenke": "https://www.youtube.com/watch?v=6y2ActRlDbI",
+      "title": "Backswing Swisher Drill",
+      "temaer": [
+        "baksvingen",
+        "fart",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig viser en øvelse kalt 'backswing swisher' som bygger dynamisk fart og momentum inn i baksvingen, ikke bare fleksibilitet og coil.",
+      "antall_punkter": 3,
+      "data_fil": "videos/6y2ActRlDbI.json"
+    },
+    {
+      "video_id": "76ifkPdz9N8",
+      "url": "https://www.youtube.com/watch?v=76ifkPdz9N8",
+      "video_lenke": "https://www.youtube.com/watch?v=76ifkPdz9N8",
+      "title": "Vinne section major - mental tilnærming",
+      "temaer": [
+        "mental",
+        "strategi",
+        "putting"
+      ],
+      "kort_sammendrag": "Craig forteller om hvordan han vant en section major championship med tålmodighet og mental ro under krevende forhold, uten konkrete tekniske instruksjoner.",
+      "antall_punkter": 5,
+      "data_fil": "videos/76ifkPdz9N8.json"
+    },
+    {
+      "video_id": "7D-bFvOd5lw",
+      "url": "https://www.youtube.com/watch?v=7D-bFvOd5lw",
+      "video_lenke": "https://www.youtube.com/watch?v=7D-bFvOd5lw",
+      "title": "Tren golfsvingen ved å slå fra knærne",
+      "temaer": [
+        "trening",
+        "svingbane",
+        "fart"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer hvordan å slå golfballer fra knærne kan trene riktig svingplan og håndhastighet, og hjelpe spillere som slicer eller hooker.",
+      "antall_punkter": 4,
+      "data_fil": "videos/7D-bFvOd5lw.json"
+    },
+    {
+      "video_id": "7KiouIPZ2yE",
+      "url": "https://www.youtube.com/watch?v=7KiouIPZ2yE",
+      "video_lenke": "https://www.youtube.com/watch?v=7KiouIPZ2yE",
+      "title": "Hvordan kølla jobber gjennom sanden i bunker",
+      "temaer": [
+        "bunker",
+        "kortspill",
+        "kolleflate",
+        "svingbane",
+        "setup",
+        "fart"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer at det er sanden, ikke kølleflaten, som flytter ballen ut av bunkeren, og at svingbanen styrer retning og høyde.",
+      "antall_punkter": 7,
+      "data_fil": "videos/7KiouIPZ2yE.json"
+    },
+    {
+      "video_id": "7PDfEO_LDoc",
+      "url": "https://www.youtube.com/watch?v=7PDfEO_LDoc",
+      "video_lenke": "https://www.youtube.com/watch?v=7PDfEO_LDoc",
+      "title": "Mental forberedelse og sikting på par 3 med øy-green",
+      "temaer": [
+        "mental",
+        "strategi",
+        "setup",
+        "tempo"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan man håndterer en skummel par 3 ved å fokusere på hvor man vil treffe i stedet for trøbbelet rundt, og bruke et mellompunkt foran ballen for bedre sikting.",
+      "antall_punkter": 4,
+      "data_fil": "videos/7PDfEO_LDoc.json"
+    },
+    {
+      "video_id": "7VfFhRKS1a8",
+      "url": "https://www.youtube.com/watch?v=7VfFhRKS1a8",
+      "video_lenke": "https://www.youtube.com/watch?v=7VfFhRKS1a8",
+      "title": "Bunkerteknikk: bedre avstandskontroll med mindre loft og chippeaksjon",
+      "temaer": [
+        "bunker",
+        "wedge",
+        "avstandskontroll",
+        "kortspill",
+        "kolleflate",
+        "kropp",
+        "trening"
+      ],
+      "kort_sammendrag": "Craig viser hvordan man kan få bedre presisjon på korte bunkerslag ved å bruke en mindre loftet kølle (54/56) og en liten chippeaksjon i stedet for et stort splash-slag med 58/60.",
+      "antall_punkter": 8,
+      "data_fil": "videos/7VfFhRKS1a8.json"
+    },
+    {
+      "video_id": "7g3UG61q7Tg",
+      "url": "https://www.youtube.com/watch?v=7g3UG61q7Tg",
+      "video_lenke": "https://www.youtube.com/watch?v=7g3UG61q7Tg",
+      "title": "Chop and Stop - kortspillteknikk",
+      "temaer": [
+        "kortspill",
+        "wedge",
+        "bunker",
+        "rough",
+        "baksvingen"
+      ],
+      "kort_sammendrag": "Craig Hocknull demonstrerer en 'chop and stop'-teknikk for pitch, chip, bunker og rough hvor du løfter køllen høyt opp, slår ned og stopper svingen ved nedslaget i stedet for å ha en lang followthrough.",
+      "antall_punkter": 7,
+      "data_fil": "videos/7g3UG61q7Tg.json"
+    },
+    {
+      "video_id": "7g87oDZ0HbI",
+      "url": "https://www.youtube.com/watch?v=7g87oDZ0HbI",
+      "video_lenke": "https://www.youtube.com/watch?v=7g87oDZ0HbI",
+      "title": "Wedge-slag når ballen ligger over føttene",
+      "temaer": [
+        "wedge",
+        "ujevnt-leie",
+        "kolleflate",
+        "setup",
+        "kortspill",
+        "strategi"
+      ],
+      "kort_sammendrag": "Craig Hocknull forklarer hvordan du slår wedge når ballen ligger over føttene: ta mer kølle, åpne kølleflaten for å motvirke hellingens hook-effekt, og sving rolig for å holde balansen.",
+      "antall_punkter": 5,
+      "data_fil": "videos/7g87oDZ0HbI.json"
+    },
+    {
+      "video_id": "7tN5pSYoP68",
+      "url": "https://www.youtube.com/watch?v=7tN5pSYoP68",
+      "video_lenke": "https://www.youtube.com/watch?v=7tN5pSYoP68",
+      "title": "Putte-teknikk med ulike køller fra forkant av green",
+      "temaer": [
+        "kortspill",
+        "putting",
+        "wedge",
+        "setup",
+        "avstandskontroll",
+        "strategi"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan du kan spille tre ulike trajektorier fra samme oppstilling ved å bruke putte-teknikk med jern 9, 56° og 60° wedge. Samme setup, kun lengden på slaget endres når loften øker.",
+      "antall_punkter": 6,
+      "data_fil": "videos/7tN5pSYoP68.json"
+    },
+    {
+      "video_id": "7v6Rje0YPbs",
+      "url": "https://www.youtube.com/watch?v=7v6Rje0YPbs",
+      "video_lenke": "https://www.youtube.com/watch?v=7v6Rje0YPbs",
+      "title": "Hvordan spille et trangt utslag uten å styre slaget",
+      "temaer": [
+        "driver",
+        "mental",
+        "tempo",
+        "grep",
+        "strategi",
+        "pressure"
+      ],
+      "kort_sammendrag": "Craig Hocknull viser hvordan man slår et trygt utslag på et trangt par 4 ved å unngå å styre køllen, lette på grepet og bygge tempo med en flytende prøvesving.",
+      "antall_punkter": 6,
+      "data_fil": "videos/7v6Rje0YPbs.json"
+    },
+    {
+      "video_id": "7zSP0_K_HrY",
+      "url": "https://www.youtube.com/watch?v=7zSP0_K_HrY",
+      "video_lenke": "https://www.youtube.com/watch?v=7zSP0_K_HrY",
+      "title": "Lese greener ved å se på regnvann",
+      "temaer": [
+        "putting",
+        "strategi",
+        "forhold"
+      ],
+      "kort_sammendrag": "Craig viser hvordan man kan bruke regnvær til å lese greener ved å observere hvor vannet samler seg og renner.",
+      "antall_punkter": 4,
+      "data_fil": "videos/7zSP0_K_HrY.json"
+    },
+    {
+      "video_id": "81hiHVRQGFc",
+      "url": "https://www.youtube.com/watch?v=81hiHVRQGFc",
+      "video_lenke": "https://www.youtube.com/watch?v=81hiHVRQGFc",
+      "title": "Outback Golf Show med Craig Hocknull",
+      "temaer": [
+        "driver",
+        "utstyr"
+      ],
+      "kort_sammendrag": "Dette er et TV-intervju med trickshot-artisten Craig Hocknull om showet hans, ikke en undervisningsvideo. Eneste konkrete golfpoeng er en kort kommentar om at lengre driver ikke nødvendigvis gir lengre slag.",
+      "antall_punkter": 1,
+      "data_fil": "videos/81hiHVRQGFc.json"
+    },
+    {
+      "video_id": "8xXG8HYx_jM",
+      "url": "https://www.youtube.com/watch?v=8xXG8HYx_jM",
+      "video_lenke": "https://www.youtube.com/watch?v=8xXG8HYx_jM",
+      "title": "Hocknulls gir-modell: hender, armer og hofter i riktig rekkefølge",
+      "temaer": [
+        "grep",
+        "kolleflate",
+        "release",
+        "hoyre-hand",
+        "kropp",
+        "pressure",
+        "tempo"
+      ],
+      "kort_sammendrag": "Hocknull forklarer svingen som gir: først grep/underarmer, deretter arm- og skuldersekvens, og først etterpå hofter/rotasjon/ground pressure. Hovedpoenget er at face-kontroll og armsekvens bør styre køllen før kroppen brukes til ekstra range og fart.",
+      "antall_punkter": 8,
+      "data_fil": "videos/8xXG8HYx_jM.json"
+    },
+    {
+      "video_id": "A3rkts8Mqbs",
+      "url": "https://www.youtube.com/watch?v=A3rkts8Mqbs",
+      "video_lenke": "https://www.youtube.com/watch?v=A3rkts8Mqbs&t=1047s",
+      "title": "Square kølleflate hele veien: mindre timing, mer fart",
+      "temaer": [
+        "kolleflate",
+        "kollehode",
+        "hoyre-hand",
+        "grep",
+        "release",
+        "fart",
+        "trening"
+      ],
+      "kort_sammendrag": "Hocknull gjør kølleflatekontroll til hovednøkkelen: spilleren skal lære å kjenne om flaten er square, åpen eller lukket gjennom hele bevegelsen, ikke bare prøve å time den ved impact. Her betyr square primært stabil face-orientering uten barrel-roll i hendene, slik at flaten kan matche path/target ved impact. Det gir mindre toveis-miss og gjør det mulig å svinge friere og raskere.",
+      "antall_punkter": 6,
+      "data_fil": "videos/A3rkts8Mqbs.json"
+    },
+    {
+      "video_id": "AaspD5iPaYM",
+      "url": "https://www.youtube.com/watch?v=AaspD5iPaYM",
+      "video_lenke": "https://www.youtube.com/watch?v=AaspD5iPaYM",
+      "title": "Square hele tiden: scoop i stedet for roll",
+      "temaer": [
+        "kolleflate",
+        "hoyre-hand",
+        "grep",
+        "release",
+        "fart",
+        "trening"
+      ],
+      "kort_sammendrag": "Denne videoen forklarer square-face-prinsippet svært tydelig: ruller du flaten åpen og lukket ved høy fart, er den bare rett i ett lite øyeblikk. Hocknull vil heller at spilleren hinger og scooper uten roll, slik at flaten holder seg square gjennom langt mer av bevegelsen.",
+      "antall_punkter": 5,
+      "data_fil": "videos/AaspD5iPaYM.json"
+    },
+    {
+      "video_id": "jyiIe-J7hlw",
+      "url": "https://www.youtube.com/watch?v=jyiIe-J7hlw",
+      "video_lenke": "https://www.youtube.com/watch?v=jyiIe-J7hlw",
+      "title": "Driverkontroll under press: tommel-feedback, throw og pivot",
+      "temaer": [
+        "driver",
+        "kolleflate",
+        "hoyre-hand",
+        "setup",
+        "ballflight",
+        "pressure",
+        "release",
+        "kropp",
+        "trening"
+      ],
+      "kort_sammendrag": "Hocknull jobber med en turneringsspiller som treffer korte jern godt, men mister kontroll med driver og lange køller. Løsningen blir å forenkle: armene svinger fritt, venstre tommel gir face-feedback, høyre hånd styrer throw/timing, og driveroppsettet gjøres mer likt jernslag slik at spilleren slipper å slide og kompensere.",
+      "antall_punkter": 10,
+      "data_fil": "videos/jyiIe-J7hlw.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "-GNtX64vSek",
+  "url": "https://www.youtube.com/watch?v=-GNtX64vSek",
+  "video_lenke": "https://www.youtube.com/watch?v=-GNtX64vSek",
+  "title": "Forsinket snap: mer håndfart uten stor hook",
+  "temaer": [
+    "hoyre-hand",
+    "timing",
+    "ballflight",
+    "release",
+    "kropp"
+  ],
+  "kort_sammendrag": "Hocknull jobber med en spiller som har fått mer håndfart og derfor begynner å hooke når releasen kommer for tidlig. Løsningen er ikke å senke hendene, men å bruke en liten kropp/drop-forsinkelse og deretter fyre hendene aggressivt på riktig tidspunkt.",
+  "laeringspunkter": [
+    {
+      "tittel": "Når håndfarten øker, må releasen flyttes senere",
+      "forklaring": "Spilleren har lært å kaste hendene raskere. Det er bra, men hvis samme raske snap starter fra toppen, blir face for tidlig lukket og ballen hooker for mye. Poenget er å beholde håndfarten, men flytte tidspunktet for snap lenger ned i svingen.",
+      "praktisk_folelse": "Ikke kast alt fra toppen. La hendene være raske, men la selve klikket komme lavere og nærmere ballen.",
+      "sitat": "your hand speeds jumped to 40 miles an hour now right so if you throw it 40 way up here now you've overdone it",
+      "relevans": "timing",
+      "punkt_id": "-GNtX64vSek-01"
+    },
+    {
+      "tittel": "Mini-drop med kropp før aggressiv hånd-release",
+      "forklaring": "Hocknull beskriver starten ned som en liten senking av bryst/skulder under, ikke som å trekke eller bare rotere hardt. Denne lille kroppsdroppen forsinker snapet, men må følges av en tydelig hånd-release.",
+      "praktisk_folelse": "Fra toppen: liten crunch/drop under, vent et øyeblikk, og fyr deretter triceps/hender gjennom.",
+      "sitat": "it's not that you're going to pull or turn it's that you're going to actually kind of lower the chest and the shoulder just down and then kind of snap in this bottom half",
+      "relevans": "hoyre-hand",
+      "punkt_id": "-GNtX64vSek-02"
+    },
+    {
+      "tittel": "Droppen må være liten, ellers blir du sen",
+      "forklaring": "For mye skulder/drop gjør at kroppen forsinker releasen mer enn ønsket. Da kan ballen starte venstre uten å trekke tilbake, eller gå mot en svakere fade/peel. Hocknull konkretiserer følelsen som noen få tommer, ikke en stor bevegelse.",
+      "praktisk_folelse": "Tenk tre tommer drop og så boom, ikke en hel fot med kropp før hendene kommer.",
+      "sitat": "you can crunch three inches and boom right so it's a mini drop and then fire the hands",
+      "relevans": "kropp",
+      "punkt_id": "-GNtX64vSek-03"
+    },
+    {
+      "tittel": "Bruk lyden av saber/klikk som timing-feedback",
+      "forklaring": "I stedet for å tenke på mange mekaniske detaljer, bruker Hocknull lyden av snapet som feedback. Tidlig snap rundt midjehøyde gir stor hook; snap altfor langt foran er for sent. Ønsket timing er omtrent ved/passering av venstre bein.",
+      "praktisk_folelse": "Prøv å høre klikket litt senere enn før, omtrent ved venstre bein, og vurder ballkurven etterpå.",
+      "sitat": "instead of creating an audible snap early i'm going to create it a fraction later",
+      "relevans": "timing",
+      "punkt_id": "-GNtX64vSek-04"
+    },
+    {
+      "tittel": "Ikke fiks hooken ved å gjøre hendene tregere",
+      "forklaring": "Hocknull avviser løsningen der spilleren bare senker håndfarten for å få ballen i fairway. Det kan rette ballen ut, men tar bort distanse. Riktig sekvens lar spilleren slå både rettere og lengre fordi håndfarten kan beholdes eller økes.",
+      "praktisk_folelse": "Behold aggressiviteten i hendene; juster når releasen skjer, ikke hvor mye fart du tør å bruke.",
+      "sitat": "by fixing it the right way we're able to hit it straighter plus further",
+      "relevans": "ballflight",
+      "punkt_id": "-GNtX64vSek-05"
+    },
+    {
+      "tittel": "Millisekund tidlig eller sent former ballkurven",
+      "forklaring": "Hocknull forklarer draw/fade som svært små timingforskjeller. En spiller som treffer et millisekund tidlig får mer draw og litt mindre dynamisk loft; et millisekund sent gir mer fade, mer loft og ofte mindre lengde. Dette er akseptabelt når det er kontrollert, men ikke når timingen blir en hel 'sekund' tidlig og stor hook.",
+      "praktisk_folelse": "Spill gjerne en liten draw med marginalt tidlig release, men unngå den store tidlige releasen som krever ekstrem sikting.",
+      "sitat": "rory mcilroy who hits that beautiful draw well he's playing golf a millisecond early",
+      "relevans": "ballflight",
+      "punkt_id": "-GNtX64vSek-06"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "0HOZ73TqlW8",
+  "url": "https://www.youtube.com/watch?v=0HOZ73TqlW8",
+  "video_lenke": "https://www.youtube.com/watch?v=0HOZ73TqlW8",
+  "title": "Bunkeravstand: les sanden og velg V eller U",
+  "temaer": [
+    "bunker",
+    "kortspill",
+    "setup",
+    "kolleflate"
+  ],
+  "kort_sammendrag": "Hocknull viser hvordan sandtype, hvor dypt føttene synker, og svingform styrer carry fra bunker. Kort bunker = mer V-form og dypere føtter; lengre carry = mer U-form, mindre åpen face og mindre nedgraving.",
+  "laeringspunkter": [
+    {
+      "tittel": "Les sanden før du velger teknikk",
+      "forklaring": "Han starter med å vurdere om sanden er fluffy, våt, kompakt, nyfylt eller tynn. Det avgjør hvor aggressivt køllen kan gå ned i sanden og hvor mye den vil grave.",
+      "praktisk_folelse": "Bruk føttene lovlig til å kjenne dybde og fasthet før slaget.",
+      "sitat": "how you hit the shot really gets set up in the beginning by understanding the surface",
+      "relevans": "bunker",
+      "punkt_id": "0HOZ73TqlW8-01"
+    },
+    {
+      "tittel": "Dypere føtter gir kortere slag",
+      "forklaring": "Når du graver føttene mer ned, senker du kroppen og får lettere mer sand mellom kølle og ball. Det passer bedre når ballen skal kortere ut og stoppe raskt.",
+      "praktisk_folelse": "For kort bunker: grav føttene godt ned, senk hendene og la køllen jobbe brattere.",
+      "sitat": "if you want to make it go short dig your feet in a lot",
+      "relevans": "setup",
+      "punkt_id": "0HOZ73TqlW8-02"
+    },
+    {
+      "tittel": "V-form gir kortere carry",
+      "forklaring": "En mer vertikal opp-og-ned bevegelse slår sanden ned og opp. Ballen popper mer opp, flyr kortere og lander mykere.",
+      "praktisk_folelse": "Plukk køllen mer rett opp og slå mer rett ned når carryen skal være kort.",
+      "sitat": "if I chop down like a V that ball is going to kind of go up and land soft",
+      "relevans": "kortspill",
+      "punkt_id": "0HOZ73TqlW8-03"
+    },
+    {
+      "tittel": "U-form gir lengre carry",
+      "forklaring": "For lengre bunkerlag bruker han en bredere og grunnere bue. Han graver ikke føttene like dypt, spiller face litt mer square og lar ballen reise lenger før den lander.",
+      "praktisk_folelse": "Bredere takeaway og bredere follow-through når ballen skal fly lenger.",
+      "sitat": "if you're trying to make it go out a little bit further ... use more of a u shape",
+      "relevans": "kortspill",
+      "punkt_id": "0HOZ73TqlW8-04"
+    },
+    {
+      "tittel": "Spin styres av sandmengden mellom face og ball",
+      "forklaring": "Han peker på at carry og spin ikke bare er swingform; hvor nær ballen du treffer og hvor mye sand som kommer mellom face og ball er avgjørende.",
+      "praktisk_folelse": "Juster inngangspunkt og sandmengde separat fra V/U-formen når du trener spin.",
+      "sitat": "how much sand do you get between the club face and the ball",
+      "relevans": "kolleflate",
+      "punkt_id": "0HOZ73TqlW8-05"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "A3rkts8Mqbs",
+  "url": "https://www.youtube.com/watch?v=A3rkts8Mqbs",
+  "video_lenke": "https://www.youtube.com/watch?v=A3rkts8Mqbs&t=1047s",
+  "title": "Square kølleflate hele veien: mindre timing, mer fart",
+  "temaer": [
+    "kolleflate",
+    "kollehode",
+    "hoyre-hand",
+    "grep",
+    "release",
+    "fart",
+    "trening"
+  ],
+  "kort_sammendrag": "Hocknull gjør kølleflatekontroll til hovednøkkelen: spilleren skal lære å kjenne om flaten er square, åpen eller lukket gjennom hele bevegelsen, ikke bare prøve å time den ved impact. Her betyr square primært stabil face-orientering uten barrel-roll i hendene, slik at flaten kan matche path/target ved impact. Det gir mindre toveis-miss og gjør det mulig å svinge friere og raskere.",
+  "laeringspunkter": [
+    {
+      "tittel": "Hold flaten square hele veien",
+      "forklaring": "Dette er kjernen i videoen. Hocknull sier at måten å holde flaten rett på er å holde den rett gjennom hele bevegelsen. Straight betyr ikke at kølleflaten fysisk peker på målet eller ligger square mot svingplanet i alle posisjoner. Det betyr at flaten ikke barrel-roller åpen/lukket relativt til grepet, hendene og køllehodets egen orientering. Ved impact skal denne stabile face-orienteringen matche path/startlinje, slik han kaller en path-face match.",
+      "praktisk_folelse": "Kjenn at grepet og håndleddene ikke lar kølleflaten rulle åpen/lukket rundt skaftet; flaten skal oppleves som square, square, square i hendene mens køllehodet beveger seg gjennom buen.",
+      "sitat": "the way you keep the face straight is by keeping the face straight the entire time",
+      "relevans": "kolleflate",
+      "punkt_id": "A3rkts8Mqbs-01"
+    },
+    {
+      "tittel": "Face awareness går fra hjerne til hånd",
+      "forklaring": "Han prøver å åpne en nevral kobling fra hjerne til høyre hånd, slik at spilleren kan kjenne små avvik i kølleflaten. Uten denne koblingen blir ballstarten mer håp enn kontroll.",
+      "praktisk_folelse": "Bruk høyre hånd som sensor: merk om håndleddet ruller, vrir eller holder flaten stabil.",
+      "sitat": "open up the neural pathway from brain to right hand brain to right hand into right hand and then teach you a way to keep the face more square",
+      "relevans": "hoyre-hand",
+      "punkt_id": "A3rkts8Mqbs-02"
+    },
+    {
+      "tittel": "Ikke løs en åpen/lukket flate med timing",
+      "forklaring": "Hvis flaten åpner på vei ned, må spilleren kompensere ved å flippe eller lukke den sent. Hocknull beskriver dette som vanskeligere enn å holde flaten stabil fra start, særlig med driver og høy fart.",
+      "praktisk_folelse": "Ikke la flaten droppe åpen i starten av nedsvingen og prøve å redde den senere; hold forholdet i hendene stabilt fra toppen.",
+      "sitat": "you didn't keep the face where you started it it actually dropped it dropped a little open and then you had to close it on the way through",
+      "relevans": "release",
+      "punkt_id": "A3rkts8Mqbs-03"
+    },
+    {
+      "tittel": "Fravær av rotasjon gir presisjon",
+      "forklaring": "Han sier at nøyaktighet kommer fra fravær av unødvendig bevegelse i grepet. Det er særlig viktig for en spiller med toveis-miss: målet er ikke å eliminere all miss straks, men å redusere hvor langt missene går til begge sider.",
+      "praktisk_folelse": "Sving frem og tilbake og kjenn om grepet vrir seg. Mindre vridning betyr mindre spredning.",
+      "sitat": "accuracy is going to come from the absence of movement yeah in the grip",
+      "relevans": "grep",
+      "punkt_id": "A3rkts8Mqbs-04"
+    },
+    {
+      "tittel": "Square-mekanismen frigjør fart",
+      "forklaring": "Når spilleren ikke må bruke atletismen på å square flaten i siste øyeblikk, kan mer av energien brukes på fart, rotasjon og armspeed. Hocknull sier dette var avgjørende for hans egen fart med driver, fairwaywood og lange jern.",
+      "praktisk_folelse": "Når flaten kjennes stabil, la kroppen og armene svinge friere uten frykt for at ballen går langt offline.",
+      "sitat": "now that my clubface squareness mechanism is so much easier for me to do i'm not exhausting all of my athleticism to square up the face",
+      "relevans": "fart",
+      "punkt_id": "A3rkts8Mqbs-05"
+    },
+    {
+      "tittel": "Bruk Saber/stripe som visuell kontroll",
+      "forklaring": "Mot slutten bruker han Saber og en blå stripe som feedback: hvis stripen holder seg på toppen, får spilleren en tydeligere følelse av at flaten ikke barrel-roller. Dette gjør treningen mer konkret hjemme.",
+      "praktisk_folelse": "Øv waggle og halvsvinger med en tydelig stripe/flate som blir liggende på toppen, slik at du ser og kjenner når køllehodet holder seg square.",
+      "sitat": "the main exercise for you is just making sure this blue stripe stays on top",
+      "relevans": "trening",
+      "punkt_id": "A3rkts8Mqbs-06"
+    }
+  ],
+  "relaterte_kilder": [
+    {
+      "video_id": "AaspD5iPaYM",
+      "url": "https://www.youtube.com/watch?v=AaspD5iPaYM",
+      "hvorfor": "Forklarer samme square-face-prinsipp enda tydeligere: rulling åpen/lukket gir bare ett rett øyeblikk, mens hinge/scoop uten roll holder flaten square nesten hele tiden."
+    },
+    {
+      "video_id": "GPlaLnY33qo",
+      "url": "https://www.youtube.com/watch?v=GPlaLnY33qo",
+      "hvorfor": "Presiserer at spilleren ikke skal guide flaten mot target med hendene; når grep og swish er riktig, er straightness allerede bygget inn."
+    },
+    {
+      "video_id": "6qikiwWgq_Q",
+      "url": "https://www.youtube.com/watch?v=6qikiwWgq_Q",
+      "hvorfor": "Forklarer blue-stripe/Saber-feedback: hold stripen på topp for å unngå å rulle flaten åpen eller lukket."
+    }
+  ]
+}
