@@ -1,6 +1,6 @@
 {
   "tittel": "Craig Hocknull læringsbibliotek",
-  "antall_videoer": 87,
+  "antall_videoer": 88,
   "videoer": [
     {
       "video_id": "-06AGEMywLQ",
@@ -1364,6 +1364,22 @@
       "kort_sammendrag": "Craig viser hvordan man bruker prikkene på en Saber-treningshjelp til å kontrollere lengden og symmetrien i puttestrøket.",
       "antall_punkter": 4,
       "data_fil": "videos/B3EaxvEX5YQ.json"
+    },
+    {
+      "video_id": "B4GdKzc2IF8",
+      "url": "https://www.youtube.com/watch?v=B4GdKzc2IF8",
+      "video_lenke": "https://www.youtube.com/watch?v=B4GdKzc2IF8",
+      "title": "Saber-oppvarming: fra 5-jern til driver",
+      "temaer": [
+        "oppvarming",
+        "fart",
+        "driver",
+        "trening",
+        "release"
+      ],
+      "kort_sammendrag": "Craig viser siste steg i sin saber-oppvarmingsrutine, der følelsen fra saberen overføres til faktiske slag med 5-jern og driver før runden.",
+      "antall_punkter": 5,
+      "data_fil": "videos/B4GdKzc2IF8.json"
     },
     {
       "video_id": "jyiIe-J7hlw",
