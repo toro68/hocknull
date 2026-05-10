@@ -12,7 +12,8 @@
     "timing",
     "trening",
     "kolleflate",
-    "tempo"
+    "tempo",
+    "kortspill"
   ],
   "kort_sammendrag": "Craig Hocknull demonstrerer en trinnvis drill (grip, stance, bow, pop, drop, spin, set, snap) med Saber-treningsverktøyet for å bygge riktig sekvens, timing og en svingbane som hindrer slice.",
   "laeringspunkter": [
@@ -119,6 +120,22 @@
       "sitat": "When you're breaking the swing down into pieces that's when you go to light snap",
       "relevans": "trening",
       "punkt_id": "H0rGVL90U8g-13"
+    },
+    {
+      "tittel": "Ballposisjon er alltid den samme – bakfoten flyttes, ikke ballen",
+      "forklaring": "Ballen skal alltid ligge på samme sted relativt til frontbeinet: ved lommen/beltespennen på det fremre hoften. Det er bakfoten som flyttes inn (chip), ut (jern) eller enda lenger ut (driver) for å justere stance-bredde. Å flytte ballen bakover for kortere jern er en vanlig misforståelse – å holde en fast ballposisjon gir fast timing hvert slag.",
+      "praktisk_folelse": "Plasser Saberen på bakken med ball-merket pekende mot ballen. Hold venstrefoten på script-merket. Flytt høyrefoten mot chip/pitch/iron/wood-merkene mens ballen og venstrefoten forblir på plass.",
+      "sitat": "standard ball position always off that belt loop... your right foot moves",
+      "relevans": "setup",
+      "punkt_id": "H0rGVL90U8g-14"
+    },
+    {
+      "tittel": "Chip til et landingspunkt, ikke mot flagget",
+      "forklaring": "Når du chipper skal målet alltid være et konkret landingspunkt på greenen, ikke flaggstanga. Velg en spot der ballen skal lande og trill frem mot hullet. Dette gir mer presis distansekontroll enn å sikte direkte mot pinnen.",
+      "praktisk_folelse": "Finn landingspunktet ditt FØR du setter deg over ballen. Fokuser blikket på spoten, ikke hullet.",
+      "sitat": "don't chip with the flag necessarily as your goal, chip with the landing spot as your goal",
+      "relevans": "kortspill",
+      "punkt_id": "H0rGVL90U8g-15"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=H0rGVL90U8g"

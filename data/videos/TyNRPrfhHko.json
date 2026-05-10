@@ -11,7 +11,8 @@
     "release",
     "trening",
     "baksvingen",
-    "ballflight"
+    "ballflight",
+    "utstyr"
   ],
   "kort_sammendrag": "Leksjonen handler om å øke svinghastighet med driver ved å time 'whoosh'-en slik at den topper ved ballen, samt bruke høyre tommel og pekefinger aktivt i grepet for å kaste køllehodet hardere.",
   "laeringspunkter": [
@@ -86,6 +87,14 @@
       "sitat": "three balls rapid fire we're just gonna go fast fast fast",
       "relevans": "trening",
       "punkt_id": "TyNRPrfhHko-09"
+    },
+    {
+      "tittel": "Fjern drivervekten for lettere speedtrening",
+      "forklaring": "Skru ut vekten fra justerbart driverhode (typisk 10–12 gram) for å trene med en lettere kølle. En lettere kølle gjør det enklere å kjenne hurtigere håndleddsbevegelse og oppdage riktig kasttiming.",
+      "praktisk_folelse": "Ta ut vektskruen med medfølgende nøkkel, swing noen ganger og kjenn at det er lettere å flikke fort. Denne lettere følelsen er referansen for hva riktig kasthastighet skal kjennes som.",
+      "sitat": "take that weight completely out... it's probably gonna be like 10 or 12 grams lighter... what we're looking for here is quickness quick speed",
+      "relevans": "utstyr",
+      "punkt_id": "TyNRPrfhHko-10"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=TyNRPrfhHko"

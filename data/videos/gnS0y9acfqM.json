@@ -10,7 +10,8 @@
     "setup",
     "fart",
     "release",
-    "svingbane"
+    "svingbane",
+    "kolleflate"
   ],
   "kort_sammendrag": "Craig lærer en elev å bytte ut en mekanisk, 'engineered' tilnærming med en mer atletisk pisking - som å bruke en kantklipper - for å skape fart, riktig grep og naturlig release.",
   "laeringspunkter": [
@@ -93,6 +94,14 @@
       "sitat": "as you go back this wrist on your right hand has to kind of load up",
       "relevans": "hoyre-hand",
       "punkt_id": "gnS0y9acfqM-10"
+    },
+    {
+      "tittel": "Kjenn grepet spinne for å diagnostisere hæl/tå-treff",
+      "forklaring": "Etter et treff kan du kjenne hvilken vei grepet sklir i hånden: sklir det bakover (mot deg), traff du ballen i tåen og står kanskje for langt unna. Sklir tåen fremover (fra deg), traff du i hælen og kan stå for nær.",
+      "praktisk_folelse": "Hold grepet lett nok til at du kan kjenne rotasjonen – ikke klem grepen fast så du mister feedbacken.",
+      "sitat": "if it slips backwards that toe is being hit... so then you can get an idea based on what you feel in your hands if you're standing maybe too close too far",
+      "relevans": "kolleflate",
+      "punkt_id": "gnS0y9acfqM-11"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=gnS0y9acfqM"

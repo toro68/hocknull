@@ -13,7 +13,8 @@
     "fart",
     "trening",
     "oppvarming",
-    "utstyr"
+    "utstyr",
+    "release"
   ],
   "kort_sammendrag": "Craig jobber med å finne riktig baksvinglengde, forbedre kroppsrotasjon og holdning ('se på verden sidelengs'), justere grepet slik at høyre hånd kommer under, og øke clubhead-speed med driver gjennom solid treff fremfor ren fart.",
   "laeringspunkter": [
@@ -104,6 +105,14 @@
       "sitat": "that's the difference between hitting it solid versus hitting it fast",
       "relevans": "fart",
       "punkt_id": "QKrCMDIVSbo-11"
+    },
+    {
+      "tittel": "Steinhopp vs. steinbounse – ulike kastemål for driver og wedge",
+      "forklaring": "Med driver og lange køller er kastbevegelsen flat og bred som å kaste en stein over vannet (steinhopp). Med korte køller (wedge, 9-jern) er den mer ned og inn som å sprette en stein i bryggekanten. Ulike innfallsvinkler for ulike klølengder.",
+      "praktisk_folelse": "Med driver: bredt og flatere kast, tidlig release. Med wedge: mer ned og inn, stein som treffer bryggekanten ved foten.",
+      "sitat": "with a driver three woods hybrids your rock skipping... with wedges sand wedges nine irons you're more like rock splashing or rock bouncing off the lake side",
+      "relevans": "release",
+      "punkt_id": "QKrCMDIVSbo-12"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=QKrCMDIVSbo"

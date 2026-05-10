@@ -13,7 +13,8 @@
     "trening",
     "hoyre-hand",
     "ballflight",
-    "driver"
+    "driver",
+    "mental"
   ],
   "kort_sammendrag": "Craig fikser elevenes høye, åpne slag ved å gi dem riktig kølletilpasning, en sterkere grep-rotasjon og en svingfølelse av å meie ned mye gress i stedet for å treffe ett punkt.",
   "laeringspunkter": [
@@ -96,6 +97,22 @@
       "sitat": "Any flaw that you have just gets magnified by the time you get to the driver.",
       "relevans": "driver",
       "punkt_id": "PCtX076GMrA-10"
+    },
+    {
+      "tittel": "Bruk kjernemusklene (abs) som svingens motor",
+      "forklaring": "Stram magemusklene lett som forberedelse på rotasjonen. Skuldrene roterer og kjernen stabiliserer – kjernen er det som holder deg på riktig svingplan og gir konsistens, ikke føtter eller armer alene.",
+      "praktisk_folelse": "Tenk 'klem kjernen, roter skuldrene'. Etter svingen skal du kjenne at magen har jobbet.",
+      "sitat": "get your core strong ... using your stomach muscles and your shoulders to create this nice rotation",
+      "relevans": "kropp",
+      "punkt_id": "PCtX076GMrA-11"
+    },
+    {
+      "tittel": "Løs alltid for korrekt – ikke for det motsatte av feilen",
+      "forklaring": "Hvis ballen går høyre, er instinktet å sikte venstre. Men riktig løsning er alltid å gå tilbake til oppskriften: grep, rotasjon, mowing, stabile føtter. Ikke kompenser i motsatt retning – det skaper bare nye feil.",
+      "praktisk_folelse": "Driblet langs bakken? Tilbake til oppskriften. Hakket? Tilbake til oppskriften. Gikk høyre? Tilbake til oppskriften.",
+      "sitat": "always solve for correct ... if you dribble one along the ground, go back to the recipe",
+      "relevans": "mental",
+      "punkt_id": "PCtX076GMrA-12"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=PCtX076GMrA"

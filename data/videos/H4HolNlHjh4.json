@@ -13,7 +13,9 @@
     "fart",
     "baksvingen",
     "ballflight",
-    "grep"
+    "grep",
+    "driver",
+    "setup"
   ],
   "kort_sammendrag": "Craig lærer eleven å bytte ut stivhet i armer med mobilitet, og bruke hendene til å piske klubben gjennom ballen mens føttene og hoftene holdes rolige. Fokuset flyttes fra backswing-posisjoner til selve releasen gjennom treffområdet.",
   "laeringspunkter": [
@@ -96,6 +98,22 @@
       "sitat": "we clamp down and we grip tight and we try to manhandle the club... whereas if we really just kind of let the club do what it's supposed to do",
       "relevans": "grep",
       "punkt_id": "H4HolNlHjh4-10"
+    },
+    {
+      "tittel": "Driver: kastet må starte tidligere og flatere enn med jern",
+      "forklaring": "Fordi driveren er lang og legger seg flat bak kroppen i baksvingen, må kastet (release) starte flatt og tidlig – dypt bak kroppen – for at køllehodet rekker å komme inn til square ved treff. Et jern går mer vertikalt og trenger et litt seinere, mer vertikalt kast. Lengre kølle = tidligere throw.",
+      "praktisk_folelse": "Med driver: kjenn at du kaster bakenfor deg i stedet for ned foran deg. Prøv å treffe tykt rough en fot før ballen, akkurat som med jern, men med en flatere og tidligere throwing-bevegelse.",
+      "sitat": "the driver because it wraps around behind me is not only going to be flatter it's going to be deeper behind so then the throw is flatter and sooner",
+      "relevans": "driver",
+      "punkt_id": "H4HolNlHjh4-11"
+    },
+    {
+      "tittel": "Kasting-armer forlenger seg – stå litt lenger fra ballen",
+      "forklaring": "Når du faktisk kaster klubben gjennom ballen, strekker sentrifugalkraften armene dine lenger ut enn ved adresse. Hvis du setter opp med normal avstand fra ballen vil du treffe i hælen. Start med å adressere i tåen av køllehodet, og kast deretter gjennom – da vil armene strekke seg til sweet spot.",
+      "praktisk_folelse": "Sett køllen i adresse slik at bare tåen er bak ballen, ikke midten. Kast deretter gjennom – armene vil forlenge seg og plassere sweet spot bak ballen.",
+      "sitat": "because you're throwing it now your arms are getting longer so you have to scoot back... start it in the toe",
+      "relevans": "setup",
+      "punkt_id": "H4HolNlHjh4-12"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=H4HolNlHjh4"

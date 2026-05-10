@@ -984,7 +984,7 @@
         "fart"
       ],
       "kort_sammendrag": "Craig Hocknull forklarer at det er sanden, ikke kølleflaten, som flytter ballen ut av bunkeren, og at svingbanen styrer retning og høyde.",
-      "antall_punkter": 7,
+      "antall_punkter": 8,
       "data_fil": "videos/7KiouIPZ2yE.json"
     },
     {
@@ -1050,7 +1050,7 @@
         "strategi"
       ],
       "kort_sammendrag": "Craig Hocknull forklarer hvordan du slår wedge når ballen ligger over føttene: ta mer kølle, åpne kølleflaten for å motvirke hellingens hook-effekt, og sving rolig for å holde balansen.",
-      "antall_punkter": 5,
+      "antall_punkter": 6,
       "data_fil": "videos/7g87oDZ0HbI.json"
     },
     {
@@ -1264,7 +1264,7 @@
         "trening"
       ],
       "kort_sammendrag": "Hocknull gjør kølleflatekontroll til hovednøkkelen: spilleren skal lære å kjenne om flaten er square, åpen eller lukket gjennom hele bevegelsen, ikke bare prøve å time den ved impact. Her betyr square primært stabil face-orientering uten barrel-roll i hendene, slik at flaten kan matche path/target ved impact. Det gir mindre toveis-miss og gjør det mulig å svinge friere og raskere.",
-      "antall_punkter": 6,
+      "antall_punkter": 8,
       "data_fil": "videos/A3rkts8Mqbs.json"
     },
     {
@@ -1339,10 +1339,12 @@
         "grep",
         "release",
         "fart",
-        "trening"
+        "trening",
+        "kropp",
+        "ballflight"
       ],
       "kort_sammendrag": "Denne videoen forklarer square-face-prinsippet svært tydelig: ruller du flaten åpen og lukket ved høy fart, er den bare rett i ett lite øyeblikk. Hocknull vil heller at spilleren hinger og scooper uten roll, slik at flaten holder seg square gjennom langt mer av bevegelsen.",
-      "antall_punkter": 5,
+      "antall_punkter": 8,
       "data_fil": "videos/AaspD5iPaYM.json"
     },
     {
@@ -1832,10 +1834,11 @@
         "venstre-hand",
         "kropp",
         "svingbane",
-        "mental"
+        "mental",
+        "timing"
       ],
       "kort_sammendrag": "Craig bruker en kantklipper-analogi for å lære spilleren å hengsle og swishe gjennom ballen med høyre arm, uten å styre kølleflaten. Fokus på rolig kropp, riktig grep og å la timingen sørge for retningen.",
-      "antall_punkter": 11,
+      "antall_punkter": 13,
       "data_fil": "videos/GPlaLnY33qo.json"
     },
     {
@@ -1922,10 +1925,11 @@
         "timing",
         "trening",
         "kolleflate",
-        "tempo"
+        "tempo",
+        "kortspill"
       ],
       "kort_sammendrag": "Craig Hocknull demonstrerer en trinnvis drill (grip, stance, bow, pop, drop, spin, set, snap) med Saber-treningsverktøyet for å bygge riktig sekvens, timing og en svingbane som hindrer slice.",
-      "antall_punkter": 13,
+      "antall_punkter": 15,
       "data_fil": "videos/H0rGVL90U8g.json"
     },
     {
@@ -1961,10 +1965,12 @@
         "fart",
         "baksvingen",
         "ballflight",
-        "grep"
+        "grep",
+        "driver",
+        "setup"
       ],
       "kort_sammendrag": "Craig lærer eleven å bytte ut stivhet i armer med mobilitet, og bruke hendene til å piske klubben gjennom ballen mens føttene og hoftene holdes rolige. Fokuset flyttes fra backswing-posisjoner til selve releasen gjennom treffområdet.",
-      "antall_punkter": 10,
+      "antall_punkter": 12,
       "data_fil": "videos/H4HolNlHjh4.json"
     },
     {
@@ -2016,7 +2022,7 @@
         "trening"
       ],
       "kort_sammendrag": "Craig lærer eleven å bruke høyre underarm som hovedmotor i svingen ved å 'scoope' (ekstensjon til fleksjon i håndleddet). Resten av kroppen skal kun støtte denne bevegelsen, og hodeposisjon og grep justeres for å kontrollere ballflukt og draw.",
-      "antall_punkter": 12,
+      "antall_punkter": 13,
       "data_fil": "videos/HapuEMqfwK0.json"
     },
     {
@@ -2034,10 +2040,11 @@
         "mental",
         "release",
         "kropp",
-        "baksvingen"
+        "baksvingen",
+        "hoyre-hand"
       ],
       "kort_sammendrag": "Craig hjelper en spiller med å bytte ut en stiv, prosessdrevet sving med en mer atletisk, fri kastebevegelse – som å svinge en kvistkutter – og oppnår dramatisk økning i køllehastighet og lengde.",
-      "antall_punkter": 11,
+      "antall_punkter": 12,
       "data_fil": "videos/HbLM6blgHKk.json"
     },
     {
@@ -2199,7 +2206,7 @@
         "wedge"
       ],
       "kort_sammendrag": "Leksjonen handler om å overføre 'swish'-følelsen fra tennis til golf ved å flytte fartssonen ned til ballen, og holde skuldrene tippet/krøllet i nedsving og gjennomslag i stedet for å reise seg opp.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/I_l_8c1Ltso.json"
     },
     {
@@ -2456,7 +2463,7 @@
         "trening"
       ],
       "kort_sammendrag": "Craig Hocknull lærer hvordan man slår en Stinger/lav punch ved å bygge på følelsen av en bump-and-run chip: ball langt bak i stancen, lukket kølleflate, og legg på fart. Teknikken brukes i vind, til layup, fairway-finder og kontrollerte wedge-slag.",
-      "antall_punkter": 15,
+      "antall_punkter": 16,
       "data_fil": "videos/Kln9a8k8QMI.json"
     },
     {
@@ -2554,7 +2561,7 @@
         "fart"
       ],
       "kort_sammendrag": "Craig lærer bort en avslappet, rytmisk sving der håndleddene gjør jobben (flick) mens kroppen og hodet holdes rolige. Hovedpoengene er sakte tempo, tidlig nok release, og at haken fungerer som et fast ankerpunkt for svingen.",
-      "antall_punkter": 13,
+      "antall_punkter": 15,
       "data_fil": "videos/Lw1eH0WgmBI.json"
     },
     {
@@ -2676,7 +2683,7 @@
         "kolleflate"
       ],
       "kort_sammendrag": "Craig Hocknull forklarer hvordan man spiller fra fairwaybunker: behandle det som gress, men sving roligere, velg trygg kølle og ta medisinen i stedet for å prøve det heroiske slaget.",
-      "antall_punkter": 8,
+      "antall_punkter": 9,
       "data_fil": "videos/N6FfqqjG_qQ.json"
     },
     {
@@ -2748,7 +2755,7 @@
         "avstandskontroll"
       ],
       "kort_sammendrag": "Craig Hocknull gjennomgår en strategisk tilnærming til en par 3 på Glen Wild, med fokus på å identifisere trygge landingssoner og unngå farer ved å bruke en 20x20 yards feilmargin.",
-      "antall_punkter": 5,
+      "antall_punkter": 6,
       "data_fil": "videos/Nk2as64hUC0.json"
     },
     {
@@ -2850,7 +2857,7 @@
         "trening"
       ],
       "kort_sammendrag": "Craig lærer at golfsvingen skal føles som å hugge ugress – dominer med høyre hånd, pisk med håndleddene, og la kroppen gi rekkevidde og balanse fremfor kraft.",
-      "antall_punkter": 12,
+      "antall_punkter": 13,
       "data_fil": "videos/Ow2lN-G0Oik.json"
     },
     {
@@ -2868,7 +2875,7 @@
         "strategi"
       ],
       "kort_sammendrag": "Leksjonen fokuserer på å bytte ut for mye atletisk fotarbeid med en bredere stance, stabil balanse og en rolig kroppspivot for å få mer konsistente treff og bedre spredning.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/P0urjetn8FU.json"
     },
     {
@@ -2902,10 +2909,11 @@
         "trening",
         "hoyre-hand",
         "ballflight",
-        "driver"
+        "driver",
+        "mental"
       ],
       "kort_sammendrag": "Craig fikser elevenes høye, åpne slag ved å gi dem riktig kølletilpasning, en sterkere grep-rotasjon og en svingfølelse av å meie ned mye gress i stedet for å treffe ett punkt.",
-      "antall_punkter": 10,
+      "antall_punkter": 12,
       "data_fil": "videos/PCtX076GMrA.json"
     },
     {
@@ -3160,7 +3168,7 @@
         "setup"
       ],
       "kort_sammendrag": "Leksjonen fokuserer på å lade kølla sent på høyre pekefinger ('trigger finger') og slippe den derfra for bedre timing, hastighet og release. Det jobbes med tempodriller som doble svinger og rytmisk slag mot oppteede baller.",
-      "antall_punkter": 14,
+      "antall_punkter": 15,
       "data_fil": "videos/Q2RG6EzFqCk.json"
     },
     {
@@ -3193,10 +3201,11 @@
         "fart",
         "trening",
         "oppvarming",
-        "utstyr"
+        "utstyr",
+        "release"
       ],
       "kort_sammendrag": "Craig jobber med å finne riktig baksvinglengde, forbedre kroppsrotasjon og holdning ('se på verden sidelengs'), justere grepet slik at høyre hånd kommer under, og øke clubhead-speed med driver gjennom solid treff fremfor ren fart.",
-      "antall_punkter": 11,
+      "antall_punkter": 12,
       "data_fil": "videos/QKrCMDIVSbo.json"
     },
     {
@@ -3308,7 +3317,7 @@
         "ballflight"
       ],
       "kort_sammendrag": "Craig analyserer en spiller som er 'sneaky short' og lærer ham å skape fart ved å bruke venstre arm som en backhand-strekk (tricepsforlengelse) og slippe køllen tidlig før ballen i stedet for å føre/styre den.",
-      "antall_punkter": 10,
+      "antall_punkter": 12,
       "data_fil": "videos/RCFsnn8zv2A.json"
     },
     {
@@ -3639,10 +3648,11 @@
         "release",
         "trening",
         "baksvingen",
-        "ballflight"
+        "ballflight",
+        "utstyr"
       ],
       "kort_sammendrag": "Leksjonen handler om å øke svinghastighet med driver ved å time 'whoosh'-en slik at den topper ved ballen, samt bruke høyre tommel og pekefinger aktivt i grepet for å kaste køllehodet hardere.",
-      "antall_punkter": 9,
+      "antall_punkter": 10,
       "data_fil": "videos/TyNRPrfhHko.json"
     },
     {
@@ -3674,10 +3684,11 @@
         "pressure",
         "trening",
         "strategi",
-        "mental"
+        "mental",
+        "putting"
       ],
       "kort_sammendrag": "Craig Hocknull deler erfaringer fra PGA Tour-spill og snakker med et college-lag om hvordan man håndterer press, trener med mening og tar smarte beslutninger på banen.",
-      "antall_punkter": 7,
+      "antall_punkter": 10,
       "data_fil": "videos/UHJTKVZUlMc.json"
     },
     {
@@ -3743,7 +3754,7 @@
         "driver"
       ],
       "kort_sammendrag": "Craig forklarer at 'ear angle' (og dermed spine angle) må tilpasses hver kølle fordi køllene varierer i lengde og lie. Praktiske svingøvelser brukes til å finne riktig vinkel for skikkelig kontakt med bakken.",
-      "antall_punkter": 8,
+      "antall_punkter": 10,
       "data_fil": "videos/UncfWMbMqQQ.json"
     },
     {
@@ -3862,7 +3873,7 @@
         "mental"
       ],
       "kort_sammendrag": "Craig forklarer at skuldrene skal være motoren i svingen, mens armer og kølle bare følger med som en slynge. Et korrekt grep gjør at kølleflaten blir kvadratisk av seg selv, uten at man må rotere hendene gjennom treff.",
-      "antall_punkter": 10,
+      "antall_punkter": 12,
       "data_fil": "videos/VV4qiesSTjw.json"
     },
     {
@@ -4016,7 +4027,7 @@
         "mental"
       ],
       "kort_sammendrag": "Craig Hocknull forklarer hvordan du pitcher ved å bruke en forstørret putte-bevegelse, sveipe gjennom gresset i stedet for å slå ned på ballen, og tilpasse svinglengde og fart til avstand og motstand fra underlaget.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/X-TaHgG0lKs.json"
     },
     {
@@ -4048,7 +4059,7 @@
         "timing"
       ],
       "kort_sammendrag": "Craig forklarer at hofte-rotasjonen i nedsvingen er en effekt, ikke en årsak. Årsaken er at hodet og brystet 'crunches' ned og fremover som en vedhugger, kombinert med et sterkere grep for å holde kølleflaten kvadrat.",
-      "antall_punkter": 11,
+      "antall_punkter": 13,
       "data_fil": "videos/X3VpLqgUtGc.json"
     },
     {
@@ -4873,7 +4884,7 @@
         "utstyr"
       ],
       "kort_sammendrag": "Leksjonen fokuserer på å bygge fart med en tidlig 'swish' av armene, og kombinere dette med en stabil tiltet kroppsholdning og en mage-/sidekrøll (crunch) gjennom treffet for å få konsistent kontakt og lengde.",
-      "antall_punkter": 12,
+      "antall_punkter": 13,
       "data_fil": "videos/ciiwB2Wr268.json"
     },
     {
@@ -5011,7 +5022,7 @@
         "timing"
       ],
       "kort_sammendrag": "Craig argumenterer for at det meste av klubbhastigheten skapes med hender og armer, ikke kropp og hofter, fordi overdreven kroppsbruk gir spredning og inkonsistens. Han forklarer også hvordan utstyrsendringer (sterkere loft) påvirker lengde, og advarer mot å endre hele svingen for å nå et nytt nivå.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/e2GMN7FZfug.json"
     },
     {
@@ -5224,10 +5235,11 @@
         "setup",
         "fart",
         "release",
-        "svingbane"
+        "svingbane",
+        "kolleflate"
       ],
       "kort_sammendrag": "Craig lærer en elev å bytte ut en mekanisk, 'engineered' tilnærming med en mer atletisk pisking - som å bruke en kantklipper - for å skape fart, riktig grep og naturlig release.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/gnS0y9acfqM.json"
     },
     {
@@ -5541,7 +5553,7 @@
         "trening"
       ],
       "kort_sammendrag": "Hocknull jobber med en turneringsspiller som treffer korte jern godt, men mister kontroll med driver og lange køller. Løsningen blir å forenkle: armene svinger fritt, venstre tommel gir face-feedback, høyre hånd styrer throw/timing, og driveroppsettet gjøres mer likt jernslag slik at spilleren slipper å slide og kompensere.",
-      "antall_punkter": 10,
+      "antall_punkter": 11,
       "data_fil": "videos/jyiIe-J7hlw.json"
     },
     {
@@ -5660,7 +5672,7 @@
         "setup"
       ],
       "kort_sammendrag": "Craig snakker om viktigheten av visualisering og pre-shot routine, hvordan man tilpasser seg ukjente baner og vindforhold, samt en teknisk innsikt om håndleddsbevegelse gjennom slaget.",
-      "antall_punkter": 8,
+      "antall_punkter": 9,
       "data_fil": "videos/kEw16PMpSmw.json"
     },
     {
@@ -6057,7 +6069,7 @@
         "ballflight"
       ],
       "kort_sammendrag": "Craig hjelper en spiller å øke driverfarten fra 83 til 96 mph ved å kaste hendene tidligere i nedsvingen og deretter justere grepet sterkere for å matche kølleflaten.",
-      "antall_punkter": 11,
+      "antall_punkter": 12,
       "data_fil": "videos/n8ooTn1TegY.json"
     },
     {
@@ -7032,7 +7044,7 @@
         "setup"
       ],
       "kort_sammendrag": "Craig identifiserer at eleven mister grepet i baksvingen, noe som ødelegger timingen i releasen. Han bygger om grepet til en sterkere 'western'-posisjon og jobber med timing av kasterørelsen tilpasset hver enkelt kølle.",
-      "antall_punkter": 12,
+      "antall_punkter": 14,
       "data_fil": "videos/vM5GmUF71Dk.json"
     },
     {

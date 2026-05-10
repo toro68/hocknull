@@ -12,7 +12,8 @@
     "venstre-hand",
     "kropp",
     "svingbane",
-    "mental"
+    "mental",
+    "timing"
   ],
   "kort_sammendrag": "Craig bruker en kantklipper-analogi for å lære spilleren å hengsle og swishe gjennom ballen med høyre arm, uten å styre kølleflaten. Fokus på rolig kropp, riktig grep og å la timingen sørge for retningen.",
   "laeringspunkter": [
@@ -103,6 +104,22 @@
       "sitat": "this is way simpler than that",
       "relevans": "mental",
       "punkt_id": "GPlaLnY33qo-11"
+    },
+    {
+      "tittel": "Sen snap gir åpen flate til høyre; tidlig snap gir square flate",
+      "forklaring": "Retning er ikke styring av kølleflaten, men timing av snapsen. Snafer du for sent, er kølleflaten fortsatt åpen når den treffer ballen og ballen fader til høyre. Snafer du litt tidligere, er flaten square ved treff og ballen går rett. Saber-øvelsen trener tidspunktet for klikket: pause øverst, klikk bevisst tidlig nok.",
+      "praktisk_folelse": "Bruk saberen: pull tilbake, pause, snap det 'sooner' enn du tror. Hør at klikket kommer mens køllen ennå er på vei ned, ikke etter at den har passert bunnen.",
+      "sitat": "if you timed it late you're going to glance it off to the right time it early you're going to square it up",
+      "relevans": "timing",
+      "punkt_id": "GPlaLnY33qo-12"
+    },
+    {
+      "tittel": "Ikke hjelp wedgen opp i luften – swishen er nok",
+      "forklaring": "Spillere scooper instinktivt wedge-slag fordi de tror køllen trenger hjelp for å løfte ballen. Det er feil: ingeniørene har designet loftet til å gjøre jobben. Å forsøke å hjelpe ballen opp fører til tynne og scoopede slag. Bare swish gjennom kontaktpunktet; loftet launcher ballen automatisk.",
+      "praktisk_folelse": "Tenk 'mow the grass' gjennom ballen – samme gress-klippe-bevegelse som på prøvesvingen. I det øyeblikket du begynner å 'hjelpe' ballen opp, er det et tegn på at du har glemt swishen.",
+      "sitat": "when you flick your hands just like that first one it's going to jump you don't have to do anything to help it",
+      "relevans": "wedge",
+      "punkt_id": "GPlaLnY33qo-13"
     }
   ],
   "video_lenke": "https://www.youtube.com/watch?v=GPlaLnY33qo"
