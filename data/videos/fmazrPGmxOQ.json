@@ -1,0 +1,108 @@
+{
+  "video_id": "fmazrPGmxOQ",
+  "url": "https://www.youtube.com/watch?v=fmazrPGmxOQ",
+  "title": "Craig Hocknulls oppsummering fra WM Phoenix Open",
+  "temaer": [
+    "utstyr",
+    "driver",
+    "bunker",
+    "kortspill",
+    "mental",
+    "trening",
+    "strategi",
+    "setup",
+    "kropp"
+  ],
+  "kort_sammendrag": "Hocknull oppsummerer uken sin på WM Phoenix Open med fokus på utstyrsvalg, forberedelse og en fem-punkts evalueringsmodell (mental, emosjonell, fysisk, teknikk, utstyr).",
+  "laeringspunkter": [
+    {
+      "tittel": "Lengre driverskaft kan gi mer fart og bærelengde",
+      "forklaring": "Ved å gå fra 44 til 45,75 tommer (samme skafttype) økte han klubbhodehastigheten med ca. 3 mph og bærelengden med ca. 20 yards.",
+      "praktisk_folelse": "Test skaftlengde med trackman før du bytter – små endringer kan gi store utslag.",
+      "sitat": "I actually was able to increase my club hit speed by about three miles an hour and increase my carry distance by about 20 yards",
+      "relevans": "driver",
+      "punkt_id": "fmazrPGmxOQ-01"
+    },
+    {
+      "tittel": "Tilpass bunkerwedger til sandforholdene",
+      "forklaring": "Han hadde to 60-graders wedger – én med bred sole for myk sand og lette løft, og én med mer bounce slipt bort for å kunne grave i hardere sand.",
+      "praktisk_folelse": "Vurder sanden før runden og velg wedge med riktig bounce/sole for forholdene.",
+      "sitat": "depending on how the sand was reacting I would have a wide sole for a softer sand and easier carries and then something that had a little bit more of that bounce ground off",
+      "relevans": "bunker",
+      "punkt_id": "fmazrPGmxOQ-02"
+    },
+    {
+      "tittel": "Bunkerteknikk: lav stance, lave hender, åpen kølleflate",
+      "forklaring": "Inspirert av Justin Thomas: senk stancen, senk hendene, åpne flaten og slipp klubben under ballen – en gammeldags men effektiv teknikk.",
+      "praktisk_folelse": "Føl at du lener deg litt venstre, holder hendene lavt og lar klubben gli under ballen.",
+      "sitat": "lower his hands and open up the face and really drop that club underneath",
+      "relevans": "bunker",
+      "punkt_id": "fmazrPGmxOQ-03"
+    },
+    {
+      "tittel": "Sjekk hæl-tå-balanse i driveroppsettet",
+      "forklaring": "Han har tendens til å stå på tærne og strekke etter ballen, noe som gir tå-treff og fade. Riktig balanse gir bedre treff.",
+      "praktisk_folelse": "Kjenn at vekten er jevnt fordelt mellom hæl og tå i adressen.",
+      "sitat": "I have a tendency to get out on my toes I reach for the ball a little bit",
+      "relevans": "setup",
+      "punkt_id": "fmazrPGmxOQ-04"
+    },
+    {
+      "tittel": "Hold hodet bak ballen med driver",
+      "forklaring": "Bredt push-back med skulderen, vridd godt bak ballen, og hold hodet bak gjennom treff for kraftige drives.",
+      "praktisk_folelse": "Føl at hodet henger bak ballen helt gjennom slaget.",
+      "sitat": "as I come through just hang my head back and just stay back behind it",
+      "relevans": "driver",
+      "punkt_id": "fmazrPGmxOQ-05"
+    },
+    {
+      "tittel": "Kortspill fra tette lies: sveip og slipp klubben",
+      "forklaring": "Med 66-graders wedge fra tette lies plasserte han ballen bak i stancen med lukket flate og fokuserte på release slik at tåen kommer over – unngår å bli for bratt og chunke.",
+      "praktisk_folelse": "Sitt tilbake, sveip gjennom og la tåen rotere over – klubben skal aldri stoppe.",
+      "sitat": "sitting back and sweeping it and releasing it up the hill really made sure that the club kept moving never got stuck",
+      "relevans": "kortspill",
+      "punkt_id": "fmazrPGmxOQ-06"
+    },
+    {
+      "tittel": "Ikke evaluer runden umiddelbart",
+      "forklaring": "Vent 24–48 timer før du analyserer spill – du er for nær følelsene rett etter konkurransen til å gjøre objektive vurderinger.",
+      "praktisk_folelse": "Gi deg selv avstand før du dømmer prestasjonen.",
+      "sitat": "I do not do any assessments within 24 to 48 hours of completing",
+      "relevans": "mental",
+      "punkt_id": "fmazrPGmxOQ-07"
+    },
+    {
+      "tittel": "Bruk fem evalueringskategorier",
+      "forklaring": "Mental (golf-IQ), emosjonell, fysisk, teknikk og utstyr – strukturer evalueringen i disse fem områdene for å finne forbedringspunkter.",
+      "praktisk_folelse": "List opp styrker og svakheter i hver av de fem kategoriene etter en runde.",
+      "sitat": "mental... emotional... physical... technique... and then my equipment",
+      "relevans": "mental",
+      "punkt_id": "fmazrPGmxOQ-08"
+    },
+    {
+      "tittel": "Forbered deg på banen og forholdene",
+      "forklaring": "Snakk med greenkeeper, kjenn greenfart, vanning, vindretninger, temperatur og pinneplasseringer for å lage en plan for hvert hull.",
+      "praktisk_folelse": "Lag en mental angrepsplan for hvor på greenen du skal legge ballen.",
+      "sitat": "I talked to the superintendent before we went out... I knew that the greens were going to get firmer and faster",
+      "relevans": "strategi",
+      "punkt_id": "fmazrPGmxOQ-09"
+    },
+    {
+      "tittel": "Fysisk forberedelse: hydrering, kosthold og uttøyning",
+      "forklaring": "Pedialyte kvelden før, kjent snacks (build bars), uttøyning av IT-bånd og korsrygg samt bruk av massasjepistol for restitusjon.",
+      "praktisk_folelse": "Test all mat og drikke i forkant – ikke prøv noe nytt på turneringsdagen.",
+      "sitat": "I wasn't eating a new snack or a new item as I was playing",
+      "relevans": "kropp",
+      "punkt_id": "fmazrPGmxOQ-10"
+    },
+    {
+      "tittel": "Tyngre swingweight med jumbogrep",
+      "forklaring": "Med jumbogrep brukte han 22 g vektport (i stedet for standard 17 g) for å få swingweight over D4 – grepet kan ellers gjøre klubben for lett i hodet.",
+      "praktisk_folelse": "Hvis du bytter til tykkere grep, vurder å justere swingweight for å beholde følelsen.",
+      "sitat": "adding the 22 gram instead of the standard 17 gram allowed me to get my swing weights over D4 even with the jumbo grip",
+      "relevans": "utstyr",
+      "punkt_id": "fmazrPGmxOQ-11"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=fmazrPGmxOQ"
+}

@@ -1,0 +1,74 @@
+{
+  "video_id": "xvyMagKOLJo",
+  "url": "https://www.youtube.com/watch?v=xvyMagKOLJo",
+  "title": "Craig Hocknull presenterer Saber Golf-produkter",
+  "temaer": [
+    "trening",
+    "putting",
+    "tempo",
+    "utstyr",
+    "release",
+    "kortspill",
+    "fart"
+  ],
+  "kort_sammendrag": "Craig Hocknull presenterer Saber Golf-produktene sine på PGA Show 2019. Videoen er primært en produktdemonstrasjon, men inneholder noen konkrete læringspunkter om timing i svingen, putting-stroke og putter-design.",
+  "laeringspunkter": [
+    {
+      "tittel": "Riktig timing for snap i nedsvingen",
+      "forklaring": "Mange spillere kommer over toppen og frigjør køllen for sent, noe som er en hovedårsak til slice. Snap/release skal skje på venstre side av kroppen (for høyrehendte) før ball.",
+      "praktisk_folelse": "Bruk pump-drill: ta køllen til toppen, og 'hammer down' slik at du kjenner snappet på samme side av kroppen som målsiden – ikke etter ball.",
+      "sitat": "they'll snap way too late and that's one of the contributing factors to that slice",
+      "relevans": "release",
+      "punkt_id": "xvyMagKOLJo-01"
+    },
+    {
+      "tittel": "Match putteslaget til putterens lie-vinkel",
+      "forklaring": "Hvis putteren har 72 graders lie-vinkel, bør slagbanen også følge 72 grader. Når stroke og lie matcher, blir slaget mer konsistent.",
+      "praktisk_folelse": "Tren slaget langs en bane som matcher skaftvinkelen, ikke en vertikal pendel.",
+      "sitat": "the stroke that you should be training should also match that 72 degrees lie angle",
+      "relevans": "putting",
+      "punkt_id": "xvyMagKOLJo-02"
+    },
+    {
+      "tittel": "Koble putteslaget til green-hastigheten",
+      "forklaring": "Stimpmeter måler greenfart ved å slippe ballen fra 20 graders vinkel. Du kan kalibrere ditt eget slag mot greenfarten ved å gjøre samme test før runden.",
+      "praktisk_folelse": "Slipp ballen fra 20 graders vinkel tre ganger hver vei og bruk avstanden som referanse for hvor hardt du skal putte.",
+      "sitat": "make sure that your stroke is connected to green speed every time",
+      "relevans": "putting",
+      "punkt_id": "xvyMagKOLJo-03"
+    },
+    {
+      "tittel": "Tyngre putter gir roligere stroke",
+      "forklaring": "Konvensjonelle puttere veier 300–350 g i hodet. Et tyngre hode (rundt 465 g) gjør at kroppen kan slappe av, og armene/putteren får svinge fritt uten manipulasjon.",
+      "praktisk_folelse": "La putteren svinge – 'get out of the way of a swinging putter'. Unngå kompensasjoner ved å la vekten gjøre jobben.",
+      "sitat": "I want to get out of the way so that the putter can swing",
+      "relevans": "putting",
+      "punkt_id": "xvyMagKOLJo-04"
+    },
+    {
+      "tittel": "Unngå loft-fidgets ved adressering",
+      "forklaring": "Hvis putteren har f.eks. 3 graders loft, blir det lett å forward-presse for mye eller for lite, og du mister kontroll på faktisk loft ved treff.",
+      "praktisk_folelse": "Vær bevisst på forward press og hvor mye loft du faktisk leverer ved treff – fidgeting under press skader slaget.",
+      "sitat": "any fidgeting has got to be bad when you're on the 16th hole",
+      "relevans": "putting",
+      "punkt_id": "xvyMagKOLJo-05"
+    },
+    {
+      "tittel": "Tren chip med riktig hastighet til hullet",
+      "forklaring": "Når du chipper, skal ballen lande med riktig fart slik at den 'plopper' ned i målet. For hardt slag triller over, og dårlig retning gir rikosjett.",
+      "praktisk_folelse": "Sikt på å lande ballen mykt nok til å stoppe i målområdet – kombiner presisjon og avstandskontroll.",
+      "sitat": "to get that ball with perfect speed to pop up and stay inside the cup",
+      "relevans": "kortspill",
+      "punkt_id": "xvyMagKOLJo-06"
+    },
+    {
+      "tittel": "Power = styrke + fart",
+      "forklaring": "For å utvikle kraft i svingen må du trene begge komponenter: styrke (tung trening) og fart (lett trening), kombinert med teknikk og timing.",
+      "praktisk_folelse": "Veksle mellom tunge og lette treningsslag for å bygge både muskelstyrke og svinghastighet.",
+      "sitat": "power is the combination of strength and speed",
+      "relevans": "fart",
+      "punkt_id": "xvyMagKOLJo-07"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=xvyMagKOLJo"
+}

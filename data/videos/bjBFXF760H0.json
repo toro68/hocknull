@@ -1,0 +1,30 @@
+{
+  "video_id": "bjBFXF760H0",
+  "url": "https://www.youtube.com/watch?v=bjBFXF760H0",
+  "title": "Putting-stroke knyttet til lie-vinkel",
+  "temaer": [
+    "putting",
+    "utstyr",
+    "trening"
+  ],
+  "kort_sammendrag": "Craig viser hvordan man kan måle putterens lie-vinkel og bruke den til å sette opp et treningsverktøy slik at puttingstrøket følger samme bane som lie-vinkelen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Match strøkets bane med putterens lie-vinkel",
+      "forklaring": "Mål putterens lie-vinkel (f.eks. 80 grader) og still inn treningsenheten med samme vinkel. Da kan du øve på et strøk som følger lie-vinkelen i stedet for å bevege putteren rett bakover og frem på en måte som ikke matcher utstyret.",
+      "praktisk_folelse": "Kjenn at putteren svinger frem og tilbake langs en bue som er bestemt av lie-vinkelen, ikke en kunstig flat linje.",
+      "sitat": "I'm actually working on a stroke path that is tied to the lie angle of my putter",
+      "relevans": "putting",
+      "punkt_id": "bjBFXF760H0-01"
+    },
+    {
+      "tittel": "Enkel matematikk for å kalibrere oppsettet",
+      "forklaring": "Trekk vinkelen fra 90 grader for å finne riktig innstilling. Eksempel: 90 minus 18 = 72 grader, som tilsvarer korrekt åpning på enheten i forhold til putterens lie.",
+      "praktisk_folelse": "Bruk tall og målinger framfor følelse alene når du setter opp treningshjelpemidler.",
+      "sitat": "72 plus 18 is 90",
+      "relevans": "utstyr",
+      "punkt_id": "bjBFXF760H0-02"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=bjBFXF760H0"
+}

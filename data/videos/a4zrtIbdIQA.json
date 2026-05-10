@@ -1,0 +1,55 @@
+{
+  "video_id": "a4zrtIbdIQA",
+  "url": "https://www.youtube.com/watch?v=a4zrtIbdIQA",
+  "title": "Høy bunkerslag mot høy kant",
+  "temaer": [
+    "bunker",
+    "kortspill",
+    "kolleflate",
+    "setup"
+  ],
+  "kort_sammendrag": "Craig forklarer hvordan du slår et mykt bunkerslag over en høy kant ved å skape en oppadgående 'bølge' av sand med åpen kølleflate og nedgravde føtter.",
+  "laeringspunkter": [
+    {
+      "tittel": "Tenk sand som vann",
+      "forklaring": "Sand oppfører seg som vannpartikler. For å få ballen opp må du slå nedover og skape en bølge, ikke skuffe under ballen.",
+      "praktisk_folelse": "Som å plaske vann oppover med en nedadgående håndbevegelse i et basseng.",
+      "sitat": "Sand operates just like water the particles of sand are just like the particles of the water, what you're to do in the bunker is create a wave of sand",
+      "relevans": "bunker",
+      "punkt_id": "a4zrtIbdIQA-01"
+    },
+    {
+      "tittel": "Slå rett oppover ved høy kant",
+      "forklaring": "Mot en høy kant må bølgen av sand gå rett oppover, ikke utover som ved et chunk-and-run slag. Treff skarpt ned litt bak ballen.",
+      "praktisk_folelse": "Ballen blir bare en av sandpartiklene som flyr opp og over kanten.",
+      "sitat": "strike down sharply slightly behind the ball",
+      "relevans": "bunker",
+      "punkt_id": "a4zrtIbdIQA-02"
+    },
+    {
+      "tittel": "Åpne kølleflaten",
+      "forklaring": "En åpen kølleflate får sandbølgen til å gå oppover og gir høyere ballbane over kanten.",
+      "praktisk_folelse": "Vri flaten åpen i adressen før du tar grepet.",
+      "sitat": "open up the club face because an open club face is going to cause that way the sand to go upward",
+      "relevans": "kolleflate",
+      "punkt_id": "a4zrtIbdIQA-03"
+    },
+    {
+      "tittel": "Grav ned føttene",
+      "forklaring": "Du må grave føttene under sandnivået slik at køllen treffer under ballen. Står du oppå sanden, picker du ballen og sender den i kanten eller over greenen.",
+      "praktisk_folelse": "Grav føttene cirka 2 tommer ned, like dypt som du vil at køllen skal gå.",
+      "sitat": "it's very important to bury yourself underneath the level of the sand",
+      "relevans": "setup",
+      "punkt_id": "a4zrtIbdIQA-04"
+    },
+    {
+      "tittel": "Ikke skuff ballen",
+      "forklaring": "Et forsøk på å løfte ballen opp underfra fungerer ikke, akkurat som hånden bare glir gjennom vannet uten å løfte noe.",
+      "praktisk_folelse": "Tenk nedadgående treff, ikke løftende.",
+      "sitat": "I wouldn't take my hand and try to scoop it up from underneath",
+      "relevans": "bunker",
+      "punkt_id": "a4zrtIbdIQA-05"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=a4zrtIbdIQA"
+}

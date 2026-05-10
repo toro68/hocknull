@@ -1,0 +1,57 @@
+{
+  "video_id": "iPGXj7JYEos",
+  "url": "https://www.youtube.com/watch?v=iPGXj7JYEos",
+  "title": "Bruk av kontrastfarger på Saber-treningsverktøyet",
+  "temaer": [
+    "grep",
+    "venstre-hand",
+    "kolleflate",
+    "baksvingen",
+    "release",
+    "ballflight"
+  ],
+  "kort_sammendrag": "Craig forklarer hvordan kontrastfargene på Saber-verktøyet brukes til å sjekke håndledds- og tommelposisjon gjennom svingen, og skiller mellom release og roll.",
+  "laeringspunkter": [
+    {
+      "tittel": "Tommel på toppen i baksvingen",
+      "forklaring": "I baksvingen skal du se den blå siden på toppen, ikke karbonfiberen. Hvis du kupper håndleddene og ruller kølla ned, havner du i en lukket kølleflateposisjon.",
+      "praktisk_folelse": "Hold venstre tommel på toppen mens du tar kølla bakover og opp.",
+      "sitat": "I want that thumb on top working back to here and then working all the way up",
+      "relevans": "baksvingen",
+      "punkt_id": "iPGXj7JYEos-01"
+    },
+    {
+      "tittel": "Sjekk kølleflaten på toppen av svingen",
+      "forklaring": "Når du når toppen, skal Saber-logoen og den blå fargen fortsatt være synlig. Det indikerer en nøytral kølleflate, ikke lukket.",
+      "praktisk_folelse": "Kikk opp og bekreft at du fortsatt ser blått, ikke karbonfiber.",
+      "sitat": "I can look back at the saber and I can still see the blue",
+      "relevans": "kolleflate",
+      "punkt_id": "iPGXj7JYEos-02"
+    },
+    {
+      "tittel": "Behold tommelen på toppen ned i nedsvingen",
+      "forklaring": "På vei ned mot ball skal venstre tommel fortsatt være på toppen, slik at du kommer tilbake til samme posisjon i treff.",
+      "praktisk_folelse": "Føl at venstre tommel peker oppover hele veien fra topp til treff.",
+      "sitat": "as you work down through the swing you keep your left thumb on top",
+      "relevans": "venstre-hand",
+      "punkt_id": "iPGXj7JYEos-03"
+    },
+    {
+      "tittel": "Bruk fargene til å forme ballflukten",
+      "forklaring": "Nøytral release viser blått på toppen i gjennomsving. For en fade slipper du hendene under og ser blått på begge sider; for en draw ruller du håndleddene og ser karbonfiber på motsatt side.",
+      "praktisk_folelse": "Velg bevisst om du vil holde flaten nøytral, slippe under (fade) eller rulle over (draw).",
+      "sitat": "if you wanted to maybe play a fade you would come through and kind of release your hands under",
+      "relevans": "ballflight",
+      "punkt_id": "iPGXj7JYEos-04"
+    },
+    {
+      "tittel": "Forskjellen på release og roll",
+      "forklaring": "Release betyr å slippe oppbygget energi, mens roll er en aktiv rotasjon av håndleddene (over for draw, under for fade). De to begrepene blandes ofte, men er forskjellige.",
+      "praktisk_folelse": "Tenk at energien får slippe fritt ut, ikke at du tvinger håndleddene til å rotere.",
+      "sitat": "a release is a release of energy a roll is a roll over",
+      "relevans": "release",
+      "punkt_id": "iPGXj7JYEos-05"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=iPGXj7JYEos"
+}

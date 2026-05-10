@@ -1,0 +1,45 @@
+{
+  "video_id": "VrC_TULEoWE",
+  "url": "https://www.youtube.com/watch?v=VrC_TULEoWE",
+  "title": "Scramble-regler: Hvordan plassere ballen riktig",
+  "temaer": [
+    "strategi",
+    "annet"
+  ],
+  "kort_sammendrag": "Craig forklarer en standardregel i scramble-format: Du kan flytte ballen innen én køllelengde, men må holde deg i samme underlag/forhold som originalballen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Marker ballens posisjon",
+      "forklaring": "Når laget har valgt hvilket utslag som skal brukes, skal du alltid markere ballens plassering med en tee eller pitchgaffel før du plukker den opp.",
+      "praktisk_folelse": "Sett ned tee-en før du tar opp ballen, slik at du har et tydelig referansepunkt.",
+      "sitat": "get your tea or a divot tool to mark the location of the ball",
+      "relevans": "strategi",
+      "punkt_id": "VrC_TULEoWE-01"
+    },
+    {
+      "tittel": "Én køllelengde med driver",
+      "forklaring": "Regelen tillater at du spiller neste slag innen én køllelengde fra markeringen, og det er driveren som brukes som måleenhet.",
+      "praktisk_folelse": "Bruk driveren til å måle ut den maksimale avstanden du kan flytte ballen til.",
+      "sitat": "the club length is a one driver length",
+      "relevans": "strategi",
+      "punkt_id": "VrC_TULEoWE-02"
+    },
+    {
+      "tittel": "Behold samme underlag",
+      "forklaring": "Du kan ikke forbedre forholdene. Ligger ballen i ruff, må neste slag også slås fra ruff – selv om fairway er innen én køllelengde.",
+      "praktisk_folelse": "Tenk: 'samme betingelser' – ikke flytt fra ruff til fairway eller fra sand til gress.",
+      "sitat": "I cannot go to that condition I can't go to the fairway height grass",
+      "relevans": "strategi",
+      "punkt_id": "VrC_TULEoWE-03"
+    },
+    {
+      "tittel": "Bruk køllelengden strategisk",
+      "forklaring": "Selv om underlaget må være likt, kan du bruke køllelengden til å finne en bedre vinkel inn mot greenen.",
+      "praktisk_folelse": "Vurder om en sideveis flytting innenfor samme underlag gir bedre angrepslinje.",
+      "sitat": "maybe it gives me a little bit of a better angle to the green",
+      "relevans": "strategi",
+      "punkt_id": "VrC_TULEoWE-04"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=VrC_TULEoWE"
+}

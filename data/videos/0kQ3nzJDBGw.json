@@ -9,7 +9,9 @@
     "avstandskontroll",
     "setup",
     "kropp",
-    "release"
+    "release",
+    "kolleflate",
+    "trening"
   ],
   "kort_sammendrag": "Hocknull bygger en wedge-matrise ved å skille kontrollgrep/putter grip fra power grip. Under ca. to tredjedels sving gir putter grip bedre presisjon; når svingen blir lengre og krever throw, går spilleren over til vanlig/power grip og må holde hofter som pivot, ikke slide.",
   "laeringspunkter": [
@@ -60,6 +62,22 @@
       "sitat": "feel it in the thumb and the throw",
       "relevans": "grep",
       "punkt_id": "0kQ3nzJDBGw-06"
+    },
+    {
+      "tittel": "Ikke flip hender for draw — bruk gripevinkel og la kollisjonen gjøre jobben",
+      "forklaring": "For å forme draw skal spilleren ikke rulle ansiktet med hendene gjennom treff. I stedet justeres gripevinkel (lukk face i grepet) og la køllehodet swing på path. Kollisjonen med ballen tar seg av kurvingen.",
+      "praktisk_folelse": "Lukk face litt i grepet før du tar tak; sving deretter ut på vanlig path uten å rulle hendene.",
+      "sitat": "we don't want to try to flip the hands right to create that we just want the collision to take care of that for us",
+      "relevans": "kolleflate",
+      "punkt_id": "0kQ3nzJDBGw-07"
+    },
+    {
+      "tittel": "Feet-together drill avslører arm-avhengighet",
+      "forklaring": "Ved å slå med føttene nesten samlet tvinges spilleren til å bruke armene mer og benene mindre. Drillen er diagnostisk: hvis ballen ikke går bra med samlet stance, tar benene for mye av jobben i normal stance.",
+      "praktisk_folelse": "Slå noen slag med føttene nesten inntil hverandre og merk hvordan armene må jobbe mer aktivt.",
+      "sitat": "hit one like that with your feet together like almost touching... how much more you have to use your arms",
+      "relevans": "trening",
+      "punkt_id": "0kQ3nzJDBGw-08"
     }
   ]
 }

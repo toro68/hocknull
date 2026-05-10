@@ -1,0 +1,48 @@
+{
+  "video_id": "eF9kLSZa100",
+  "url": "https://www.youtube.com/watch?v=eF9kLSZa100",
+  "title": "Forskjell på release med jern og driver",
+  "temaer": [
+    "release",
+    "driver",
+    "timing",
+    "svingbane",
+    "trening"
+  ],
+  "kort_sammendrag": "Craig forklarer hvorfor jernslag og treslag krever ulik timing på release: jern trenger mer lag og en senere snap for å treffe nedover, mens driver krever en tidligere release for å sveipe ballen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Mer lag og senere snap med jern",
+      "forklaring": "Med jern bør du holde lagget litt lenger og slippe ut energien senere i nedsvingen, slik at angrepsvinkelen blir nedadgående og treffet skjer på baksiden av ballen.",
+      "praktisk_folelse": "Føl at du holder vinkelen i håndleddene lenger og snapper køllen sent gjennom treffet.",
+      "sitat": "you want to have a little bit of lag and a sharper descent angle",
+      "relevans": "release",
+      "punkt_id": "eF9kLSZa100-01"
+    },
+    {
+      "tittel": "Tidligere release med driver",
+      "forklaring": "For mye lag og bratt nedslag med driver gir for skarp angrepsvinkel, sidespinn og slice, eller en lav hook hvis du vrir hendene. Driveren skal sveipes, ikke hugges.",
+      "praktisk_folelse": "Slipp energien tidligere og sveip gjennom ballen i stedet for å holde igjen.",
+      "sitat": "you don't want as much lag you want to go ahead and release it out here",
+      "relevans": "driver",
+      "punkt_id": "eF9kLSZa100-02"
+    },
+    {
+      "tittel": "Halvveis-tilbake snap-øvelse for driver",
+      "forklaring": "Gå til halvveis tilbake-posisjon og øv på å snappe køllen ut tidligere i nedsvingen for å trene tidligere release på driver, fairwaytre, hybrid og lange jern.",
+      "praktisk_folelse": "Kjenn at snappen kommer litt tidligere enn med kortere jern, og at du sveiper gjennom.",
+      "sitat": "go back to about the halfway back position and snap it out here just a little bit earlier",
+      "relevans": "trening",
+      "punkt_id": "eF9kLSZa100-03"
+    },
+    {
+      "tittel": "Tilpass timing til kølle",
+      "forklaring": "Lange kjøller (driver, fairwaytre, hybrid, lange jern, fairwaybunker) krever tidligere release; midtjern ned til wedger tåler mer lag og senere snap.",
+      "praktisk_folelse": "Bytt mental innstilling på release ut fra hvilken kølle du har i hendene.",
+      "sitat": "a slightly earlier snap when you're working on your... long irons",
+      "relevans": "timing",
+      "punkt_id": "eF9kLSZa100-04"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=eF9kLSZa100"
+}

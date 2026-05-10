@@ -1,0 +1,97 @@
+{
+  "video_id": "v8ewCoh-KQA",
+  "url": "https://www.youtube.com/watch?v=v8ewCoh-KQA",
+  "title": "Trackman setup-guide for fjernundervisning",
+  "temaer": [
+    "trening",
+    "utstyr",
+    "setup",
+    "ballflight",
+    "forhold",
+    "strategi"
+  ],
+  "kort_sammendrag": "Craig Hocknull viser hvordan man setter opp Trackman korrekt for treningsøkter og forklarer hvilke datapunkter (input/outcome) som er viktigst for å analysere svingen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Kvalitet inn = kvalitet ut",
+      "forklaring": "Korrekt oppsett av både teknologi og spiller er avgjørende. Feil oppsett gir villedende data som ødelegger analysen av svingen.",
+      "praktisk_folelse": "Bruk tid på riktig oppsett før du begynner å slå baller.",
+      "sitat": "the quality of the outcome is only as good as the quality of the input",
+      "relevans": "trening",
+      "punkt_id": "v8ewCoh-KQA-01"
+    },
+    {
+      "tittel": "Kalibrer Trackman før hver økt",
+      "forklaring": "Bruk kalibreringsfunksjonen øverst til høyre for å sikre at ballen er plassert i riktig posisjon i forhold til enheten, og auto-velg target slik at all data blir korrekt.",
+      "praktisk_folelse": "Sjekk at ballen står på de hvite prikkene/markørene før du slår.",
+      "sitat": "make sure that you calibrate your track man",
+      "relevans": "utstyr",
+      "punkt_id": "v8ewCoh-KQA-02"
+    },
+    {
+      "tittel": "Sett opp datafliser i input/outcome-par",
+      "forklaring": "Organiser tilene parvis: Klubbhastighet (input) → Carry (outcome), Path (input) → Curve (outcome), Face angle (input) → Side carry (outcome), samt Face-to-Path og Smash factor.",
+      "praktisk_folelse": "Tenk i kolonner: hva du gjorde (input) versus hva ballen gjorde (outcome).",
+      "sitat": "Club is input launch and flight are going to be outcome",
+      "relevans": "trening",
+      "punkt_id": "v8ewCoh-KQA-03"
+    },
+    {
+      "tittel": "Face-to-Path forteller om ballflukt",
+      "forklaring": "Face-to-path er en matematisk forskjell mellom kølleflate og svingbane. Jo nærmere 0,0, desto rettere ballflukt.",
+      "praktisk_folelse": "Sikt mot face-to-path nær null for å redusere kurvatur.",
+      "sitat": "the closer that is to 0.0 the straighter the ball flight",
+      "relevans": "ballflight",
+      "punkt_id": "v8ewCoh-KQA-04"
+    },
+    {
+      "tittel": "Smash factor måler treffkvalitet",
+      "forklaring": "Smash factor er forholdet mellom klubbhastighet og ballhastighet og indikerer hvor godt du traff ballen.",
+      "praktisk_folelse": "Bruk smash factor som en rask indikator på sentertreff.",
+      "sitat": "smash factor is basically an equation between how fast you swung the club and how fast the ball flew",
+      "relevans": "ballflight",
+      "punkt_id": "v8ewCoh-KQA-05"
+    },
+    {
+      "tittel": "Velg riktig klubb i appen",
+      "forklaring": "For at dataene skal korrelere riktig i appen, må du manuelt velge klubben du faktisk slår med, ikke bare bruke standardvalget.",
+      "praktisk_folelse": "Bekreft klubbvalget i appen før hvert slag.",
+      "sitat": "in order for the data to correlate to your app what you're going to want to do is select the correct Club",
+      "relevans": "utstyr",
+      "punkt_id": "v8ewCoh-KQA-06"
+    },
+    {
+      "tittel": "Bruk en putte-linjal for visuell oppstilling",
+      "forklaring": "Plasser en saber/putting-linjal foran ballen som siktelinje mot målet, og bruk en til å sjekke at føttene står parallelt.",
+      "praktisk_folelse": "Visualiser den blå stripen som peker mot målet, og sjekk fra bak ballen.",
+      "sitat": "I like to actually visualize a nice blue stripe going toward my target",
+      "relevans": "setup",
+      "punkt_id": "v8ewCoh-KQA-07"
+    },
+    {
+      "tittel": "Tren under realistiske vindforhold",
+      "forklaring": "Bruk vindfunksjonen til å simulere ulike vindstyrker og retninger, slik at du venner deg til hvordan vinden påvirker ballen.",
+      "praktisk_folelse": "Øv på både med- og motvind for å forstå hvor mye ballen drifter.",
+      "sitat": "in Texas you're going to want to practice that",
+      "relevans": "forhold",
+      "punkt_id": "v8ewCoh-KQA-08"
+    },
+    {
+      "tittel": "Simuler vanskelige scenarier fra rough og trær",
+      "forklaring": "Plasser ballen virtuelt i bunker, rough eller bak trær for å trene på spesifikke baneskudd. Trackman justerer power og spin automatisk (f.eks. 98% power, 85% spin fra rough).",
+      "praktisk_folelse": "Tren på utfordrende scenarier som draw rundt et tre i sidevind.",
+      "sitat": "I have n only 98 power and I only have 85 spin",
+      "relevans": "strategi",
+      "punkt_id": "v8ewCoh-KQA-09"
+    },
+    {
+      "tittel": "Tolk hvorfor ballen gikk skjevt",
+      "forklaring": "Når ballen havner til høyre, sjekk om det skyldes vind, path, face angle eller en kombinasjon. I demoen gikk ballen 20 yards høyre primært pga. vind på 10,8 mph fra venstre.",
+      "praktisk_folelse": "Ikke skyld bare på svingen — se på alle datapunktene før du konkluderer.",
+      "sitat": "why did it Drift Off to the right let's take a look",
+      "relevans": "ballflight",
+      "punkt_id": "v8ewCoh-KQA-10"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=v8ewCoh-KQA"
+}

@@ -1,0 +1,39 @@
+{
+  "video_id": "pG6wcdNAAVc",
+  "url": "https://www.youtube.com/watch?v=pG6wcdNAAVc",
+  "title": "Introduksjon til Sabre Golf Trainer 2.0",
+  "temaer": [
+    "utstyr",
+    "trening",
+    "fart",
+    "timing"
+  ],
+  "kort_sammendrag": "Videoen er en kort produktintroduksjon til Sabre Golf Trainer 2.0 og forklarer hvordan verktøyet kan brukes til å trene styrke, fart og timing. Det gis lite konkret golfteknisk instruksjon.",
+  "laeringspunkter": [
+    {
+      "tittel": "Tren styrke med tung ende",
+      "forklaring": "Når du holder treningskøllen i den tunge enden, jobber du med styrke fordi vekten gir motstand i svingen.",
+      "praktisk_folelse": "Kjenn tyngden og bruk kroppen til å kontrollere køllen gjennom svingen.",
+      "sitat": "you grab the heavy end and you're working on your strength",
+      "relevans": "trening",
+      "punkt_id": "pG6wcdNAAVc-01"
+    },
+    {
+      "tittel": "Tren fart med lett ende",
+      "forklaring": "Vend køllen og hold den lette enden for å trene svinghastighet. Kombinasjonen av styrke og fart gir kraft.",
+      "praktisk_folelse": "Sving raskt og kjenn farten øke gjennom treffområdet.",
+      "sitat": "grab the light end and now you're working on your speed",
+      "relevans": "fart",
+      "punkt_id": "pG6wcdNAAVc-02"
+    },
+    {
+      "tittel": "Tren timing med klikk-ball",
+      "forklaring": "En ball inne i køllen lager et 'snapp' når den slippes ved bunnen av svingen, noe som gir tilbakemelding på riktig timing av releasen.",
+      "praktisk_folelse": "Ta køllen til topps, slipp gjennom og lytt etter snappet nederst i svingen.",
+      "sitat": "release it through you're gonna get that snap at the bottom",
+      "relevans": "timing",
+      "punkt_id": "pG6wcdNAAVc-03"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=pG6wcdNAAVc"
+}

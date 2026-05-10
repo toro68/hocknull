@@ -1,0 +1,64 @@
+{
+  "video_id": "nUOkftXec4U",
+  "url": "https://www.youtube.com/watch?v=nUOkftXec4U",
+  "title": "Forstå Trackman-radar og hvordan køllen entrer treffsonen",
+  "temaer": [
+    "svingbane",
+    "kolleflate",
+    "driver",
+    "ballflight",
+    "utstyr"
+  ],
+  "kort_sammendrag": "Craig Hocknull bruker en visuell 'boks' som representerer Trackman-radarens målefelt for å forklare hvordan attack angle, club path, face angle og dynamisk lie-vinkel påvirker ballflukten.",
+  "laeringspunkter": [
+    {
+      "tittel": "Entre radaren gjennom sideveggen, ikke taket",
+      "forklaring": "Hvis du kommer for bratt ned i ballen (spesielt med driver) hugger køllen gjennom 'taket' av boksen og gir en sterk negativ attack angle. Målet er å entre treffsonen gjennom sideveggen for et flatere/positivt angrep.",
+      "praktisk_folelse": "Forestill deg en boks rundt ballen og prøv å føre køllehodet inn gjennom sideveggen i stedet for å hogge ned ovenfra.",
+      "sitat": "you want to try to enter the radar through the sidewall of the box",
+      "relevans": "svingbane",
+      "punkt_id": "nUOkftXec4U-01"
+    },
+    {
+      "tittel": "Hofte-pivot fra topp gir over-the-top",
+      "forklaring": "Mange begynner å pivotere hoftene mens hendene fortsatt er høye i toppen, noe som tvinger køllen til å chope ned gjennom toppen av boksen og skaper en out-to-in bane.",
+      "praktisk_folelse": "Unngå å rotere hoftene før hendene har falt ned i en lavere posisjon på nedsvingen.",
+      "sitat": "they start kind of pivoting their hips now their hands are in this position what that's going to do is cause the club to chop down through the roof",
+      "relevans": "svingbane",
+      "punkt_id": "nUOkftXec4U-02"
+    },
+    {
+      "tittel": "Ideell bane: lett inside-ut inn, sideveggen ut",
+      "forklaring": "Den beste leveringen er å entre boksen gjennom sideveggen med en lett inside-ut bane, treffe ballen, og forlate boksen gjennom motsatt sidevegg – som tegner en jevn sirkel/svingplan.",
+      "praktisk_folelse": "Tenk Ben Hogan-svingplan: køllen går ut gjennom sideveggen i baksvingen og kommer tilbake inn samme vei i nedsvingen.",
+      "sitat": "you have a slightly into out all right delivery and a center to left exit that would be a perfect circle",
+      "relevans": "svingbane",
+      "punkt_id": "nUOkftXec4U-03"
+    },
+    {
+      "tittel": "Dynamisk lie-vinkel påvirker treffet",
+      "forklaring": "Standard driver har ca. 57° lie og sand wedge ca. 64°. Hvis hendene er for høye i treff stiger den dynamiske lie-vinkelen, hvis de er for lave synker den – begge deler endrer hvordan køllen leverer ballen.",
+      "praktisk_folelse": "Hold hendene i en høyde som matcher køllens statiske lie-vinkel ved treff.",
+      "sitat": "your standard driver L angle is around 57° L angle",
+      "relevans": "utstyr",
+      "punkt_id": "nUOkftXec4U-04"
+    },
+    {
+      "tittel": "Face-to-path bestemmer sidespinn",
+      "forklaring": "Spinn skapes av forskjellen mellom svingbane og kølleflatens retning ved treff. Selv en perfekt square flate kombinert med en out-to-in bane på 6° gir 6° face-to-path og mye sidespinn.",
+      "praktisk_folelse": "Match retningen på bane og kølleflate – begge skal peke samme vei for å redusere sidespinn.",
+      "sitat": "as a general rule what you're trying to accomplish is a pathway and a face that are both going in the same direction",
+      "relevans": "ballflight",
+      "punkt_id": "nUOkftXec4U-05"
+    },
+    {
+      "tittel": "Kølleflaten styrer startretning",
+      "forklaring": "Kølleflatens vinkel ved treff bestemmer hvor ballen starter, mens banen bestemmer kurven. Køllen kan forlate boksen på én side mens ballen forlater på motsatt side.",
+      "praktisk_folelse": "Vær bevisst på at flaten – ikke banen – avgjør startlinjen til ballen.",
+      "sitat": "the club face then dictates where the ball starts",
+      "relevans": "kolleflate",
+      "punkt_id": "nUOkftXec4U-06"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=nUOkftXec4U"
+}

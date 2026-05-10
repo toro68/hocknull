@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hocknull-bibliotek">
+  <rect width="64" height="64" rx="14" fill="#18493b"/>
+  <circle cx="32" cy="50" r="6" fill="#f4d35e"/>
+  <path d="M22 14h2v40h-2z" fill="#f6f7f5"/>
+  <path d="M24 14h22l-7 7 7 7H24z" fill="#e8503a"/>
+</svg>

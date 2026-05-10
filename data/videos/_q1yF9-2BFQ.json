@@ -1,0 +1,99 @@
+{
+  "video_id": "_q1yF9-2BFQ",
+  "url": "https://www.youtube.com/watch?v=_q1yF9-2BFQ",
+  "title": "Set og snap - bygge en konsistent golfsving",
+  "temaer": [
+    "grep",
+    "tempo",
+    "setup",
+    "kropp",
+    "driver",
+    "trening",
+    "fart",
+    "ballflight"
+  ],
+  "kort_sammendrag": "Craig lærer nybegynnere å bygge en repeterbar sving gjennom 'set og snap'-følelsen, å holde kroppen i samme høyde gjennom svingen, og å bruke gradvis akselerasjon i stedet for eksplosiv kraft.",
+  "laeringspunkter": [
+    {
+      "tittel": "Set og snap som svingrytme",
+      "forklaring": "Tren inn en flytende bevegelse der du setter håndleddet (hinge) i bakvingen og deretter snapper gjennom ballen. Hvis du glemmer det, kan du dele opp i to deler: halvveis hinge, så snap.",
+      "praktisk_folelse": "Si 'set, snap' i hodet mens du svinger - som et flytende ett-trinns sett etterfulgt av et knips gjennom ballen.",
+      "sitat": "set snap because that's what you've been doing with the saber",
+      "relevans": "tempo",
+      "punkt_id": "_q1yF9-2BFQ-01"
+    },
+    {
+      "tittel": "Hold deg i 'det lave rommet'",
+      "forklaring": "Mange spillere reiser seg ubevisst opp i svingen, noe som gir topping. Når du har satt opp i adresseposisjon, må du bli værende i den høyden gjennom hele svingen.",
+      "praktisk_folelse": "Forestill deg at du har krympet deg ned og står i et rom med tak rett over hodet - ikke dunk hodet i taket.",
+      "sitat": "if I built a room that was only had a ceiling of five foot four... don't bonk your head on the ceiling",
+      "relevans": "kropp",
+      "punkt_id": "_q1yF9-2BFQ-02"
+    },
+    {
+      "tittel": "Gradvis akselerasjon - som å dytte et barn på husken",
+      "forklaring": "Kraften skal bygges gradvis gjennom svingen, ikke eksplosivt fra start. Slår du til med full kraft fra begynnelsen mister du både rytme og presisjon.",
+      "praktisk_folelse": "Tenk at du dytter et barn på en huske - du følger med og gir et lite dytt på slutten, ikke et brått slag som gir whiplash.",
+      "sitat": "I don't just go wham because then he's going to get whiplash... gradually speed it up",
+      "relevans": "fart",
+      "punkt_id": "_q1yF9-2BFQ-03"
+    },
+    {
+      "tittel": "Hold tempoet rolig når ballen kommer i bilde",
+      "forklaring": "Så snart en ball ligger foran deg, akselererer 100% av spillere ufrivillig. Du må bevisst holde samme metodiske tempo som i øvelsene uten ball.",
+      "praktisk_folelse": "Pause på toppen av svingen i ett sekund før du snapper gjennom - det forhindrer at du skynder deg.",
+      "sitat": "as soon as you get a club and a ball in the way we all speed up 100% of people speed up",
+      "relevans": "tempo",
+      "punkt_id": "_q1yF9-2BFQ-04"
+    },
+    {
+      "tittel": "Grep med tommel litt til høyre",
+      "forklaring": "Når du ser ned på grepet skal håndleddet være litt mer 'over', og tommelen skal ligge litt til høyre for midten av grepet.",
+      "praktisk_folelse": "Sjekk at håndleddet er riktig vridd, og kjenn at hinge-bevegelsen blir naturlig fra denne posisjonen.",
+      "sitat": "this thumb is actually going to be slightly to the right",
+      "relevans": "grep",
+      "punkt_id": "_q1yF9-2BFQ-05"
+    },
+    {
+      "tittel": "Ballposisjon: triangel for jern, fremme for driver",
+      "forklaring": "For alle jern skal ballen ligge midt mellom føttene, slik at tærne og ballen danner en likesidet trekant. For driveren legger du ballen lenger fram, nærmere fremre fot.",
+      "praktisk_folelse": "Visualiser en likesidet trekant fra tærne til ballen for jern.",
+      "sitat": "toes and ball create a triangle for all of your irons",
+      "relevans": "setup",
+      "punkt_id": "_q1yF9-2BFQ-06"
+    },
+    {
+      "tittel": "Tee-høyde for jern",
+      "forklaring": "Riktig tee-høyde for jern er når fingrene dine så vidt klemmes i gresset under ballen. Driver tees mye høyere - så høyt at ballen nesten vingler.",
+      "praktisk_folelse": "Bruk fingerbredden som mål for jern; for driver skal ballen ligge så høyt at den knapt holder seg.",
+      "sitat": "once my fingers are kind of squishing on the grass the t is the right height for an iron",
+      "relevans": "setup",
+      "punkt_id": "_q1yF9-2BFQ-07"
+    },
+    {
+      "tittel": "Tre dimensjoner: konsistens, presisjon og distanse",
+      "forklaring": "Spillet handler om tre ting: konsistens (treffer du midt i køllebladet hver gang), presisjon (går ballen rett) og distanse. Som nybegynner skal du jobbe med konsistens først.",
+      "praktisk_folelse": "Ikke fokuser på lengde eller retning ennå - bygg fundamentet med samme treff hver gang.",
+      "sitat": "there's three pieces of the puzzle what we're working on right now is just the consistency part",
+      "relevans": "trening",
+      "punkt_id": "_q1yF9-2BFQ-08"
+    },
+    {
+      "tittel": "Lavt ballflukt = feil treffvinkel, ikke feil sving",
+      "forklaring": "Hvis ballen flyr lavt er det ofte ikke selve svingen som er feil, men kollisjonsvinkelen mellom kølleblad og ball. På justerbare drivere kan loften økes for å hjelpe.",
+      "praktisk_folelse": "Aksepter at en lav ball kan være riktig sving med feil utstyrsinnstilling - sjekk loft før du endrer svingen.",
+      "sitat": "wasn't a bad swing it was a bad angle of the collision",
+      "relevans": "ballflight",
+      "punkt_id": "_q1yF9-2BFQ-09"
+    },
+    {
+      "tittel": "Flytende bevegelse, ikke roboten",
+      "forklaring": "Ikke kompartmentaliser svingen i stive trinn. Bevegelsen skal ha rytme og flyt - som dans, ikke som en robot.",
+      "praktisk_folelse": "Kjenn vekten av kølla og la den 'samles opp' før du slipper den - det er en rytmisk nyanse, ikke separate trinn.",
+      "sitat": "have rhythm and not so much do the robot",
+      "relevans": "tempo",
+      "punkt_id": "_q1yF9-2BFQ-10"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=_q1yF9-2BFQ"
+}

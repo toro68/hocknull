@@ -1,0 +1,38 @@
+{
+  "video_id": "mTwIjtV1WLU",
+  "url": "https://www.youtube.com/watch?v=mTwIjtV1WLU",
+  "title": "Saber Stroke Trainer - puttetrening tilpasset lie-vinkel",
+  "temaer": [
+    "putting",
+    "utstyr",
+    "trening"
+  ],
+  "kort_sammendrag": "Craig Hocknull presenterer Saber Stroke Trainer og forklarer hvorfor putteslaget bør trenes på en bane som matcher putterens lie-vinkel.",
+  "laeringspunkter": [
+    {
+      "tittel": "Match putteslaget med putterens lie-vinkel",
+      "forklaring": "Hvis putteren din har en lie-vinkel på for eksempel 72 grader, bør slagbanen du trener på også følge samme 72 graders vinkel for å få en konsistent og naturlig stroke.",
+      "praktisk_folelse": "Kjenn at putteren beveger seg langs en bue som er bestemt av skaftets vinkel, ikke flatt langs bakken.",
+      "sitat": "if you have the shaft of your putter set to 72 degrees line angle the stroke that you should be training should also match that 72 degrees lie angle",
+      "relevans": "putting",
+      "punkt_id": "mTwIjtV1WLU-01"
+    },
+    {
+      "tittel": "Mål lie-vinkelen på din egen putter",
+      "forklaring": "Bruk en vater/app mot skaftet for å finne avviket fra vertikalt. Trekk verdien fra 90 for å finne lie-vinkelen (f.eks. 90 - 18 = 72 grader), og still treningshjelpemiddelet til samme vinkel.",
+      "praktisk_folelse": "Vit nøyaktig hvilken vinkel din egen putter har før du trener slagbane.",
+      "sitat": "it says it was negative 18 degrees... 72 plus 18 is 90",
+      "relevans": "utstyr",
+      "punkt_id": "mTwIjtV1WLU-02"
+    },
+    {
+      "tittel": "Lovlig lie-vinkel på putter",
+      "forklaring": "Reglene krever at putterens skaft avviker minst 10 grader fra vertikalt, altså maksimalt 80 graders lie-vinkel for å være lovlig.",
+      "praktisk_folelse": "Sjekk at din putter er innenfor regelverket før konkurranse.",
+      "sitat": "you have to diverge from vertical a minimum of 10 degrees for your putter to be legal",
+      "relevans": "putting",
+      "punkt_id": "mTwIjtV1WLU-03"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=mTwIjtV1WLU"
+}

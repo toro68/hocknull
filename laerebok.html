@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>⛳ Lærebok | Hocknull-bibliotek</title>
+    <meta name="theme-color" content="#18493b" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg?v=20260510-2" />
+    <link rel="apple-touch-icon" href="favicon.svg?v=20260510-2" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Lærebok i Hocknull-systemet</h1>
+        <p id="status">Et destillat fra 467 analyserte videoer — strukturert som lærebok i 20 deler.</p>
+      </div>
+      <nav class="toplinks" aria-label="Sider">
+        <a class="repo-link" href="index.html">Læringsbibliotek</a>
+        <a class="repo-link" href="noytralt-kollehode.html">Nøytralt køllehode</a>
+      </nav>
+    </header>
+
+    <main class="article-page">
+      <aside class="laerebok-toc" id="toc" aria-label="Innholdsfortegnelse" hidden>
+        <strong>Innhold</strong>
+        <ol id="tocList"></ol>
+      </aside>
+      <article class="laerebok" id="laerebok">
+        <p class="empty">Laster lærebok …</p>
+      </article>
+    </main>
+
+    <script type="module">
+      const SOURCE = "data/videos/__01_instruksjon.md";
+
+      function escapeHtml(value) {
+        return String(value ?? "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#039;");
+      }
+
+      function slugify(value) {
+        return String(value)
+          .toLowerCase()
+          .replaceAll("æ", "ae")
+          .replaceAll("ø", "o")
+          .replaceAll("å", "a")
+          .normalize("NFD")
+          .replace(/[̀-ͯ]/g, "")
+          .replace(/[^a-z0-9\s-]/g, "")
+          .trim()
+          .replace(/\s+/g, "-");
+      }
+
+      function renderInline(text) {
+        let html = escapeHtml(text);
+        html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, url) => {
+          const safeUrl = url.replace(/"/g, "&quot;");
+          return `<a href="${safeUrl}" target="_blank" rel="noreferrer">${label}</a>`;
+        });
+        html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+        html = html.replace(/(^|[\s(])\*([^*\n]+)\*/g, "$1<em>$2</em>");
+        html = html.replace(/`([^`]+)`/g, "<code>$1</code>");
+        return html;
+      }
+
+      function renderMarkdown(md) {
+        const lines = md.split("\n");
+        const out = [];
+        const toc = [];
+        let inList = null;
+        let inOrdered = null;
+        let paragraphBuffer = [];
+
+        function flushParagraph() {
+          if (!paragraphBuffer.length) return;
+          out.push(`<p>${paragraphBuffer.map(renderInline).join(" ")}</p>`);
+          paragraphBuffer = [];
+        }
+
+        function closeLists() {
+          if (inList) {
+            out.push("</ul>");
+            inList = null;
+          }
+          if (inOrdered) {
+            out.push("</ol>");
+            inOrdered = null;
+          }
+        }
+
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          if (line.trim() === "") {
+            flushParagraph();
+            closeLists();
+            continue;
+          }
+
+          const heading = line.match(/^(#{1,6})\s+(.+)$/);
+          if (heading) {
+            flushParagraph();
+            closeLists();
+            const level = heading[1].length;
+            const text = heading[2].trim();
+            const id = slugify(text);
+            const numbered = text.match(/^(\d+)\.\s+(.+)$/);
+            if (level === 2 && numbered) {
+              toc.push({ num: Number(numbered[1]), title: numbered[2], id });
+            }
+            out.push(`<h${level} id="${id}">${renderInline(text)}</h${level}>`);
+            continue;
+          }
+
+          if (line.trim() === "---") {
+            flushParagraph();
+            closeLists();
+            out.push('<hr />');
+            continue;
+          }
+
+          const blockquote = line.match(/^>\s?(.*)$/);
+          if (blockquote) {
+            flushParagraph();
+            closeLists();
+            out.push(`<blockquote>${renderInline(blockquote[1])}</blockquote>`);
+            continue;
+          }
+
+          const ul = line.match(/^[*-]\s+(.+)$/);
+          if (ul) {
+            flushParagraph();
+            if (inOrdered) {
+              out.push("</ol>");
+              inOrdered = null;
+            }
+            if (!inList) {
+              out.push("<ul>");
+              inList = true;
+            }
+            out.push(`<li>${renderInline(ul[1])}</li>`);
+            continue;
+          }
+
+          const ol = line.match(/^\d+\.\s+(.+)$/);
+          if (ol) {
+            flushParagraph();
+            if (inList) {
+              out.push("</ul>");
+              inList = null;
+            }
+            if (!inOrdered) {
+              out.push("<ol>");
+              inOrdered = true;
+            }
+            out.push(`<li>${renderInline(ol[1])}</li>`);
+            continue;
+          }
+
+          paragraphBuffer.push(line.trim());
+        }
+        flushParagraph();
+        closeLists();
+        return { html: out.join("\n"), toc };
+      }
+
+      async function load() {
+        const target = document.getElementById("laerebok");
+        try {
+          const response = await fetch(SOURCE);
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const md = await response.text();
+          const { html, toc } = renderMarkdown(md);
+          target.innerHTML = html;
+          if (toc.length) {
+            const list = document.getElementById("tocList");
+            list.innerHTML = toc
+              .map((entry) => `<li><a href="#${entry.id}"><span class="toc-num">${entry.num}.</span> ${entry.title}</a></li>`)
+              .join("");
+            document.getElementById("toc").hidden = false;
+          }
+          if (location.hash) {
+            const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+            if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
+        } catch (error) {
+          target.innerHTML = `<p class="empty">Kunne ikke laste læreboken: ${escapeHtml(error.message)}</p>`;
+        }
+      }
+
+      load();
+    </script>
+  </body>
+</html>

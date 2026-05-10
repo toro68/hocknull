@@ -1,0 +1,40 @@
+{
+  "video_id": "ix8e98eBjzI",
+  "url": "https://www.youtube.com/watch?v=ix8e98eBjzI",
+  "title": "Craig Hocknull trickshot-show med golftips",
+  "temaer": [
+    "ujevnt-leie",
+    "ballflight",
+    "driver",
+    "svingbane",
+    "setup"
+  ],
+  "kort_sammendrag": "Dette er hovedsakelig et trickshot-show med humor og publikumsinteraksjon, men inneholder noen få konkrete golftips om sidehellinger og hvordan å fikse hook/slice.",
+  "laeringspunkter": [
+    {
+      "tittel": "Ball over føttene gir mer hook",
+      "forklaring": "Når ballen ligger over føttene tilter du kølla, og det effektive loftet peker mer mot venstre. Det får ballen til å hooke mer.",
+      "praktisk_folelse": "Grip ned på kølla og kompenser for vinkelen for å nøytralisere hooken.",
+      "sitat": "the ball will tend to hook a little bit more when it's above your feet",
+      "relevans": "ujevnt-leie",
+      "punkt_id": "ix8e98eBjzI-01"
+    },
+    {
+      "tittel": "Fiks for kraftig hook med stoppet sving",
+      "forklaring": "Hvis du sliter med hook, sikt langt ut til høyre, ta full baksving og stopp på toppen før du lar køllehodet akselerere gjennom ballen.",
+      "praktisk_folelse": "Føl en pause på toppen og la køllehodet komme alene gjennom slagsonen.",
+      "sitat": "take a nice big full backswing and you stop and you just let the club head accelerate right on through",
+      "relevans": "svingbane",
+      "punkt_id": "ix8e98eBjzI-02"
+    },
+    {
+      "tittel": "Stå på riktig side av ballen",
+      "forklaring": "For å slå lenger og rettere må oppstillingen og avstanden til ballen være korrekt før slaget.",
+      "praktisk_folelse": "Sjekk setupen din – at du står på riktig avstand fra ballen før hvert slag.",
+      "sitat": "very important when you want to hit it further and straighter that you stand on the proper side of the golf ball",
+      "relevans": "setup",
+      "punkt_id": "ix8e98eBjzI-03"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=ix8e98eBjzI"
+}

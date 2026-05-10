@@ -1,0 +1,80 @@
+{
+  "video_id": "TV0G4h7ZNB0",
+  "url": "https://www.youtube.com/watch?v=TV0G4h7ZNB0",
+  "title": "Forstå ballflukt og hvordan manipulere ballen",
+  "temaer": [
+    "ballflight",
+    "kolleflate",
+    "strategi",
+    "grep",
+    "release"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer at ballen kun reagerer på hvordan kølla treffer den, og viser to metoder for å forme ballflukten: den atletiske (manipulere hender og sving) og den mekaniske (beholde svingen og endre kølleflatens posisjon ved adressen).",
+  "laeringspunkter": [
+    {
+      "tittel": "Ballen forstår kun treffet",
+      "forklaring": "All ballflukt bestemmes av hvordan kølla treffer ballen. Åpen flate gir spinn som kurver til høyre, lukket flate gir spinn til venstre, og enhver ball – også putten – starter med litt bakspinn.",
+      "praktisk_folelse": "Tenk på treffet som det eneste språket ballen forstår – ikke prøv å 'styre' ballen i lufta.",
+      "sitat": "the golf ball understands how does it get struck by the golf club",
+      "relevans": "ballflight",
+      "punkt_id": "TV0G4h7ZNB0-01"
+    },
+    {
+      "tittel": "Draw gir ikke mer lengde via topspinn",
+      "forklaring": "Det er en misforståelse at draw ruller lenger fordi den har topspinn. Alle baller spinner bakover; forskjellen er aksen. Lengden påvirkes mer av landingsvinkel, fuktighet, temperatur og underlag.",
+      "praktisk_folelse": "Velg shape ut fra hvordan ballen skal lande, ikke ut fra antatt rull.",
+      "sitat": "the golf ball doesn't really care if it's moving from left to right or right to left all it cares is how does it land",
+      "relevans": "ballflight",
+      "punkt_id": "TV0G4h7ZNB0-02"
+    },
+    {
+      "tittel": "Atletisk fade (hold-off cut)",
+      "forklaring": "Sikt venstre, plukk kølla mer bratt opp, og hold flaten åpen gjennom treff ved å kutte over ballen med armspenning. Krever aktiv muskelbruk for å hindre release.",
+      "praktisk_folelse": "Hold kølla av med armene og kutt over ballen.",
+      "sitat": "picking the club up more steeply holding on with the pressure and the force of their arms",
+      "relevans": "release",
+      "punkt_id": "TV0G4h7ZNB0-03"
+    },
+    {
+      "tittel": "Atletisk draw (release hook)",
+      "forklaring": "Sikt høyre og lukk kølleflaten aktivt gjennom treff ved å rulle hendene – supinasjon i venstre arm og pronasjon i høyre.",
+      "praktisk_folelse": "Kast hendene gjennom ballen og rull kølla over.",
+      "sitat": "I'm supinating my left arm like crazy pronating my right arm like crazy",
+      "relevans": "release",
+      "punkt_id": "TV0G4h7ZNB0-04"
+    },
+    {
+      "tittel": "Mekanisk metode – endre kølleflaten, ikke svingen",
+      "forklaring": "Som en Iron Byron-maskin: behold den samme svingen og release, men endre kølleflatens posisjon i adresse. Sikt venstre og åpne flaten for fade, sikt høyre og lukk flaten for draw.",
+      "praktisk_folelse": "Sving helt normalt – la grepet/flaten gjøre jobben.",
+      "sitat": "keep my swing the same... maneuver the ball... gripping the club in a different position",
+      "relevans": "kolleflate",
+      "punkt_id": "TV0G4h7ZNB0-05"
+    },
+    {
+      "tittel": "Release fade fremfor hold-off",
+      "forklaring": "Ifølge Jim Flick spiller ingen god fade-spiller hold-off; Jack Nicklaus brukte release cut. Sikt venstre, åpne flaten ved adresse og slipp kølla helt normalt gjennom.",
+      "praktisk_folelse": "Slipp kølla fritt selv når du fader – ikke hold imot.",
+      "sitat": "no good fader of the golf ball plays any form of a hold off shot",
+      "relevans": "release",
+      "punkt_id": "TV0G4h7ZNB0-06"
+    },
+    {
+      "tittel": "Naturlige vs unaturlige ballflukter",
+      "forklaring": "Det er lett å slå høy fade og lav draw, men vanskelig å slå lav fade og høy hook. Åpen flate gir høyde, lukket flate gir lavere flukt.",
+      "praktisk_folelse": "Velg shape som passer naturlig med høyden du trenger.",
+      "sitat": "very very easy to hit a low hook and very very easy to hit a high fade",
+      "relevans": "ballflight",
+      "punkt_id": "TV0G4h7ZNB0-07"
+    },
+    {
+      "tittel": "Kjenn din egen nøytrale ballflukt",
+      "forklaring": "Med kvadratisk flate produserer Craigs sving naturlig en liten draw. Ved å åpne flaten et par grader får han en baby fade med samme sving.",
+      "praktisk_folelse": "Lær din nøytrale tendens og juster flaten et par grader for å forme ballen.",
+      "sitat": "if I set my club face a couple of degrees open... now what I've got is a little baby fade",
+      "relevans": "kolleflate",
+      "punkt_id": "TV0G4h7ZNB0-08"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=TV0G4h7ZNB0"
+}

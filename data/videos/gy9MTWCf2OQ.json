@@ -1,0 +1,63 @@
+{
+  "video_id": "gy9MTWCf2OQ",
+  "url": "https://www.youtube.com/watch?v=gy9MTWCf2OQ",
+  "title": "Teknologi og verktøy for juniorgolf",
+  "temaer": [
+    "utstyr",
+    "trening",
+    "strategi",
+    "putting"
+  ],
+  "kort_sammendrag": "Craig Hocknull går gjennom teknologi og apper som kan hjelpe juniorgolfere og foreldre med å spore svingdata, ballflukt og statistikk for bedre trening og strategi.",
+  "laeringspunkter": [
+    {
+      "tittel": "Bruk radarteknologi tilpasset budsjettet",
+      "forklaring": "Trackman og Foresight er toppvalg som proffene bruker, men Mevo og Mevo Plus fra FlightScope gir tilsvarende data (spinn, launch angle, klubbhodehastighet) til en mye lavere pris (500-2000 dollar).",
+      "praktisk_folelse": "Velg en enhet som passer økonomien, men som gir nok datapunkter til å forstå ballflukten din.",
+      "sitat": "if you want to get something for 500 or 2000 that's just going to give you some data points on your ball flight",
+      "relevans": "utstyr",
+      "punkt_id": "gy9MTWCf2OQ-01"
+    },
+    {
+      "tittel": "Blast Motion-sensor for putting",
+      "forklaring": "En liten sensor som festes i enden av grepet og måler tempo, rotasjon og hastighet. Anbefales særlig på putteren for å forstå slagets hastighet og rytme.",
+      "praktisk_folelse": "Bruk sensoren på putteren for å fange opp tempo og fart i puttestroken.",
+      "sitat": "use it on the putter so that you can really kind of capture information about what your stroke is doing for speed",
+      "relevans": "putting",
+      "punkt_id": "gy9MTWCf2OQ-02"
+    },
+    {
+      "tittel": "Spor statistikk for å forstå reelle tendenser",
+      "forklaring": "Apper som Decade Golf hjelper deg å se hvor langt du virkelig slår og i hvilken retning du faktisk bommer. Du kan tro du hooker, men statistikken kan vise at du oftere fader.",
+      "praktisk_folelse": "Stol på data fremfor følelsen av siste dårlige slag når du velger hva du skal jobbe med.",
+      "sitat": "if you're actually capturing it then and measuring it then you know that a certain percentage of the time you do actually slice it",
+      "relevans": "strategi",
+      "punkt_id": "gy9MTWCf2OQ-03"
+    },
+    {
+      "tittel": "Bruk tendensdata til strategiske valg",
+      "forklaring": "Når du vet at f.eks. 7-jernet ditt går 177 yards og bommer til høyre 66 % av tiden, kan du trygt sikte mot greener med fare på venstre side.",
+      "praktisk_folelse": "Planlegg slaget ut fra din statistiske miss, ikke ut fra frykt.",
+      "sitat": "my seven iron that tends to miss slightly to the right shouldn't scare me in this particular scenario even though i'm looking at a whole bunch of water",
+      "relevans": "strategi",
+      "punkt_id": "gy9MTWCf2OQ-04"
+    },
+    {
+      "tittel": "Mål putting fra ulike avstander",
+      "forklaring": "Skriv ned eller logg hvor mange putter du tar fra ulike avstander (3, 9, 15 fot) for å identifisere svakheter og styre treningen dit du trenger det mest.",
+      "praktisk_folelse": "Vit konkret hvilken avstand som er din svakhet, og bruk treningstiden der.",
+      "sitat": "if I put from nine feet how many times do I one putt two putt three putt and you've got to have a way of writing that stuff down",
+      "relevans": "putting",
+      "punkt_id": "gy9MTWCf2OQ-05"
+    },
+    {
+      "tittel": "Treningshjelpemidler for juniorer",
+      "forklaring": "Verktøy som putte-disker, putte-linjal, grepstrener og dekaler på solbriller kan hjelpe unge spillere å holde hodet stille og bygge gode vaner.",
+      "praktisk_folelse": "Hold hodet stille og fokuser på ballen mens du svinger.",
+      "sitat": "golf vision glasses to help you kind of put on your glasses... to help you keep your head still while you're focusing on the ball",
+      "relevans": "trening",
+      "punkt_id": "gy9MTWCf2OQ-06"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=gy9MTWCf2OQ"
+}

@@ -1,0 +1,101 @@
+{
+  "video_id": "X-TaHgG0lKs",
+  "url": "https://www.youtube.com/watch?v=X-TaHgG0lKs",
+  "title": "Pitching - teknikk og avstandskontroll",
+  "temaer": [
+    "wedge",
+    "kortspill",
+    "svingbane",
+    "rough",
+    "avstandskontroll",
+    "setup",
+    "kollehode",
+    "tempo",
+    "ujevnt-leie",
+    "mental"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer hvordan du pitcher ved å bruke en forstørret putte-bevegelse, sveipe gjennom gresset i stedet for å slå ned på ballen, og tilpasse svinglengde og fart til avstand og motstand fra underlaget.",
+  "laeringspunkter": [
+    {
+      "tittel": "Bygg pitchen ut fra puttesvingen",
+      "forklaring": "I stedet for å krympe full sving, ta puttebevegelsen og gjør den gradvis større til chip og pitch. Det gir mer rytme og mindre 'hit' i ballen.",
+      "praktisk_folelse": "Sving armene fram og tilbake som en lang putt, ikke pop eller jab i ballen.",
+      "sitat": "you have to blend part of your putting and chipping technique into your full swing",
+      "relevans": "kortspill",
+      "punkt_id": "X-TaHgG0lKs-01"
+    },
+    {
+      "tittel": "Sveip gjennom gresset, ikke slå ned på ballen",
+      "forklaring": "Svingen er en bue som skal bunne ut under ballen. Hvis du prøver å slå nedover for å løfte den, ender du enten med å treffe bakken først eller å blade ballen.",
+      "praktisk_folelse": "Kjenn at klubben børster gresset som borrelås både før og etter ballen, omtrent en fot kontakt med graset.",
+      "sitat": "you have to actually get the bottom of the club below the height of the ball",
+      "relevans": "svingbane",
+      "punkt_id": "X-TaHgG0lKs-02"
+    },
+    {
+      "tittel": "Ballplassering midt i stansen",
+      "forklaring": "Plasser ballen i midten for å la klubben bunne ut naturlig. Legger du ballen for langt bak slår du den lavt, for langt fram øker risiko for å ta gress først.",
+      "praktisk_folelse": "Samme ballplassering som med putteren - sentrert mellom føttene.",
+      "sitat": "play it more in the middle of your stance ... all you're trying to do is get the club to bottom out",
+      "relevans": "setup",
+      "punkt_id": "X-TaHgG0lKs-03"
+    },
+    {
+      "tittel": "Velg kølle etter høyde og rull",
+      "forklaring": "60-graders gir høy bane og kort rull, mens pitching wedge gir lavere bane og mer rull. Velg ut fra hvor mye green du har å jobbe med.",
+      "praktisk_folelse": "Bruk 60-graderen når du må over hindre eller har lite green; PW når du har plass til å la den rulle.",
+      "sitat": "depending on the shot you might have lots of green to work with",
+      "relevans": "wedge",
+      "punkt_id": "X-TaHgG0lKs-04"
+    },
+    {
+      "tittel": "Feiltolking når ballen flyr over greenen",
+      "forklaring": "Når du blader pitchen og den flyr langt over, var det ikke fordi du svingte for hardt - bunnkanten traff midt på ballen uten spinn. Å svinge mykere etterpå gir bare en ny dårlig løsning.",
+      "praktisk_folelse": "Ikke endre fart - endre teknikk slik at klubbflaten kommer under ballen.",
+      "sitat": "you actually hit it with the right amount of speed it's just a dynamic that happens between the very bottom edge of this club and the middle of the ball",
+      "relevans": "kollehode",
+      "punkt_id": "X-TaHgG0lKs-05"
+    },
+    {
+      "tittel": "Tre høyder i roughen",
+      "forklaring": "Ballen kan ligge nede ved jorden, midt i gresset, eller helt på toppen. Toppen er enklest fordi du får klubben rett under; nede i bunnen er vanskeligst og frister til å hakke ned.",
+      "praktisk_folelse": "Uansett hvor ballen ligger - behold buen i svingen, ikke bytt til en hakkende bevegelse.",
+      "sitat": "I like to describe the rough of having three different heights",
+      "relevans": "rough",
+      "punkt_id": "X-TaHgG0lKs-06"
+    },
+    {
+      "tittel": "Tilpass farten til motstanden i underlaget",
+      "forklaring": "Rough bremser klubben mer enn fairway, så samme avstand krever lengre/raskere sving fra rough. Test alltid motstanden der ballen faktisk ligger.",
+      "praktisk_folelse": "Gjør prøvesving i samme type gress som ballen ligger i, så du kjenner hvor seigt det er.",
+      "sitat": "always rehearse the shot in the environment that your ball is sitting in",
+      "relevans": "avstandskontroll",
+      "punkt_id": "X-TaHgG0lKs-07"
+    },
+    {
+      "tittel": "Styr avstand med svinglengde, ikke kraft",
+      "forklaring": "Kort chip = liten sving, 40 yards pitch = lengre armsving. Ikke prøv å akselerere ekstra eller jabbe i ballen.",
+      "praktisk_folelse": "Føl en jevn pendel der lengden bak og fram bestemmer avstanden.",
+      "sitat": "try not to over accelerate",
+      "relevans": "tempo",
+      "punkt_id": "X-TaHgG0lKs-08"
+    },
+    {
+      "tittel": "Juster for skråninger",
+      "forklaring": "I oppoverbakke vil klubben bremses inn i bakken; i nedoverbakke vil klubben akselerere fordi den ikke møter motstand.",
+      "praktisk_folelse": "Forvent å måtte sette mer fart oppover, og pass på akselerasjonen nedover.",
+      "sitat": "when you're going down the hill ... the club's accelerates and speeds",
+      "relevans": "ujevnt-leie",
+      "punkt_id": "X-TaHgG0lKs-09"
+    },
+    {
+      "tittel": "Rutine før hvert pitch",
+      "forklaring": "Bestem ballplassering, svinglengde, fart og underlagsmotstand før du går inn til ballen. Ikke gå rett opp og slå.",
+      "praktisk_folelse": "Gjør hodearbeidet ferdig under prøvesvingene, så bare gjenta bevegelsen ved ballen.",
+      "sitat": "don't just walk up and hit it unless you really have gone through that in your head",
+      "relevans": "mental",
+      "punkt_id": "X-TaHgG0lKs-10"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=X-TaHgG0lKs"
+}

@@ -1,0 +1,117 @@
+{
+  "video_id": "vM5GmUF71Dk",
+  "url": "https://www.youtube.com/watch?v=vM5GmUF71Dk",
+  "title": "Konsistens, grep og timing av release",
+  "temaer": [
+    "grep",
+    "hoyre-hand",
+    "venstre-hand",
+    "release",
+    "timing",
+    "tempo",
+    "trening",
+    "kropp",
+    "baksvingen",
+    "setup"
+  ],
+  "kort_sammendrag": "Craig identifiserer at eleven mister grepet i baksvingen, noe som ødelegger timingen i releasen. Han bygger om grepet til en sterkere 'western'-posisjon og jobber med timing av kasterørelsen tilpasset hver enkelt kølle.",
+  "laeringspunkter": [
+    {
+      "tittel": "Vær konsekvent for å avsløre feilen",
+      "forklaring": "Ikke endre svingen etter hver dårlige ball. Hold mønsteret konsistent slik at et gjentakende problem kommer til syne, og du kan gjøre én liten justering som faktisk fester seg.",
+      "praktisk_folelse": "Slå med samme tempo og rytme selv etter en dårlig ball, så feilen blir tydelig.",
+      "sitat": "if we get a consistent problem we make one little tweak and then it turns into a good thing",
+      "relevans": "trening",
+      "punkt_id": "vM5GmUF71Dk-01"
+    },
+    {
+      "tittel": "Unngå tempovariasjoner i leveringen",
+      "forklaring": "Som en baseballkaster som kaster curve og fastball, varierer mange spillere tempoet sitt og 'lurer' seg selv. Konsistens i ballkontakten er bare så god som konsistensen i leveringen.",
+      "praktisk_folelse": "Tenk smooth og finn en intern timing, gjerne en liten pause på toppen.",
+      "sitat": "you're throwing yourself these change ups",
+      "relevans": "tempo",
+      "punkt_id": "vM5GmUF71Dk-02"
+    },
+    {
+      "tittel": "Bakfoten skal bli stående",
+      "forklaring": "Bakfoten skal være plantet til køllen nesten har fullført svingen. Det eneste som skal trekke deg opp på tå er fullheten av releasen, ikke en aktiv bevegelse.",
+      "praktisk_folelse": "Føl at bakfoten er plantet hele veien gjennom slaget.",
+      "sitat": "the back foot needs to really stay down until the club has almost fully finished",
+      "relevans": "kropp",
+      "punkt_id": "vM5GmUF71Dk-03"
+    },
+    {
+      "tittel": "Sjekk om grepet glir i baksvingen",
+      "forklaring": "Test ved å gå opp i bakposisjon, holde hendene fast på grepet, og deretter føre køllen tilbake til adresse. Hvis tommel/hånd har skiftet posisjon, har grepet sklidd – det ødelegger leveringen.",
+      "praktisk_folelse": "Som å begynne å skrive med blyant og bytte håndstilling halvveis i signaturen.",
+      "sitat": "the thumb came off it went from here to here",
+      "relevans": "grep",
+      "punkt_id": "vM5GmUF71Dk-04"
+    },
+    {
+      "tittel": "Venstrehånden litt over – grepet skal ligge i fingrene",
+      "forklaring": "Venstre hånd skal vris litt mer over slik at logoen på grepet kommer opp på innsiden av tommelen og hengselet skjer inn i håndleddsbenet, ikke ned på tommelen.",
+      "praktisk_folelse": "Føl at grepet hengsler inn i håndleddet, ikke på tommelen.",
+      "sitat": "it should hinge into this bone not like onto the thumb",
+      "relevans": "venstre-hand",
+      "punkt_id": "vM5GmUF71Dk-05"
+    },
+    {
+      "tittel": "Pek-finger og tommel som trigger og støtte",
+      "forklaring": "Pekefingeren ('trigger finger') og tommelen i høyre hånd skaper støtte slik at hengselet på toppen lader inn i den lille muskelpuden. Da har du et fast punkt å 'kaste' køllen fra.",
+      "praktisk_folelse": "Klem grepet mellom høyre tommel og pekefinger – som å skipe stein.",
+      "sitat": "this is your trigger finger your throwing finger like rock skipping finger",
+      "relevans": "hoyre-hand",
+      "punkt_id": "vM5GmUF71Dk-06"
+    },
+    {
+      "tittel": "Releasens timing varierer med kølle",
+      "forklaring": "Med wedge er kasteretningen mer vertikal og nede ved høyre legg, og releasen kommer sent. Med driver er kastet mer bak og rundt, og skjer tidligere i sekvensen.",
+      "praktisk_folelse": "Wedge: føl en sen, forsinket kast. Driver: kast så tidlig som mulig.",
+      "sitat": "the shorter the club the more vertical the throw and the more and the later it is in or in the order in the sequence",
+      "relevans": "release",
+      "punkt_id": "vM5GmUF71Dk-07"
+    },
+    {
+      "tittel": "Last køllen i pausen på toppen",
+      "forklaring": "Den naturlige pausen på toppen er hvor køllehodet 'faller inn i hendene'. Da kjenner du vekten av køllehodet og kan kaste fra en ladet posisjon.",
+      "praktisk_folelse": "Kjenn metallet i enden av staven sette seg før du fyrer av.",
+      "sitat": "right there it feels like okay now i know where the weight is",
+      "relevans": "baksvingen",
+      "punkt_id": "vM5GmUF71Dk-08"
+    },
+    {
+      "tittel": "Skulderen styrer timingen av kastet",
+      "forklaring": "På wedge faller høyre skulder mer vertikalt ned, så hendene må vente lenger. På driver går skulderen mer rundt, så hendene kan fyre tidligere. Skulderbevegelsen og kastet er korrelert.",
+      "praktisk_folelse": "La skulderen droppe ned først, så fyrer hendene etterpå.",
+      "sitat": "once that shoulder drops then the hands can kind of fire out a little bit later",
+      "relevans": "release",
+      "punkt_id": "vM5GmUF71Dk-09"
+    },
+    {
+      "tittel": "Sterkere 'western'-grep mot push/slice",
+      "forklaring": "Når kølleflaten er åpen i treff, vri begge hender mer mot høyre. Venstre tommel kan nesten ligge på siden av grepet og høyre hånd mer under. Grensen er når ballen begynner å hooke for langt venstre.",
+      "praktisk_folelse": "Som et western tennisgrep – tommelen på siden, ikke toppen.",
+      "sitat": "more western grip exactly roll that right hand under left hand over",
+      "relevans": "grep",
+      "punkt_id": "vM5GmUF71Dk-10"
+    },
+    {
+      "tittel": "Avstand til ball påvirker fettslag",
+      "forklaring": "Hvis du treffer bakken før ballen kan det skyldes for tidlig kast med håndleddene, eller at du står for nær ballen. Sjekk avstanden før du justerer timingen.",
+      "praktisk_folelse": "Stå litt lenger fra ballen så armene strekkes ut – timingen møter ballen i full ekstensjon.",
+      "sitat": "we either need to shorten the grip on the club or you need to stand back just a little bit further",
+      "relevans": "setup",
+      "punkt_id": "vM5GmUF71Dk-11"
+    },
+    {
+      "tittel": "Time releasen til full ekstensjon ved ballen",
+      "forklaring": "Det er en avstand mellom deg og ballen. Målet er at køllen når full ekstensjon akkurat når den treffer ballen.",
+      "praktisk_folelse": "Føl at kastet 'slippes' slik at køllehodet er strukket helt ut i treff.",
+      "sitat": "we're trying to time it at the ball",
+      "relevans": "timing",
+      "punkt_id": "vM5GmUF71Dk-12"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=vM5GmUF71Dk"
+}

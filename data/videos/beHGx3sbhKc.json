@@ -1,0 +1,62 @@
+{
+  "video_id": "beHGx3sbhKc",
+  "url": "https://www.youtube.com/watch?v=beHGx3sbhKc",
+  "title": "Hvordan bruke StrackAline greenbok - introduksjon",
+  "temaer": [
+    "putting",
+    "strategi",
+    "avstandskontroll"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer hvordan man leser en StrackAline greenbok, inkludert forståelse av topografiske linjer, farger, piler og forskjellen mellom prosent og grader helning.",
+  "laeringspunkter": [
+    {
+      "tittel": "Forstå topografiske linjer",
+      "forklaring": "Avstanden mellom konturlinjene viser hvor raskt hellingen endres. Linjer langt fra hverandre betyr slakt terreng, mens tette linjer indikerer bratt helning.",
+      "praktisk_folelse": "Se etter tette linjer for å identifisere bratte områder hvor ballen ruller raskt.",
+      "sitat": "wider spaces between those contours is a flatter or a section that has less slope tight little contours here will have a very severe slope",
+      "relevans": "putting",
+      "punkt_id": "beHGx3sbhKc-01"
+    },
+    {
+      "tittel": "Forskjell på prosent og grader helning",
+      "forklaring": "Prosent viser endring i helning over en avstand, mens grader viser helningen i et eksakt punkt. 5,1 % helning er ikke det samme som 5,1 grader - det tilsvarer faktisk i underkant av 3 grader.",
+      "praktisk_folelse": "Bruk konverteringstabellen bakerst i boken når du kombinerer greenboken med et nivåverktøy eller AimPoint.",
+      "sitat": "you don't want to assume that that is actually five point one degrees that's actually just under three degrees",
+      "relevans": "putting",
+      "punkt_id": "beHGx3sbhKc-02"
+    },
+    {
+      "tittel": "Tolk fargene i greenboken",
+      "forklaring": "Fargeskalaen går fra kjølig blå/grønn (slakt) til oransje, rødt og rosa (bratt). Hullplasseringer ligger normalt i de blå og grønne områdene, sjelden i rosa når greenfarten er over 10 på stimpmeteret.",
+      "praktisk_folelse": "Sikt mot blå/grønne områder - ballen blir vanskelig å stoppe i de rosa partiene på raske greener.",
+      "sitat": "the faster the greens the less chance your ball will have to stop on these higher slope sections",
+      "relevans": "strategi",
+      "punkt_id": "beHGx3sbhKc-03"
+    },
+    {
+      "tittel": "Følg pilene for å lese fall",
+      "forklaring": "Pilene viser hvilken retning vannet/ballen vil renne. De kan kaskade fra ett område til et annet på greenen, så du må følge hele forløpet, ikke bare første pil.",
+      "praktisk_folelse": "Spor pilene fra ballens posisjon helt frem til hullet for å forstå totalbevegelsen.",
+      "sitat": "you have to pay attention to which direction the arrows are going",
+      "relevans": "putting",
+      "punkt_id": "beHGx3sbhKc-04"
+    },
+    {
+      "tittel": "Bruk rutenettet til avstandsmåling",
+      "forklaring": "De store rutene er i 5-yards inkrementer og de små i 1-yard. Sprinklerhoder er markert som referansepunkter du kan finne ute på banen.",
+      "praktisk_folelse": "Bruk sprinklerne som visuelle holdepunkter når du beregner avstand inn til green.",
+      "sitat": "these large grids over here the bigger grids are in five yard increments smaller ones are going to be in one yard",
+      "relevans": "avstandskontroll",
+      "punkt_id": "beHGx3sbhKc-05"
+    },
+    {
+      "tittel": "Forstå greenens generelle fall",
+      "forklaring": "Mange greener har et naturlig høyt og lavt punkt knyttet til drenering, ofte mot et lavt parti eller våtmark. Identifiser dette først for å forstå putten i stort bilde.",
+      "praktisk_folelse": "Finn høypunktet og lavpunktet før du begynner å lese detaljene i putten.",
+      "sitat": "this section across here is the high section and pretty much every putt slopes across the green and goes down",
+      "relevans": "putting",
+      "punkt_id": "beHGx3sbhKc-06"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=beHGx3sbhKc"
+}

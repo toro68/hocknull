@@ -3,7 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Craig Hocknull læringsbibliotek</title>
+    <title>⛳ Hocknull-bibliotek</title>
+    <meta name="theme-color" content="#18493b" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg?v=20260510-1" />
+    <link rel="apple-touch-icon" href="favicon.svg?v=20260510-1" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -13,6 +16,7 @@
         <p id="status" aria-live="polite"></p>
       </div>
       <nav class="toplinks" aria-label="Sider">
+        <a class="repo-link" href="laerebok.html">Lærebok</a>
         <a class="repo-link" href="noytralt-kollehode.html">Nøytralt køllehode</a>
       </nav>
     </header>
@@ -21,6 +25,7 @@
       <nav class="view-tabs" role="tablist" aria-label="Visning">
         <button type="button" id="videosTab" class="view-tab active" data-view="videos" role="tab" aria-selected="true" aria-controls="videosView">Videoer</button>
         <button type="button" id="pointsTab" class="view-tab" data-view="points" role="tab" aria-selected="false" aria-controls="pointsView" tabindex="-1">Alle læringspunkter</button>
+        <button type="button" id="collectionTab" class="view-tab" data-view="collection" role="tab" aria-selected="false" aria-controls="collectionView" tabindex="-1">Min samling <span class="tab-count" id="collectionCount" hidden>0</span></button>
       </nav>
 
       <section class="toolbar" aria-label="Søk og filter">
@@ -45,8 +50,25 @@
       </section>
 
       <section class="points-view" id="pointsView" role="tabpanel" aria-labelledby="pointsTab" hidden></section>
+
+      <section class="collection-view" id="collectionView" role="tabpanel" aria-labelledby="collectionTab" hidden>
+        <header class="collection-header">
+          <div>
+            <h2>Min instruksjonsbok</h2>
+            <p class="collection-intro">Lagt til lokalt i denne nettleseren. Bruk eksport for å sikkerhetskopiere.</p>
+          </div>
+          <div class="collection-actions">
+            <button type="button" id="collectionExportMd" class="ghost-button">Eksporter Markdown</button>
+            <button type="button" id="collectionExportJson" class="ghost-button">Eksporter JSON</button>
+            <button type="button" id="collectionImport" class="ghost-button">Importer JSON</button>
+            <button type="button" id="collectionClear" class="ghost-button danger">Tøm samling</button>
+          </div>
+        </header>
+        <input type="file" id="collectionImportFile" accept="application/json" hidden />
+        <div id="collectionList" class="collection-list"></div>
+      </section>
     </main>
 
-    <script src="app.js?v=20260509-2" type="module"></script>
+    <script src="app.js?v=20260510-2" type="module"></script>
   </body>
 </html>

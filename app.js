@@ -1,5 +1,7 @@
 const READ_STORAGE_KEY = "hocknull.read";
 const VIEW_STORAGE_KEY = "hocknull.view";
+const COLLECTION_STORAGE_KEY = "hocknull.collection";
+const NOTE_AUTOSAVE_MS = 400;
 
 const state = {
   videos: [],
@@ -8,8 +10,10 @@ const state = {
   read: loadReadSet(),
   view: loadView(),
   allPoints: null,
+  pointSearchByVideo: new Map(),
   pointLoadErrors: [],
   pointsLoading: false,
+  collection: loadCollection(),
 };
 
 const els = {
@@ -21,6 +25,14 @@ const els = {
   details: document.querySelector("#details"),
   videosView: document.querySelector("#videosView"),
   pointsView: document.querySelector("#pointsView"),
+  collectionView: document.querySelector("#collectionView"),
+  collectionList: document.querySelector("#collectionList"),
+  collectionCount: document.querySelector("#collectionCount"),
+  collectionExportMd: document.querySelector("#collectionExportMd"),
+  collectionExportJson: document.querySelector("#collectionExportJson"),
+  collectionImport: document.querySelector("#collectionImport"),
+  collectionImportFile: document.querySelector("#collectionImportFile"),
+  collectionClear: document.querySelector("#collectionClear"),
   viewTabs: document.querySelectorAll(".view-tab"),
 };
 
@@ -60,9 +72,82 @@ function normalizeSearchText(value) {
     .replaceAll("å", "a")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9\s]/g, " ")
     .replace(/[-_]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function topicSearchText(topics) {
+  return (topics || []).map((topic) => `${topic} ${topicLabel(topic)}`).join(" ");
+}
+
+function relatedSearchText(sources) {
+  return (sources || [])
+    .map((source) => `${source.video_id || ""} ${source.url || ""} ${source.hvorfor || ""}`)
+    .join(" ");
+}
+
+function buildVideoSearchFields(video) {
+  return [
+    { text: normalizeSearchText(video.title), weight: 8 },
+    { text: normalizeSearchText(topicSearchText(video.temaer)), weight: 6 },
+    { text: normalizeSearchText(video.kort_sammendrag), weight: 4 },
+    { text: normalizeSearchText(relatedSearchText(video.relaterte_kilder)), weight: 2 },
+  ];
+}
+
+function prepareVideo(video) {
+  return {
+    ...video,
+    _searchFields: buildVideoSearchFields(video),
+  };
+}
+
+function buildPointSearchFields(point) {
+  const relevans = point.relevans || "annet";
+  return [
+    { text: normalizeSearchText(point.tittel), weight: 10 },
+    { text: normalizeSearchText(`${relevans} ${topicLabel(relevans)}`), weight: 6 },
+    { text: normalizeSearchText(topicSearchText(point.video_temaer)), weight: 4 },
+    { text: normalizeSearchText(point.forklaring), weight: 3 },
+    { text: normalizeSearchText(point.praktisk_folelse), weight: 3 },
+    { text: normalizeSearchText(point.sitat), weight: 2 },
+    { text: normalizeSearchText(point.video_title), weight: 2 },
+  ];
+}
+
+function preparePoint(point, full, summary) {
+  const videoTemaer = full.temaer || summary.temaer || [];
+  const prepared = {
+    ...point,
+    video_id: full.video_id || summary.video_id,
+    video_title: full.title || summary.title || summary.video_id,
+    video_temaer: videoTemaer,
+  };
+  return {
+    ...prepared,
+    _searchFields: buildPointSearchFields(prepared),
+  };
+}
+
+function videoPointSearchText(full) {
+  const pointText = (full.laeringspunkter || [])
+    .map((point) => [
+      point.tittel,
+      point.forklaring,
+      point.praktisk_folelse,
+      point.sitat,
+      point.relevans,
+      topicLabel(point.relevans || "annet"),
+    ].join(" "))
+    .join(" ");
+  return normalizeSearchText(pointText);
+}
+
+function updateVideoPointSearch(full) {
+  const videoId = full.video_id;
+  if (videoId) state.pointSearchByVideo.set(videoId, videoPointSearchText(full));
 }
 
 function scoreFields(fields, terms) {
@@ -101,7 +186,8 @@ function saveReadSet() {
 function loadView() {
   try {
     const v = localStorage.getItem(VIEW_STORAGE_KEY);
-    return v === "points" ? "points" : "videos";
+    if (v === "points" || v === "collection") return v;
+    return "videos";
   } catch {
     return "videos";
   }
@@ -113,6 +199,70 @@ function saveView() {
   } catch {
     /* ignorer */
   }
+}
+
+function loadCollection() {
+  try {
+    const raw = localStorage.getItem(COLLECTION_STORAGE_KEY);
+    if (!raw) return { entries: [], notes: {} };
+    const parsed = JSON.parse(raw);
+    const entries = Array.isArray(parsed?.entries) ? parsed.entries : [];
+    const notes = parsed?.notes && typeof parsed.notes === "object" ? parsed.notes : {};
+    return {
+      entries: entries.filter((e) => e && typeof e.point_id === "string" && typeof e.video_id === "string"),
+      notes,
+    };
+  } catch {
+    return { entries: [], notes: {} };
+  }
+}
+
+function saveCollection() {
+  try {
+    localStorage.setItem(COLLECTION_STORAGE_KEY, JSON.stringify(state.collection));
+  } catch {
+    /* ignorer quota */
+  }
+}
+
+function isInCollection(pointId) {
+  return state.collection.entries.some((e) => e.point_id === pointId);
+}
+
+function addToCollection(point, video) {
+  if (!point?.punkt_id) return false;
+  if (isInCollection(point.punkt_id)) return false;
+  state.collection.entries.push({
+    point_id: point.punkt_id,
+    video_id: video.video_id,
+    added_at: new Date().toISOString(),
+  });
+  saveCollection();
+  return true;
+}
+
+function removeFromCollection(pointId) {
+  const before = state.collection.entries.length;
+  state.collection.entries = state.collection.entries.filter((e) => e.point_id !== pointId);
+  saveCollection();
+  return state.collection.entries.length !== before;
+}
+
+function getNote(pointId) {
+  return state.collection.notes[pointId] || "";
+}
+
+function setNote(pointId, value) {
+  const trimmed = String(value || "");
+  if (trimmed) state.collection.notes[pointId] = trimmed;
+  else delete state.collection.notes[pointId];
+  saveCollection();
+}
+
+function updateCollectionCount() {
+  const count = state.collection.entries.length;
+  els.collectionCount.textContent = String(count);
+  els.collectionCount.hidden = count === 0;
 }
 
 function toggleRead(videoId) {
@@ -143,12 +293,10 @@ function populateTopics() {
 
 function searchScoreVideo(video, terms) {
   if (!terms.length) return 0;
-  const topics = (video.temaer || []).map((topic) => `${topic} ${topicLabel(topic)}`).join(" ");
   return scoreFields(
     [
-      { text: normalizeSearchText(video.title), weight: 8 },
-      { text: normalizeSearchText(topics), weight: 6 },
-      { text: normalizeSearchText(video.kort_sammendrag), weight: 4 },
+      ...(video._searchFields || buildVideoSearchFields(video)),
+      { text: state.pointSearchByVideo.get(video.video_id) || "", weight: 2 },
     ],
     terms,
   );
@@ -156,18 +304,7 @@ function searchScoreVideo(video, terms) {
 
 function searchScorePoint(point, terms) {
   if (!terms.length) return 0;
-  const relevans = point.relevans || "annet";
-  return scoreFields(
-    [
-      { text: normalizeSearchText(point.tittel), weight: 10 },
-      { text: normalizeSearchText(`${relevans} ${topicLabel(relevans)}`), weight: 6 },
-      { text: normalizeSearchText(point.forklaring), weight: 3 },
-      { text: normalizeSearchText(point.praktisk_folelse), weight: 3 },
-      { text: normalizeSearchText(point.sitat), weight: 2 },
-      { text: normalizeSearchText(point.video_title), weight: 2 },
-    ],
-    terms,
-  );
+  return scoreFields(point._searchFields || buildPointSearchFields(point), terms);
 }
 
 function activeTerms() {
@@ -196,7 +333,7 @@ function filteredPoints() {
   const scored = state.allPoints.map((point) => ({ point, score: searchScorePoint(point, terms) }));
   const filtered = scored.filter(({ point, score }) => {
     if (terms.length && score < 0) return false;
-    if (topic && point.relevans !== topic) return false;
+    if (topic && point.relevans !== topic && !(point.video_temaer || []).includes(topic)) return false;
     return true;
   });
   if (terms.length) {
@@ -218,6 +355,35 @@ function pointsStatusText(visible, total) {
     ? ` · ${state.pointLoadErrors.length} videoer kunne ikke lastes`
     : "";
   return `${visible} av ${total} punkter vises${warning}`;
+}
+
+function pointActionsHtml(pointId, options = {}) {
+  if (!pointId) return "";
+  const inCollection = isInCollection(pointId);
+  const expanded = options.noteOpen || inCollection || Boolean(getNote(pointId));
+  const noteLabel = expanded ? "Skjul notat" : "Skriv notat";
+  return `
+    <div class="point-actions" data-point-id="${escapeHtml(pointId)}">
+      <button type="button" class="ghost-button collection-toggle" data-action="toggle-collection" aria-pressed="${inCollection}">
+        ${inCollection ? "✓ I samling" : "+ Legg i samling"}
+      </button>
+      <button type="button" class="ghost-button note-toggle" data-action="toggle-note" aria-expanded="${expanded}">
+        ${noteLabel}
+      </button>
+    </div>
+    ${expanded ? noteHtml(pointId) : ""}
+  `;
+}
+
+function noteHtml(pointId) {
+  const value = getNote(pointId);
+  return `
+    <div class="point-note" data-point-id="${escapeHtml(pointId)}">
+      <label for="note-${escapeHtml(pointId)}">Eget notat</label>
+      <textarea id="note-${escapeHtml(pointId)}" data-action="note-input" placeholder="Skriv din egen kommentar, drill eller påminnelse …">${escapeHtml(value)}</textarea>
+      <p class="point-note-status" data-action="note-status" aria-live="polite"></p>
+    </div>
+  `;
 }
 
 function renderVideoList() {
@@ -287,7 +453,7 @@ function renderDetails(video) {
   const points = (video.laeringspunkter || [])
     .map(
       (point) => `
-        <section class="point" id="${escapeHtml(point.punkt_id || "")}">
+        <section class="point" id="${escapeHtml(point.punkt_id || "")}" data-point-id="${escapeHtml(point.punkt_id || "")}">
           <h3>${escapeHtml(point.tittel)}</h3>
           ${point.sitat ? `<p class="point-quote">${escapeHtml(point.sitat)}</p>` : ""}
           <p>${escapeHtml(point.forklaring)}</p>
@@ -295,6 +461,7 @@ function renderDetails(video) {
           <div class="video-meta">
             <button type="button" class="pill" data-topic="${escapeHtml(point.relevans || "annet")}">${escapeHtml(topicLabel(point.relevans || "annet"))}</button>
           </div>
+          ${pointActionsHtml(point.punkt_id)}
         </section>
       `,
     )
@@ -350,7 +517,7 @@ function renderPointsView() {
   els.pointsView.innerHTML = points
     .map(
       (point) => `
-        <article class="cross-point" id="${escapeHtml(point.punkt_id || "")}">
+        <article class="cross-point" id="${escapeHtml(point.punkt_id || "")}" data-point-id="${escapeHtml(point.punkt_id || "")}">
           <h3>${escapeHtml(point.tittel)}</h3>
           ${point.sitat ? `<p class="point-quote">${escapeHtml(point.sitat)}</p>` : ""}
           <p>${escapeHtml(point.forklaring)}</p>
@@ -363,6 +530,7 @@ function renderPointsView() {
               ${escapeHtml(point.video_title)} ↗
             </a>
           </footer>
+          ${pointActionsHtml(point.punkt_id)}
         </article>
       `,
     )
@@ -371,10 +539,102 @@ function renderPointsView() {
   els.status.textContent = pointsStatusText(points.length, total);
 }
 
+function findPointForCollection(entry) {
+  const full = state.fullVideos.get(entry.video_id);
+  if (!full) return null;
+  const point = (full.laeringspunkter || []).find((p) => p.punkt_id === entry.point_id);
+  if (!point) return null;
+  return { point, full };
+}
+
+function ensureCollectionVideosLoaded() {
+  const ids = [...new Set(state.collection.entries.map((e) => e.video_id))];
+  const missing = ids.filter((id) => !state.fullVideos.has(id));
+  if (!missing.length) return Promise.resolve();
+  return Promise.all(
+    missing.map(async (id) => {
+      const summary = state.videos.find((v) => v.video_id === id);
+      if (!summary) return;
+      try {
+        const full = await fetchJson(`data/${summary.data_fil}`);
+        state.fullVideos.set(id, full);
+        updateVideoPointSearch(full);
+      } catch (error) {
+        console.warn(`Kunne ikke laste ${id} for samling:`, error);
+      }
+    }),
+  );
+}
+
+function renderCollectionView() {
+  const entries = state.collection.entries;
+  if (!entries.length) {
+    els.collectionList.innerHTML = `
+      <p class="collection-empty">
+        Samlingen er tom. Klikk «+ Legg i samling» på et læringspunkt for å bygge din egen instruksjonsbok.
+      </p>
+    `;
+    els.status.textContent = "Samling: 0 punkter";
+    return;
+  }
+
+  const cards = entries.map((entry) => {
+    const found = findPointForCollection(entry);
+    if (!found) {
+      return `
+        <article class="collection-card" data-point-id="${escapeHtml(entry.point_id)}">
+          <h3>${escapeHtml(entry.point_id)}</h3>
+          <p class="empty">Kunne ikke laste dette punktet (videoen mangler eller er fjernet).</p>
+          <footer class="collection-card-footer">
+            <button type="button" class="ghost-button danger" data-action="remove-from-collection">Fjern fra samling</button>
+          </footer>
+        </article>
+      `;
+    }
+    const { point, full } = found;
+    const videoUrl = full.video_lenke || full.url || `https://www.youtube.com/watch?v=${full.video_id}`;
+    return `
+      <article class="collection-card" data-point-id="${escapeHtml(point.punkt_id)}">
+        <h3>${escapeHtml(point.tittel)}</h3>
+        ${point.sitat ? `<p class="point-quote">${escapeHtml(point.sitat)}</p>` : ""}
+        <p>${escapeHtml(point.forklaring)}</p>
+        ${point.praktisk_folelse ? `<p class="feel"><strong>Følelse:</strong> ${escapeHtml(point.praktisk_folelse)}</p>` : ""}
+        <div class="video-meta">
+          <button type="button" class="pill" data-topic="${escapeHtml(point.relevans || "annet")}">${escapeHtml(topicLabel(point.relevans || "annet"))}</button>
+        </div>
+        ${noteHtml(point.punkt_id)}
+        <footer class="collection-card-footer">
+          <a class="collection-card-source" href="${escapeHtml(videoUrl)}" target="_blank" rel="noreferrer">
+            ${escapeHtml(full.title || full.video_id)} ↗
+          </a>
+          <button type="button" class="ghost-button danger" data-action="remove-from-collection">Fjern</button>
+        </footer>
+      </article>
+    `;
+  });
+
+  els.collectionList.innerHTML = cards.join("");
+  els.status.textContent = `Samling: ${entries.length} punkter`;
+}
+
 function rerender() {
   updateClearFiltersButton();
   if (state.view === "points") renderPointsView();
+  else if (state.view === "collection") renderCollectionView();
   else renderVideoList();
+}
+
+function refreshPointDecorations(pointId) {
+  if (!pointId) return;
+  const containers = document.querySelectorAll(`[data-point-id="${CSS.escape(pointId)}"] .point-actions`);
+  containers.forEach((container) => {
+    const toggle = container.querySelector('[data-action="toggle-collection"]');
+    if (!toggle) return;
+    const inCollection = isInCollection(pointId);
+    toggle.setAttribute("aria-pressed", String(inCollection));
+    toggle.textContent = inCollection ? "✓ I samling" : "+ Legg i samling";
+  });
+  updateCollectionCount();
 }
 
 async function selectVideo(videoId, { updateHash = true } = {}) {
@@ -383,6 +643,7 @@ async function selectVideo(videoId, { updateHash = true } = {}) {
   try {
     const full = state.fullVideos.get(videoId) || (await fetchJson(`data/${summary.data_fil}`));
     state.fullVideos.set(videoId, full);
+    updateVideoPointSearch(full);
     state.selected = full;
     if (updateHash) {
       const expected = `#${videoId}`;
@@ -428,19 +689,16 @@ function videoIdFromHash() {
   return location.hash.startsWith("#") ? decodeURIComponent(location.hash.slice(1)) : "";
 }
 
-async function loadAllPoints() {
+async function loadAllPoints({ silent = false } = {}) {
   if (state.allPoints || state.pointsLoading) return;
   state.pointsLoading = true;
-  renderPointsView();
+  if (!silent) renderPointsView();
   const results = await Promise.allSettled(
     state.videos.map(async (video) => {
       const full = state.fullVideos.get(video.video_id) || (await fetchJson(`data/${video.data_fil}`));
       state.fullVideos.set(video.video_id, full);
-      return (full.laeringspunkter || []).map((point) => ({
-        ...point,
-        video_id: full.video_id || video.video_id,
-        video_title: full.title || video.title || video.video_id,
-      }));
+      updateVideoPointSearch(full);
+      return (full.laeringspunkter || []).map((point) => preparePoint(point, full, video));
     }),
   );
   const points = results
@@ -455,11 +713,28 @@ async function loadAllPoints() {
   }
   state.allPoints = points;
   state.pointsLoading = false;
-  renderPointsView();
+  if (silent) {
+    if (state.view === "points") renderPointsView();
+    else if (hasActiveFilters()) renderVideoList();
+  } else {
+    renderPointsView();
+  }
+}
+
+function schedulePointPreload() {
+  const preload = () => loadAllPoints({ silent: true }).catch((error) => {
+    console.warn("Kunne ikke forhåndslaste læringspunkter:", error);
+    state.pointsLoading = false;
+  });
+  if ("requestIdleCallback" in window) {
+    window.requestIdleCallback(preload, { timeout: 2500 });
+  } else {
+    window.setTimeout(preload, 800);
+  }
 }
 
 async function setView(view) {
-  if (view !== "videos" && view !== "points") return;
+  if (view !== "videos" && view !== "points" && view !== "collection") return;
   if (state.view === view) return;
   state.view = view;
   saveView();
@@ -471,9 +746,13 @@ async function setView(view) {
   }
   els.videosView.hidden = view !== "videos";
   els.pointsView.hidden = view !== "points";
+  els.collectionView.hidden = view !== "collection";
   if (view === "points") {
     await loadAllPoints();
     renderPointsView();
+  } else if (view === "collection") {
+    await ensureCollectionVideosLoaded();
+    renderCollectionView();
   } else {
     renderVideoList();
   }
@@ -489,7 +768,7 @@ function clearFilters() {
 async function init() {
   try {
     const index = await fetchJson("data/index.json");
-    state.videos = index.videoer || [];
+    state.videos = (index.videoer || []).map(prepareVideo);
     populateTopics();
     for (const tab of els.viewTabs) {
       const active = tab.dataset.view === state.view;
@@ -499,6 +778,8 @@ async function init() {
     }
     els.videosView.hidden = state.view !== "videos";
     els.pointsView.hidden = state.view !== "points";
+    els.collectionView.hidden = state.view !== "collection";
+    updateCollectionCount();
     renderVideoList();
     const initialId = videoIdFromHash();
     const target = (initialId && state.videos.find((v) => v.video_id === initialId)) || state.videos[0];
@@ -506,6 +787,11 @@ async function init() {
       await selectVideo(target.video_id, { updateHash: Boolean(initialId) });
     }
     if (state.view === "points") await loadAllPoints();
+    else if (state.view === "collection") {
+      await ensureCollectionVideosLoaded();
+      renderCollectionView();
+      schedulePointPreload();
+    } else schedulePointPreload();
     updateClearFiltersButton();
   } catch (error) {
     els.status.textContent = "Kunne ikke laste data. Kjør scripts/analyser_hocknull.py først.";
@@ -521,6 +807,206 @@ function debounce(fn, ms) {
   };
 }
 
+const noteSaveTimers = new Map();
+
+function scheduleNoteSave(pointId, value, statusEl) {
+  if (!pointId) return;
+  if (noteSaveTimers.has(pointId)) clearTimeout(noteSaveTimers.get(pointId));
+  if (statusEl) statusEl.textContent = "Lagrer …";
+  const timer = setTimeout(() => {
+    setNote(pointId, value);
+    if (statusEl) {
+      statusEl.textContent = "Lagret lokalt";
+      setTimeout(() => {
+        if (statusEl.textContent === "Lagret lokalt") statusEl.textContent = "";
+      }, 1200);
+    }
+    noteSaveTimers.delete(pointId);
+  }, NOTE_AUTOSAVE_MS);
+  noteSaveTimers.set(pointId, timer);
+}
+
+function findPointActionsContainer(target) {
+  return target.closest(".point-actions");
+}
+
+function handlePointActionClick(event) {
+  const button = event.target.closest('button[data-action]');
+  if (!button) return false;
+  const container = findPointActionsContainer(button);
+  if (!container) return false;
+  const pointId = container.dataset.pointId;
+  if (!pointId) return false;
+  const action = button.dataset.action;
+  if (action === "toggle-collection") {
+    if (isInCollection(pointId)) {
+      removeFromCollection(pointId);
+    } else {
+      const found = findPointInState(pointId);
+      if (!found) return true;
+      addToCollection(found.point, found.video);
+    }
+    refreshPointDecorations(pointId);
+    if (state.view === "collection") renderCollectionView();
+    return true;
+  }
+  if (action === "toggle-note") {
+    const noteEl = container.parentElement?.querySelector(`.point-note[data-point-id="${CSS.escape(pointId)}"]`);
+    if (noteEl) {
+      noteEl.remove();
+      button.setAttribute("aria-expanded", "false");
+      button.textContent = "Skriv notat";
+    } else {
+      container.insertAdjacentHTML("afterend", noteHtml(pointId));
+      button.setAttribute("aria-expanded", "true");
+      button.textContent = "Skjul notat";
+      const newTextarea = container.parentElement?.querySelector(`.point-note[data-point-id="${CSS.escape(pointId)}"] textarea`);
+      newTextarea?.focus();
+    }
+    return true;
+  }
+  return false;
+}
+
+function findPointInState(pointId) {
+  for (const full of state.fullVideos.values()) {
+    const point = (full.laeringspunkter || []).find((p) => p.punkt_id === pointId);
+    if (point) return { point, video: full };
+  }
+  if (state.allPoints) {
+    const point = state.allPoints.find((p) => p.punkt_id === pointId);
+    if (point) {
+      const video = state.fullVideos.get(point.video_id) || { video_id: point.video_id, title: point.video_title };
+      return { point, video };
+    }
+  }
+  return null;
+}
+
+function handleNoteInput(event) {
+  const textarea = event.target.closest('textarea[data-action="note-input"]');
+  if (!textarea) return;
+  const wrapper = textarea.closest(".point-note");
+  if (!wrapper) return;
+  const pointId = wrapper.dataset.pointId;
+  const statusEl = wrapper.querySelector('[data-action="note-status"]');
+  scheduleNoteSave(pointId, textarea.value, statusEl);
+}
+
+function handleRemoveFromCollection(event) {
+  const button = event.target.closest('button[data-action="remove-from-collection"]');
+  if (!button) return false;
+  const card = button.closest(".collection-card");
+  const pointId = card?.dataset.pointId;
+  if (!pointId) return false;
+  removeFromCollection(pointId);
+  refreshPointDecorations(pointId);
+  renderCollectionView();
+  return true;
+}
+
+function buildMarkdown() {
+  const entries = state.collection.entries;
+  if (!entries.length) return "# Min instruksjonsbok\n\n_Ingen punkter lagt til ennå._\n";
+  const lines = ["# Min instruksjonsbok", "", `_Eksportert ${new Date().toISOString().slice(0, 10)} fra Hocknull-appen._`, ""];
+  entries.forEach((entry, index) => {
+    const found = findPointForCollection(entry);
+    if (!found) {
+      lines.push(`## ${index + 1}. ${entry.point_id}`, "", "_Punktet kunne ikke lastes fra videoen._", "");
+      return;
+    }
+    const { point, full } = found;
+    const url = full.video_lenke || full.url || `https://www.youtube.com/watch?v=${full.video_id}`;
+    lines.push(`## ${index + 1}. ${point.tittel}`, "");
+    lines.push(`*Fra:* [${full.title || full.video_id}](${url})`, "");
+    if (point.sitat) lines.push(`> ${point.sitat}`, "");
+    if (point.forklaring) lines.push(point.forklaring, "");
+    if (point.praktisk_folelse) lines.push(`**Følelse:** ${point.praktisk_folelse}`, "");
+    if (point.relevans) lines.push(`*Tema:* ${topicLabel(point.relevans)}`, "");
+    const note = getNote(point.punkt_id);
+    if (note) lines.push("**Eget notat:**", "", note, "");
+    lines.push("---", "");
+  });
+  return lines.join("\n");
+}
+
+function downloadFile(filename, content, mime) {
+  const blob = new Blob([content], { type: mime });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.append(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+function exportMarkdown() {
+  const stamp = new Date().toISOString().slice(0, 10);
+  downloadFile(`hocknull-instruksjonsbok-${stamp}.md`, buildMarkdown(), "text/markdown;charset=utf-8");
+}
+
+function exportJson() {
+  const stamp = new Date().toISOString().slice(0, 10);
+  const payload = JSON.stringify(state.collection, null, 2);
+  downloadFile(`hocknull-samling-${stamp}.json`, payload, "application/json");
+}
+
+async function importJsonFile(file) {
+  if (!file) return;
+  try {
+    const text = await file.text();
+    const parsed = JSON.parse(text);
+    const entries = Array.isArray(parsed?.entries) ? parsed.entries : [];
+    const notes = parsed?.notes && typeof parsed.notes === "object" ? parsed.notes : {};
+    const existingIds = new Set(state.collection.entries.map((e) => e.point_id));
+    let added = 0;
+    for (const entry of entries) {
+      if (!entry?.point_id || !entry?.video_id) continue;
+      if (existingIds.has(entry.point_id)) continue;
+      state.collection.entries.push({
+        point_id: entry.point_id,
+        video_id: entry.video_id,
+        added_at: entry.added_at || new Date().toISOString(),
+      });
+      existingIds.add(entry.point_id);
+      added += 1;
+    }
+    let noteCount = 0;
+    for (const [pointId, value] of Object.entries(notes)) {
+      if (typeof value === "string" && value.trim()) {
+        state.collection.notes[pointId] = value;
+        noteCount += 1;
+      }
+    }
+    saveCollection();
+    updateCollectionCount();
+    if (state.view === "collection") {
+      await ensureCollectionVideosLoaded();
+      renderCollectionView();
+    }
+    alert(`Importert ${added} nye punkter og ${noteCount} notater.`);
+  } catch (error) {
+    console.error(error);
+    alert("Kunne ikke importere fil. Sjekk at det er en gyldig JSON-eksport.");
+  }
+}
+
+function clearCollection() {
+  if (!state.collection.entries.length && !Object.keys(state.collection.notes).length) return;
+  const confirmed = window.confirm(
+    `Tøm hele samlingen og slett ${state.collection.entries.length} punkter og notater? Dette kan ikke angres (eksporter først om du vil ta vare på det).`,
+  );
+  if (!confirmed) return;
+  const affectedIds = state.collection.entries.map((e) => e.point_id);
+  state.collection = { entries: [], notes: {} };
+  saveCollection();
+  updateCollectionCount();
+  affectedIds.forEach(refreshPointDecorations);
+  if (state.view === "collection") renderCollectionView();
+}
+
 els.videoList.addEventListener("click", (event) => {
   const pill = event.target.closest(".pill[data-topic]");
   if (pill) {
@@ -534,11 +1020,15 @@ els.videoList.addEventListener("click", (event) => {
 });
 
 els.details.addEventListener("click", (event) => {
+  if (handlePointActionClick(event)) return;
   const pill = event.target.closest(".pill[data-topic]");
   if (pill) selectByTopic(pill.dataset.topic);
 });
 
+els.details.addEventListener("input", handleNoteInput);
+
 els.pointsView.addEventListener("click", (event) => {
+  if (handlePointActionClick(event)) return;
   const pill = event.target.closest(".pill[data-topic]");
   if (pill) {
     event.preventDefault();
@@ -551,6 +1041,30 @@ els.pointsView.addEventListener("click", (event) => {
     const id = link.dataset.videoId;
     setView("videos").then(() => selectVideo(id));
   }
+});
+
+els.pointsView.addEventListener("input", handleNoteInput);
+
+els.collectionView.addEventListener("click", (event) => {
+  if (handleRemoveFromCollection(event)) return;
+  const pill = event.target.closest(".pill[data-topic]");
+  if (pill) {
+    event.preventDefault();
+    setView("points").then(() => selectByTopic(pill.dataset.topic));
+  }
+});
+
+els.collectionView.addEventListener("input", handleNoteInput);
+
+els.collectionExportMd.addEventListener("click", exportMarkdown);
+els.collectionExportJson.addEventListener("click", exportJson);
+els.collectionClear.addEventListener("click", clearCollection);
+els.collectionImport.addEventListener("click", () => els.collectionImportFile.click());
+els.collectionImportFile.addEventListener("change", (event) => {
+  const file = event.target.files?.[0];
+  importJsonFile(file).finally(() => {
+    event.target.value = "";
+  });
 });
 
 els.videoList.addEventListener("keydown", (event) => {

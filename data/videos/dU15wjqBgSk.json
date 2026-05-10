@@ -1,0 +1,30 @@
+{
+  "video_id": "dU15wjqBgSk",
+  "url": "https://www.youtube.com/watch?v=dU15wjqBgSk",
+  "title": "Fra baseball til golf - knokerotasjon",
+  "temaer": [
+    "grep",
+    "release",
+    "venstre-hand"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer forskjellen mellom baseball-sving og golfsving ved å fokusere på hvordan knokene roterer gjennom treffet.",
+  "laeringspunkter": [
+    {
+      "tittel": "Knokene roterer ned mot bakken i golf",
+      "forklaring": "I baseball lærer man å holde knokene pekende mot kasteren gjennom treffet. I golfsvingen må knokene i stedet rotere nedover mot bakken gjennom nedsvingen og treffet.",
+      "praktisk_folelse": "Kjenn at knokene på den ledende hånden roterer ned mot bakken gjennom ball, i stedet for å holdes flate mot målet som i baseball.",
+      "sitat": "baseball Knuckles toward the target golf remember Knuckles down",
+      "relevans": "release",
+      "punkt_id": "dU15wjqBgSk-01"
+    },
+    {
+      "tittel": "Forstå forskjellen i bevegelsesmønster",
+      "forklaring": "Baseballspillere som går over til golf må omprogrammere håndleddsbevegelsen, fordi den horisontale slagbevegelsen i baseball ikke fungerer i golfsvingen.",
+      "praktisk_folelse": "Bytt fra horisontal slagfølelse til en rotasjon der hendene vrir kølleflaten gjennom treffet.",
+      "sitat": "in the golf swing it's different when you come through you actually want your knuckles to rotate down to the ground",
+      "relevans": "grep",
+      "punkt_id": "dU15wjqBgSk-02"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=dU15wjqBgSk"
+}

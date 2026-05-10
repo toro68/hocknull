@@ -1,0 +1,64 @@
+{
+  "video_id": "MHg2PCH3r4Y",
+  "url": "https://www.youtube.com/watch?v=MHg2PCH3r4Y",
+  "title": "Timing av 'hammer down'-release for ulike køller",
+  "temaer": [
+    "release",
+    "timing",
+    "driver",
+    "wedge",
+    "ballflight"
+  ],
+  "kort_sammendrag": "Craig Hocknull forklarer hvordan timingen av release ('hammer down') varierer mellom driver, jern og wedge, og hvordan feil timing påvirker treff og ballflukt.",
+  "laeringspunkter": [
+    {
+      "tittel": "Tidlig release med driver",
+      "forklaring": "Med driver er skaftet lengre og svingbuen større, så du må begynne å akselerere køllehodet ut tidligere slik at det rekker å time seg riktig gjennom ballen. Releasepunktet føles høyere/lengre bak deg.",
+      "praktisk_folelse": "Føl at du 'kaster' saberen/køllen ut i hoftehøyde – som å treffe et rekkverk bak deg.",
+      "sitat": "you need to get this end accelerating out sooner so that it times up well",
+      "relevans": "driver",
+      "punkt_id": "MHg2PCH3r4Y-01"
+    },
+    {
+      "tittel": "Senere release med jern (ca. 7-jern)",
+      "forklaring": "Med et midt-jern skapes litt lag i nedsvingen, og release-punktet hvor skaftet er parallelt med bakken kommer senere – omtrent i stolhøyde mellom midje og kne.",
+      "praktisk_folelse": "Roter hoftene, hold litt lag, og slipp køllen ut når hendene er lavere enn med driver.",
+      "sitat": "that little bit of lag allows this to now be level to the ground",
+      "relevans": "timing",
+      "punkt_id": "MHg2PCH3r4Y-02"
+    },
+    {
+      "tittel": "Sen release med wedge",
+      "forklaring": "På wedge skal armene trekkes lavere og lengre ned før akselerasjon, slik at du får en nedadgående treffvinkel og rent treff. Release skjer nærmere knehøyde – som å legge køllen på et salongbord før du slipper.",
+      "praktisk_folelse": "Føl at armene 'lower longer', legg saberen oppå salongbordet før du gir akselerasjon med hendene.",
+      "sitat": "lay that saber right on top of the coffee table before you give it that acceleration",
+      "relevans": "wedge",
+      "punkt_id": "MHg2PCH3r4Y-03"
+    },
+    {
+      "tittel": "For tidlig release = fett treff og hook",
+      "forklaring": "Hvis du kaster køllen ut for tidlig på korte køller, kommer bunnpunktet før ballen, og kølleflaten lukkes – fett treff eller hook/draw.",
+      "praktisk_folelse": "Hvis du chunker eller hooker: hold lag lenger, slipp køllen senere.",
+      "sitat": "if you throw it out early you're probably going to run into the ground early",
+      "relevans": "ballflight",
+      "punkt_id": "MHg2PCH3r4Y-04"
+    },
+    {
+      "tittel": "For sen release = tynt treff og fade",
+      "forklaring": "Hvis du holder for mye lag, prøver kroppen å reise seg/clear, bunnpunktet kommer for sent, kølleflaten åpner seg – tynt treff som kuttes ut til høyre.",
+      "praktisk_folelse": "Hvis du tynner og fader: kast køllen ut tidligere, høyere oppe i svingen.",
+      "sitat": "if you're hitting it thin and fading it you got to throw it out early",
+      "relevans": "ballflight",
+      "punkt_id": "MHg2PCH3r4Y-05"
+    },
+    {
+      "tittel": "Bruk ballflukt til å diagnostisere timing",
+      "forklaring": "Ballfluktens kurvatur forteller deg om release-timingen din: hook/fett = for tidlig, fade/tynn = for sen.",
+      "praktisk_folelse": "Les ballflukt og juster hvor i svingen du føler at akselerasjonen skjer.",
+      "sitat": "you'll see some curvature that is complementary to those maneuvers",
+      "relevans": "ballflight",
+      "punkt_id": "MHg2PCH3r4Y-06"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=MHg2PCH3r4Y"
+}

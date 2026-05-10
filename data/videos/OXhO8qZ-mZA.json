@@ -1,0 +1,56 @@
+{
+  "video_id": "OXhO8qZ-mZA",
+  "url": "https://www.youtube.com/watch?v=OXhO8qZ-mZA",
+  "title": "Finn avstandene i bunker med ulike wedger",
+  "temaer": [
+    "bunker",
+    "wedge",
+    "avstandskontroll",
+    "setup",
+    "grep"
+  ],
+  "kort_sammendrag": "Craig Hocknull viser hvordan du kalibrerer bunkerslag med 60, 56 og 52 grader ved å bruke samme halvsving og la utslagene avsløre avstandene.",
+  "laeringspunkter": [
+    {
+      "tittel": "Kalibrer bunkeravstander med flere wedger",
+      "forklaring": "Bruk samme svinglengde og kraft med 60, 56 og 52 grader fra bunker. Hver kølle vil sende ballen litt lenger, og du kan gå opp og måle avstandene for å vite hva hver kølle gir.",
+      "praktisk_folelse": "Slå halvveis tilbake, halvveis gjennom med samme energi i alle tre wedgene, og observer avstanden i stedet for å sikte mot et mål.",
+      "sitat": "instead of trying to hit your bunker shots... just hit them out of the bunker and let that experience reveal to you how far they go",
+      "relevans": "avstandskontroll",
+      "punkt_id": "OXhO8qZ-mZA-01"
+    },
+    {
+      "tittel": "Standard bunker-setup",
+      "forklaring": "Ballposisjon litt frem i stansen og stansen kun lett åpen, ikke vidåpen. Dette er en enklere og mer repeterbar oppstilling.",
+      "praktisk_folelse": "Føl deg balansert med en knapt åpen stanse, ikke overdrevet åpen.",
+      "sitat": "I'm not a big prescriber to a wide open stance, slight and slight",
+      "relevans": "setup",
+      "punkt_id": "OXhO8qZ-mZA-02"
+    },
+    {
+      "tittel": "Grav føttene ned uten å gripe ned",
+      "forklaring": "Når du graver føttene i sanden senker du svingbunnen slik at du treffer sand før ball. Hvis du i tillegg griper ned på køllen, opphever du effekten og risikerer å blade slaget.",
+      "praktisk_folelse": "Behold fullt grep på køllen og stol på at de nedgravde føttene sørger for at sanden tas først.",
+      "sitat": "if I then grip down it cancels it out and I'm going to blade it",
+      "relevans": "grep",
+      "punkt_id": "OXhO8qZ-mZA-03"
+    },
+    {
+      "tittel": "Halvveis tilbake, halvveis gjennom",
+      "forklaring": "Bruk en konsekvent halvsving som referanseslag for alle wedgene i bunker. Lik kraft + ulik loft = ulik avstand.",
+      "praktisk_folelse": "Tenk symmetrisk svinglengde med en liten splash i sanden.",
+      "sitat": "halfway back, halfway through... nice little splash of the sand",
+      "relevans": "bunker",
+      "punkt_id": "OXhO8qZ-mZA-04"
+    },
+    {
+      "tittel": "Føttene gravd ned sikrer sand-først-kontakt",
+      "forklaring": "Det å grave føttene gjør automatisk at lavpunktet kommer bak ballen, noe som er avgjørende for et godt bunkerslag.",
+      "praktisk_folelse": "Kjenn at føttene står stødig under sandnivået før du svinger.",
+      "sitat": "digging your feet... ensures that you're going to hit the sand before the ball",
+      "relevans": "bunker",
+      "punkt_id": "OXhO8qZ-mZA-05"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=OXhO8qZ-mZA"
+}

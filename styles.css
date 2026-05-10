@@ -376,6 +376,338 @@ select {
   outline-offset: 1px;
 }
 
+.ghost-button.danger {
+  border-color: rgba(220, 70, 70, 0.4);
+  color: #b53b3b;
+}
+
+.ghost-button.danger:hover {
+  background: rgba(220, 70, 70, 0.08);
+}
+
+.tab-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 18px;
+  margin-left: 6px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--panel);
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.point-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.point-actions .ghost-button {
+  font-size: 12px;
+  padding: 4px 10px;
+}
+
+.point-note {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  background: var(--panel-soft);
+}
+
+.point-note label {
+  display: block;
+  font-size: 12px;
+  font-weight: 650;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.point-note textarea {
+  width: 100%;
+  min-height: 70px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--panel);
+  color: var(--text);
+  font: inherit;
+  font-size: 14px;
+  padding: 8px 10px;
+  resize: vertical;
+}
+
+.point-note textarea:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.point-note-status {
+  margin-top: 6px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.collection-view {
+  display: grid;
+  gap: 16px;
+}
+
+.collection-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 22px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
+
+.collection-header h2 {
+  margin: 0 0 4px;
+  font-size: 22px;
+  letter-spacing: -0.005em;
+}
+
+.collection-intro {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  max-width: 540px;
+}
+
+.collection-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.collection-list {
+  display: grid;
+  gap: 16px;
+}
+
+.collection-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  padding: 20px 24px;
+}
+
+.collection-card h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  letter-spacing: -0.005em;
+  max-width: var(--measure);
+}
+
+.collection-card p {
+  margin: 6px 0;
+  max-width: var(--measure);
+}
+
+.collection-card .point-quote {
+  margin: 0 0 12px;
+  padding: 12px 14px;
+  border-left: 3px solid var(--accent);
+  background: var(--quote-bg);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  max-width: var(--measure);
+}
+
+.collection-card .feel {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--line);
+  color: var(--muted);
+  max-width: var(--measure);
+}
+
+.collection-card .feel strong {
+  color: var(--text);
+}
+
+.collection-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.collection-card-source {
+  color: var(--accent-strong);
+  text-decoration: none;
+  font-weight: 650;
+  font-size: 13px;
+}
+
+.collection-card-source:hover {
+  text-decoration: underline;
+}
+
+.collection-empty {
+  padding: 24px;
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  background: var(--panel-soft);
+  color: var(--muted);
+}
+
+.laerebok-toc {
+  margin: 0 0 24px;
+  padding: 18px 22px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
+
+.laerebok-toc strong {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+  letter-spacing: 0.04em;
+}
+
+.laerebok-toc ol {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 4px 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.laerebok-toc a {
+  display: block;
+  padding: 4px 0;
+  color: var(--accent-strong);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.laerebok-toc a:hover {
+  text-decoration: underline;
+}
+
+.laerebok-toc .toc-num {
+  color: var(--muted);
+  margin-right: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
+.laerebok {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  padding: 32px 40px;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.laerebok h1 {
+  margin: 0 0 12px;
+  font-size: 30px;
+  letter-spacing: -0.01em;
+}
+
+.laerebok h2 {
+  margin: 36px 0 14px;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line);
+  scroll-margin-top: 12px;
+}
+
+.laerebok h3 {
+  margin: 24px 0 10px;
+  font-size: 18px;
+  color: var(--accent-strong);
+  scroll-margin-top: 12px;
+}
+
+.laerebok p {
+  margin: 10px 0;
+  max-width: var(--measure);
+}
+
+.laerebok ul,
+.laerebok ol {
+  margin: 10px 0;
+  padding-left: 24px;
+  max-width: var(--measure);
+}
+
+.laerebok li {
+  margin: 4px 0;
+}
+
+.laerebok blockquote {
+  margin: 16px 0;
+  padding: 12px 18px;
+  border-left: 3px solid var(--accent);
+  background: var(--quote-bg);
+  border-radius: 0 8px 8px 0;
+  color: var(--text);
+  max-width: var(--measure);
+}
+
+.laerebok hr {
+  margin: 32px 0;
+  border: 0;
+  border-top: 1px solid var(--line);
+}
+
+.laerebok strong {
+  color: var(--text);
+}
+
+.laerebok a {
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-decoration-color: rgba(24, 73, 59, 0.3);
+}
+
+.laerebok a:hover {
+  text-decoration-color: var(--accent-strong);
+}
+
+.laerebok code {
+  background: var(--pill-bg);
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+@media (max-width: 780px) {
+  .laerebok {
+    padding: 22px 20px;
+  }
+
+  .laerebok-toc ol {
+    grid-template-columns: 1fr;
+  }
+}
+
 .details h2 {
   margin: 0;
   font-size: 26px;

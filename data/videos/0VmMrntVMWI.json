@@ -9,7 +9,8 @@
     "kropp",
     "pressure",
     "hoyre-hand",
-    "timing"
+    "timing",
+    "ballflight"
   ],
   "kort_sammendrag": "Hocknull oppsummerer en leksjon om å skape fart ved å slynge hele armen og køllen rundt en stabil kroppsakse. Spilleren skal ikke guide eller stoppe etter ballen, men fullføre flingen symmetrisk og sentrert.",
   "laeringspunkter": [
@@ -60,6 +61,22 @@
       "sitat": "whether you guide it or fling it full speed you still only get a millisecond",
       "relevans": "release",
       "punkt_id": "0VmMrntVMWI-06"
+    },
+    {
+      "tittel": "Prøv mindre for å gå fra 7 til 9",
+      "forklaring": "Når kontakten er en 7/10, er løsningen ikke å prøve hardere men å prøve mindre: løsne grepet, løsne skuldrene, stol på bevegelsen. Hocknull demonstrerer at dette løfter spilleren fra 7 til 9 av 10.",
+      "praktisk_folelse": "Hvis du merker du prøver for hardt: løsne grepet bevisst, slapp av i skuldrene og repeter følelsen fra siste gode prøvesving.",
+      "sitat": "in order to go from a seven to a ten I need you to try less... we went from a seven to a nine by trying less and effectively trusting more",
+      "relevans": "timing",
+      "punkt_id": "0VmMrntVMWI-07"
+    },
+    {
+      "tittel": "Halv fling gir venstremiss — fullstendig fling gir draw",
+      "forklaring": "Hocknull observerer at når spilleren bare fullfører halv fling, drifter ballen venstre uten å komme tilbake. Når flingen fullføres hele veien rundt kroppen, får spilleren draw. Dette er nyttig diagnostikk på banen.",
+      "praktisk_folelse": "Hvis ballen konsekvent driver venstre uten draw-kurve: sjekk om du stopper flingen halvveis og ikke lar armene fullføre sirkelen.",
+      "sitat": "when you got half the fling correct the ball was kind of drifting out to the left, when we got the completion of the fling you got the draw",
+      "relevans": "ballflight",
+      "punkt_id": "0VmMrntVMWI-08"
     }
   ]
 }

@@ -1,0 +1,97 @@
+{
+  "video_id": "ZvJuiNGPKj4",
+  "url": "https://www.youtube.com/watch?v=ZvJuiNGPKj4",
+  "title": "Slik bruker du Trackman-simulator i treningsøkten",
+  "temaer": [
+    "trening",
+    "oppvarming",
+    "utstyr",
+    "ballflight",
+    "setup",
+    "mental"
+  ],
+  "kort_sammendrag": "Craig Hocknull viser hvordan han setter opp en Trackman-økt, varmer opp med Saber-treningskøllen og forklarer hvilke nøkkeltall han fokuserer på før han begynner å analysere svingen.",
+  "laeringspunkter": [
+    {
+      "tittel": "Logg inn på Trackman-appen før økten",
+      "forklaring": "Last ned Trackman Golf-appen og logg inn med samme konto på datamaskinen slik at all data fra økten synkroniseres til telefonen og kan ses i ettertid.",
+      "praktisk_folelse": "Skann QR-koden med appen for å koble deg til, og velg 'Shot Analysis' slik at dataene lagres.",
+      "sitat": "when you do shot analysis that's when the information gets synced up to your app",
+      "relevans": "trening",
+      "punkt_id": "ZvJuiNGPKj4-01"
+    },
+    {
+      "tittel": "Velg få og relevante datafelt",
+      "forklaring": "For mye informasjon distraherer. Bruk input/outcome-par: køllehastighet → carry, club path → curve, face angle og face-to-path → side. Det gir oversikt uten overload.",
+      "praktisk_folelse": "Fjern alle standardfliser og legg kun til de fem-seks nøkkeltallene du faktisk vil følge.",
+      "sitat": "if you have too much information you're just going to get distracted",
+      "relevans": "trening",
+      "punkt_id": "ZvJuiNGPKj4-02"
+    },
+    {
+      "tittel": "Forstå at simulator-ballflukten er en illusjon",
+      "forklaring": "På skjermen kan ballen se ut som den nesten flyr rett, men 'side carry' kan likevel vise 10 yards offline. Stol på tallene for kurve og side, ikke på det visuelle bildet.",
+      "praktisk_folelse": "Sjekk side- og curve-tallene aktivt for å forstå hvor mye ballen faktisk krummer.",
+      "sitat": "sometimes it appears that you're only you know a millimeter offline but then you find out that your side total or your side carry distance is 10 yards offline",
+      "relevans": "ballflight",
+      "punkt_id": "ZvJuiNGPKj4-03"
+    },
+    {
+      "tittel": "Strekk og varm opp grundig før første ball",
+      "forklaring": "Bruk overhead-strekk, sidebøy, rotasjoner med kølle bak nakken og lette/tunge svinger med treningskølle for å løsne skuldre, hofter og håndledd i begge retninger.",
+      "praktisk_folelse": "Kjenn at kroppen er like tøyd på begge sider før du tar første slag.",
+      "sitat": "it's important to make sure that your body feels stretched kind of similarly in both directions",
+      "relevans": "oppvarming",
+      "punkt_id": "ZvJuiNGPKj4-04"
+    },
+    {
+      "tittel": "Bruk en alignment-pinne for konsistent oppstilling",
+      "forklaring": "Legg en justeringspinne på bakken parallelt med mållinjen og bruk ballposisjonsmarkører slik at du setter opp likt hver gang.",
+      "praktisk_folelse": "Følelsen av at føttene står parallelt med målet, slik at variasjon kommer fra svingen og ikke setupen.",
+      "sitat": "I use it as an alignment for my feet",
+      "relevans": "setup",
+      "punkt_id": "ZvJuiNGPKj4-05"
+    },
+    {
+      "tittel": "De første 20 slagene teller ikke",
+      "forklaring": "Bruk de første slagene kun til å våkne opp kroppen. Ikke begynn å analysere data eller hente selvtillit fra et tilfeldig godt eller dårlig slag tidlig.",
+      "praktisk_folelse": "Sving fritt uten å bry deg om hvor ballen går – du er fortsatt i oppvarmingsmodus.",
+      "sitat": "the next 20 shots don't care about because all I'm trying to do is get my mind wrapped around swinging",
+      "relevans": "trening",
+      "punkt_id": "ZvJuiNGPKj4-06"
+    },
+    {
+      "tittel": "Velg en 'pluk-rein' kølle til oppvarming på matte",
+      "forklaring": "En femjern lar deg sveipe ballen rent uten å måtte bekymre deg for angrepsvinkel eller divot. Hardt nedslag i matten kan belaste håndledd, albuer og skuldre.",
+      "praktisk_folelse": "Sving som om du fortsetter bevegelsen fra treningskøllen – plukk ballen rent uten å treffe matten hardt.",
+      "sitat": "when you are practicing on a mat you get in here and you start thumping that mat super hard... you're probably going to cause some stresses and strains",
+      "relevans": "trening",
+      "punkt_id": "ZvJuiNGPKj4-07"
+    },
+    {
+      "tittel": "Vær forsiktig med tidlig analyse",
+      "forklaring": "Et 1-tommer slag og et 35-fots slag kan kjennes likt når du ikke er varm. Å lese tall før kroppen er klar gir deg feil konklusjoner i begge retninger.",
+      "praktisk_folelse": "Vent med å se på tall til du har hatt nok svinger til å stole på bevegelsen.",
+      "sitat": "if you start an analyzing before you're actually warmed up you're doing yourself a disservice",
+      "relevans": "mental",
+      "punkt_id": "ZvJuiNGPKj4-08"
+    },
+    {
+      "tittel": "Les gjennomsnitt og varians, ikke enkeltslag",
+      "forklaring": "Trackman viser snitt nede til venstre og varians (topp til bunn) nede til høyre på hver flis. Bruk disse for å se trender, ikke enkeltslag.",
+      "praktisk_folelse": "Sjekk om snittkurven er for eksempel 13 fot høyre med ±14 fot varians for å forstå mønsteret ditt.",
+      "sitat": "bottom left is your average... bottom right is the variance",
+      "relevans": "trening",
+      "punkt_id": "ZvJuiNGPKj4-09"
+    },
+    {
+      "tittel": "Bruk riktig fottøy og rent utstyr i simulator",
+      "forklaring": "Selv om miljøet er klimakontrollert, anbefales det å bruke ekte golfsko og rene køller når du trener seriøst, slik at det overføres bedre til banen.",
+      "praktisk_folelse": "Behandle simulatorøkten som en bane-økt – riktig fottøy gir riktig fotarbeid.",
+      "sitat": "if you are really practicing for real... wear your actual golf shoes that you're going to play in",
+      "relevans": "utstyr",
+      "punkt_id": "ZvJuiNGPKj4-10"
+    }
+  ],
+  "video_lenke": "https://www.youtube.com/watch?v=ZvJuiNGPKj4"
+}
